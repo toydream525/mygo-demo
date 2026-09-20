@@ -1,0 +1,386 @@
+[
+  {
+    "file": "sakiko-0-v2.mp3",
+    "speaker": "祥子",
+    "lengthScale": 1.03,
+    "text": "ご一緒しても、よろしいかしら。",
+    "serviceStatus": "Berhasil Membuat ✅! (Speaker: 祥子)",
+    "status": "generated"
+  },
+  {
+    "file": "sakiko-1-v2.mp3",
+    "speaker": "祥子",
+    "lengthScale": 1.03,
+    "text": "私に任せていただけますか。",
+    "serviceStatus": "Berhasil Membuat ✅! (Speaker: 祥子)",
+    "status": "generated"
+  },
+  {
+    "file": "sakiko-2-v2.mp3",
+    "speaker": "祥子",
+    "lengthScale": 1.03,
+    "text": "では、こちらを。",
+    "serviceStatus": "Berhasil Membuat ✅! (Speaker: 祥子)",
+    "status": "generated"
+  },
+  {
+    "file": "sakiko-3-v2.mp3",
+    "speaker": "祥子",
+    "lengthScale": 1.03,
+    "text": "ここは、見送りますわ。",
+    "serviceStatus": "Berhasil Membuat ✅! (Speaker: 祥子)",
+    "status": "generated"
+  },
+  {
+    "file": "sakiko-4-v2.mp3",
+    "speaker": "祥子",
+    "lengthScale": 1.03,
+    "text": "うまくつながりましたね。",
+    "serviceStatus": "Berhasil Membuat ✅! (Speaker: 祥子)",
+    "status": "generated"
+  },
+  {
+    "file": "sakiko-5-v2.mp3",
+    "speaker": "祥子",
+    "lengthScale": 1.03,
+    "text": "この調子で、参りましょう。",
+    "serviceStatus": "Berhasil Membuat ✅! (Speaker: 祥子)",
+    "status": "generated"
+  },
+  {
+    "file": "sakiko-6-v2.mp3",
+    "speaker": "祥子",
+    "lengthScale": 1.03,
+    "text": "まだ、続きますわ。",
+    "serviceStatus": "Berhasil Membuat ✅! (Speaker: 祥子)",
+    "status": "generated"
+  },
+  {
+    "file": "sakiko-7-v2.mp3",
+    "speaker": "祥子",
+    "lengthScale": 1.03,
+    "text": "ここで、決めます。",
+    "serviceStatus": "Berhasil Membuat ✅! (Speaker: 祥子)",
+    "status": "generated"
+  },
+  {
+    "file": "sakiko-8-v2.mp3",
+    "speaker": "祥子",
+    "lengthScale": 1.03,
+    "text": "少し、確かめさせてください。",
+    "serviceStatus": "Berhasil Membuat ✅! (Speaker: 祥子)",
+    "status": "generated"
+  },
+  {
+    "file": "sakiko-9-v2.mp3",
+    "speaker": "祥子",
+    "lengthScale": 1.03,
+    "text": "あと少し。慎重に参りましょう。",
+    "serviceStatus": "Berhasil Membuat ✅! (Speaker: 祥子)",
+    "status": "generated"
+  },
+  {
+    "file": "sakiko-10-v2.mp3",
+    "speaker": "祥子",
+    "lengthScale": 1.03,
+    "text": "急がなくても、大丈夫ですわ。",
+    "serviceStatus": "Berhasil Membuat ✅! (Speaker: 祥子)",
+    "status": "generated"
+  },
+  {
+    "file": "sakiko-11-v2.mp3",
+    "speaker": "祥子",
+    "lengthScale": 1.03,
+    "text": "助かりました。ありがとう。",
+    "serviceStatus": "Berhasil Membuat ✅! (Speaker: 祥子)",
+    "status": "generated"
+  },
+  {
+    "file": "sakiko-12-v2.mp3",
+    "speaker": "祥子",
+    "lengthScale": 1.03,
+    "text": "次は、私がつなぎます。",
+    "serviceStatus": "Berhasil Membuat ✅! (Speaker: 祥子)",
+    "status": "generated"
+  },
+  {
+    "file": "sakiko-13-v2.mp3",
+    "speaker": "祥子",
+    "lengthScale": 1.03,
+    "text": "よかった。ご一緒できて、うれしかったですわ。",
+    "serviceStatus": "Berhasil Membuat ✅! (Speaker: 祥子)",
+    "status": "generated"
+  },
+  {
+    "file": "sakiko-14-v2.mp3",
+    "speaker": "祥子",
+    "lengthScale": 1.03,
+    "text": "私の判断が、甘かったようです。",
+    "serviceStatus": "Berhasil Membuat ✅! (Speaker: 祥子)",
+    "status": "generated"
+  },
+  {
+    "file": "sakiko-15-v2.mp3",
+    "speaker": "祥子",
+    "lengthScale": 1.03,
+    "text": "どうぞ。お待ちしています。",
+    "serviceStatus": "Berhasil Membuat ✅! (Speaker: 祥子)",
+    "status": "generated"
+  },
+  {
+    "file": "sakiko-16-v2.mp3",
+    "speaker": "祥子",
+    "lengthScale": 1.03,
+    "text": "いらしていたのですね。少し、ご一緒しませんか。",
+    "serviceStatus": "Berhasil Membuat ✅! (Speaker: 祥子)",
+    "status": "generated"
+  },
+  {
+    "file": "sakiko-17-v2.mp3",
+    "speaker": "祥子",
+    "lengthScale": 1.03,
+    "text": "練習も終わりましたし、少しだけ。",
+    "serviceStatus": "Berhasil Membuat ✅! (Speaker: 祥子)",
+    "status": "generated"
+  },
+  {
+    "file": "sakiko-18-v2.mp3",
+    "speaker": "祥子",
+    "lengthScale": 1.03,
+    "text": "こちらのお席、空いていますわ。",
+    "serviceStatus": "Berhasil Membuat ✅! (Speaker: 祥子)",
+    "status": "generated"
+  },
+  {
+    "file": "sakiko-19-v2.mp3",
+    "speaker": "祥子",
+    "lengthScale": 1.03,
+    "text": "よろしくお願いいたします。",
+    "serviceStatus": "Berhasil Membuat ✅! (Speaker: 祥子)",
+    "status": "generated"
+  },
+  {
+    "file": "sakiko-20-v2.mp3",
+    "speaker": "祥子",
+    "lengthScale": 1.03,
+    "text": "落ち着いて、一枚ずつ。",
+    "serviceStatus": "Berhasil Membuat ✅! (Speaker: 祥子)",
+    "status": "generated"
+  },
+  {
+    "file": "sakiko-21-v2.mp3",
+    "speaker": "祥子",
+    "lengthScale": 1.03,
+    "text": "もう一度、お相手いただけますか。",
+    "serviceStatus": "Berhasil Membuat ✅! (Speaker: 祥子)",
+    "status": "generated"
+  },
+  {
+    "file": "sakiko-22-v2.mp3",
+    "speaker": "祥子",
+    "lengthScale": 1.03,
+    "text": "これで、いかがかしら。",
+    "serviceStatus": "Berhasil Membuat ✅! (Speaker: 祥子)",
+    "status": "generated"
+  },
+  {
+    "file": "sakiko-23-v2.mp3",
+    "speaker": "祥子",
+    "lengthScale": 1.03,
+    "text": "今は、お譲りします。",
+    "serviceStatus": "Berhasil Membuat ✅! (Speaker: 祥子)",
+    "status": "generated"
+  },
+  {
+    "file": "mutsumi-mortis-0-v2.mp3",
+    "speaker": "睦",
+    "lengthScale": 0.92,
+    "text": "ねえ、一緒にやろうよ！",
+    "serviceStatus": "Berhasil Membuat ✅! (Speaker: 睦)",
+    "status": "generated"
+  },
+  {
+    "file": "mutsumi-mortis-1-v2.mp3",
+    "speaker": "睦",
+    "lengthScale": 0.92,
+    "text": "はいはい、私に任せて！",
+    "serviceStatus": "Berhasil Membuat ✅! (Speaker: 睦)",
+    "status": "generated"
+  },
+  {
+    "file": "mutsumi-mortis-2-v2.mp3",
+    "speaker": "睦",
+    "lengthScale": 0.92,
+    "text": "じゃあ、これっ！",
+    "serviceStatus": "Berhasil Membuat ✅! (Speaker: 睦)",
+    "status": "generated"
+  },
+  {
+    "file": "mutsumi-mortis-3-v2.mp3",
+    "speaker": "睦",
+    "lengthScale": 0.92,
+    "text": "んー、今回はパス！",
+    "serviceStatus": "Berhasil Membuat ✅! (Speaker: 睦)",
+    "status": "generated"
+  },
+  {
+    "file": "mutsumi-mortis-4-v2.mp3",
+    "speaker": "睦",
+    "lengthScale": 0.92,
+    "text": "見て、きれいにつながった！",
+    "serviceStatus": "Berhasil Membuat ✅! (Speaker: 睦)",
+    "status": "generated"
+  },
+  {
+    "file": "mutsumi-mortis-5-v2.mp3",
+    "speaker": "睦",
+    "lengthScale": 0.92,
+    "text": "いい感じ！このままいこう！",
+    "serviceStatus": "Berhasil Membuat ✅! (Speaker: 睦)",
+    "status": "generated"
+  },
+  {
+    "file": "mutsumi-mortis-6-v2.mp3",
+    "speaker": "睦",
+    "lengthScale": 0.92,
+    "text": "まだまだ！ほら、続くよ！",
+    "serviceStatus": "Berhasil Membuat ✅! (Speaker: 睦)",
+    "status": "generated"
+  },
+  {
+    "file": "mutsumi-mortis-7-v2.mp3",
+    "speaker": "睦",
+    "lengthScale": 0.92,
+    "text": "びっくりした？ふふっ。",
+    "serviceStatus": "Berhasil Membuat ✅! (Speaker: 睦)",
+    "status": "generated"
+  },
+  {
+    "file": "mutsumi-mortis-8-v2.mp3",
+    "speaker": "睦",
+    "lengthScale": 0.92,
+    "text": "ちょっと気になっちゃった。見せて？",
+    "serviceStatus": "Berhasil Membuat ✅! (Speaker: 睦)",
+    "status": "generated"
+  },
+  {
+    "file": "mutsumi-mortis-9-v2.mp3",
+    "speaker": "睦",
+    "lengthScale": 0.92,
+    "text": "あ、もう終わっちゃう？",
+    "serviceStatus": "Berhasil Membuat ✅! (Speaker: 睦)",
+    "status": "generated"
+  },
+  {
+    "file": "mutsumi-mortis-10-v2.mp3",
+    "speaker": "睦",
+    "lengthScale": 0.92,
+    "text": "ねえ、静かにならないでよ。おしゃべりしよう？",
+    "serviceStatus": "Berhasil Membuat ✅! (Speaker: 睦)",
+    "status": "generated"
+  },
+  {
+    "file": "mutsumi-mortis-11-v2.mp3",
+    "speaker": "睦",
+    "lengthScale": 0.92,
+    "text": "ありがと！やっぱり、一緒だと楽しいね。",
+    "serviceStatus": "Berhasil Membuat ✅! (Speaker: 睦)",
+    "status": "generated"
+  },
+  {
+    "file": "mutsumi-mortis-12-v2.mp3",
+    "speaker": "睦",
+    "lengthScale": 0.92,
+    "text": "大丈夫、大丈夫。次は私がやるから！",
+    "serviceStatus": "Berhasil Membuat ✅! (Speaker: 睦)",
+    "status": "generated"
+  },
+  {
+    "file": "mutsumi-mortis-13-v2.mp3",
+    "speaker": "睦",
+    "lengthScale": 0.92,
+    "text": "やった！ね、もう一回やろう！",
+    "serviceStatus": "Berhasil Membuat ✅! (Speaker: 睦)",
+    "status": "generated"
+  },
+  {
+    "file": "mutsumi-mortis-14-v2.mp3",
+    "speaker": "睦",
+    "lengthScale": 0.92,
+    "text": "あはは、負けちゃった。ね、次も付き合って？",
+    "serviceStatus": "Berhasil Membuat ✅! (Speaker: 睦)",
+    "status": "generated"
+  },
+  {
+    "file": "mutsumi-mortis-15-v2.mp3",
+    "speaker": "睦",
+    "lengthScale": 0.92,
+    "text": "次はあなた！ゆっくりでいいよ。",
+    "serviceStatus": "Berhasil Membuat ✅! (Speaker: 睦)",
+    "status": "generated"
+  },
+  {
+    "file": "mutsumi-mortis-16-v2.mp3",
+    "speaker": "睦",
+    "lengthScale": 0.92,
+    "text": "あ、来てくれた！待ってたんだよ。",
+    "serviceStatus": "Berhasil Membuat ✅! (Speaker: 睦)",
+    "status": "generated"
+  },
+  {
+    "file": "mutsumi-mortis-17-v2.mp3",
+    "speaker": "睦",
+    "lengthScale": 0.92,
+    "text": "今日は何して遊ぶ？私も混ぜて！",
+    "serviceStatus": "Berhasil Membuat ✅! (Speaker: 睦)",
+    "status": "generated"
+  },
+  {
+    "file": "mutsumi-mortis-18-v2.mp3",
+    "speaker": "睦",
+    "lengthScale": 0.92,
+    "text": "睦はちょっとお休み。今日は私と遊ぼう？",
+    "serviceStatus": "Berhasil Membuat ✅! (Speaker: 睦)",
+    "status": "generated"
+  },
+  {
+    "file": "mutsumi-mortis-19-v2.mp3",
+    "speaker": "睦",
+    "lengthScale": 0.92,
+    "text": "みんな座った？じゃ、始めよっか！",
+    "serviceStatus": "Berhasil Membuat ✅! (Speaker: 睦)",
+    "status": "generated"
+  },
+  {
+    "file": "mutsumi-mortis-20-v2.mp3",
+    "speaker": "睦",
+    "lengthScale": 0.92,
+    "text": "もう少しだけ、ここにいようよ。",
+    "serviceStatus": "Berhasil Membuat ✅! (Speaker: 睦)",
+    "status": "generated"
+  },
+  {
+    "file": "mutsumi-mortis-21-v2.mp3",
+    "speaker": "睦",
+    "lengthScale": 0.92,
+    "text": "まだ帰らないで。もう一回だけ、ね？",
+    "serviceStatus": "Berhasil Membuat ✅! (Speaker: 睦)",
+    "status": "generated"
+  },
+  {
+    "file": "mutsumi-mortis-22-v2.mp3",
+    "speaker": "睦",
+    "lengthScale": 0.92,
+    "text": "こっちはどう？いいでしょ！",
+    "serviceStatus": "Berhasil Membuat ✅! (Speaker: 睦)",
+    "status": "generated"
+  },
+  {
+    "file": "mutsumi-mortis-23-v2.mp3",
+    "speaker": "睦",
+    "lengthScale": 0.92,
+    "text": "あ、そっか。じゃあ、お先にどうぞ！",
+    "serviceStatus": "Berhasil Membuat ✅! (Speaker: 睦)",
+    "status": "generated"
+  }
+]

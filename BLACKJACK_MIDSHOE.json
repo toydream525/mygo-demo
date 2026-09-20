@@ -1,0 +1,13 @@
+{
+  "scenario": "legal six-deck mid-shoe after 220 exposed cards",
+  "games": 36293,
+  "scores": [
+    -1770,
+    -1528
+  ],
+  "meanDifference": 0.006667952497726834,
+  "confidence95": [
+    -0.0031513358031650023,
+    0.01648724079861867
+  ]
+}

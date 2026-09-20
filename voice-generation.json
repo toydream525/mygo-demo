@@ -1,0 +1,972 @@
+[
+  {
+    "file": "tomori-0.mp3",
+    "speaker": "燈",
+    "text": "うん……大丈夫",
+    "source": "event235-08-014.wav",
+    "engine": "https://plana-archive-bang-dream-vits.hf.space"
+  },
+  {
+    "file": "tomori-1.mp3",
+    "speaker": "燈",
+    "text": "ほんと！？",
+    "source": "event235-03-039.wav",
+    "engine": "https://plana-archive-bang-dream-vits.hf.space"
+  },
+  {
+    "file": "anon-0.mp3",
+    "speaker": "愛音",
+    "text": "おはよ～",
+    "source": "event235-05-021.wav",
+    "engine": "https://plana-archive-bang-dream-vits.hf.space"
+  },
+  {
+    "file": "anon-1.mp3",
+    "speaker": "愛音",
+    "text": "もらっとくね。ありがと～",
+    "source": "event235-05-033.wav",
+    "engine": "https://plana-archive-bang-dream-vits.hf.space"
+  },
+  {
+    "file": "rana-0.mp3",
+    "speaker": "楽奈",
+    "text": "やる",
+    "source": "event235-16-053.wav",
+    "engine": "https://plana-archive-bang-dream-vits.hf.space"
+  },
+  {
+    "file": "rana-1.mp3",
+    "speaker": "楽奈",
+    "text": "満足",
+    "source": "event235-06-020.wav",
+    "engine": "https://plana-archive-bang-dream-vits.hf.space"
+  },
+  {
+    "file": "soyo-0.mp3",
+    "speaker": "そよ",
+    "text": "いいよ～",
+    "source": "event235-06-068.wav",
+    "engine": "https://plana-archive-bang-dream-vits.hf.space"
+  },
+  {
+    "file": "soyo-1.mp3",
+    "speaker": "そよ",
+    "text": "そっか。ありがとう",
+    "source": "event235-05-020.wav",
+    "engine": "https://plana-archive-bang-dream-vits.hf.space"
+  },
+  {
+    "file": "taki-0.mp3",
+    "speaker": "立希",
+    "text": "……こういう感じか",
+    "source": "event235-10-041.wav",
+    "engine": "https://plana-archive-bang-dream-vits.hf.space"
+  },
+  {
+    "file": "taki-1.mp3",
+    "speaker": "立希",
+    "text": "……私はいい",
+    "source": "event235-11-023.wav",
+    "engine": "https://plana-archive-bang-dream-vits.hf.space"
+  },
+  {
+    "file": "tomori-2.mp3",
+    "speaker": "燈",
+    "text": "えっと……一緒に、始めよう。",
+    "source": "本 demo 同人补充：牌型、技能和桌上互动，非原作台词",
+    "kind": "fan",
+    "engine": "https://plana-archive-bang-dream-vits.hf.space",
+    "status": "Berhasil Membuat ✅! (Speaker: 燈)"
+  },
+  {
+    "file": "tomori-3.mp3",
+    "speaker": "燈",
+    "text": "ストレート……ちゃんと、つながった。",
+    "source": "本 demo 同人补充：牌型、技能和桌上互动，非原作台词",
+    "kind": "fan",
+    "engine": "https://plana-archive-bang-dream-vits.hf.space",
+    "status": "Berhasil Membuat ✅! (Speaker: 燈)"
+  },
+  {
+    "file": "tomori-4.mp3",
+    "speaker": "燈",
+    "text": "ペアが、並んでる……。",
+    "source": "本 demo 同人补充：牌型、技能和桌上互动，非原作台词",
+    "kind": "fan",
+    "engine": "https://plana-archive-bang-dream-vits.hf.space",
+    "status": "Berhasil Membuat ✅! (Speaker: 燈)"
+  },
+  {
+    "file": "tomori-5.mp3",
+    "speaker": "燈",
+    "text": "三枚ずつ……同じリズムで。",
+    "source": "本 demo 同人补充：牌型、技能和桌上互动，非原作台词",
+    "kind": "fan",
+    "engine": "https://plana-archive-bang-dream-vits.hf.space",
+    "status": "Berhasil Membuat ✅! (Speaker: 燈)"
+  },
+  {
+    "file": "tomori-6.mp3",
+    "speaker": "燈",
+    "text": "ボム……出しても、いいかな。",
+    "source": "本 demo 同人补充：牌型、技能和桌上互动，非原作台词",
+    "kind": "fan",
+    "engine": "https://plana-archive-bang-dream-vits.hf.space",
+    "status": "Berhasil Membuat ✅! (Speaker: 燈)"
+  },
+  {
+    "file": "tomori-7.mp3",
+    "speaker": "燈",
+    "text": "ジョーカー、二枚……いくね。",
+    "source": "本 demo 同人补充：牌型、技能和桌上互动，非原作台词",
+    "kind": "fan",
+    "engine": "https://plana-archive-bang-dream-vits.hf.space",
+    "status": "Berhasil Membuat ✅! (Speaker: 燈)"
+  },
+  {
+    "file": "tomori-8.mp3",
+    "speaker": "燈",
+    "text": "小さな手がかりも、拾っておきたい。",
+    "source": "本 demo 同人补充：牌型、技能和桌上互动，非原作台词",
+    "kind": "fan",
+    "engine": "https://plana-archive-bang-dream-vits.hf.space",
+    "status": "Berhasil Membuat ✅! (Speaker: 燈)"
+  },
+  {
+    "file": "tomori-9.mp3",
+    "speaker": "燈",
+    "text": "今は……待ってみる。",
+    "source": "本 demo 同人补充：牌型、技能和桌上互动，非原作台词",
+    "kind": "fan",
+    "engine": "https://plana-archive-bang-dream-vits.hf.space",
+    "status": "Berhasil Membuat ✅! (Speaker: 燈)"
+  },
+  {
+    "file": "tomori-10.mp3",
+    "speaker": "燈",
+    "text": "うん……その調子で。",
+    "source": "本 demo 同人补充：牌型、技能和桌上互动，非原作台词",
+    "kind": "fan",
+    "engine": "https://plana-archive-bang-dream-vits.hf.space",
+    "status": "Berhasil Membuat ✅! (Speaker: 燈)"
+  },
+  {
+    "file": "tomori-11.mp3",
+    "speaker": "燈",
+    "text": "ありがとう……ちょっと、安心した。",
+    "source": "本 demo 同人补充：牌型、技能和桌上互动，非原作台词",
+    "kind": "fan",
+    "engine": "https://plana-archive-bang-dream-vits.hf.space",
+    "status": "Berhasil Membuat ✅! (Speaker: 燈)"
+  },
+  {
+    "file": "tomori-12.mp3",
+    "speaker": "燈",
+    "text": "あと少し……落ち着いて。",
+    "source": "本 demo 同人补充：牌型、技能和桌上互动，非原作台词",
+    "kind": "fan",
+    "engine": "https://plana-archive-bang-dream-vits.hf.space",
+    "status": "Berhasil Membuat ✅! (Speaker: 燈)"
+  },
+  {
+    "file": "tomori-13.mp3",
+    "speaker": "燈",
+    "text": "負けちゃった……でも、また一緒に。",
+    "source": "本 demo 同人补充：牌型、技能和桌上互动，非原作台词",
+    "kind": "fan",
+    "engine": "https://plana-archive-bang-dream-vits.hf.space",
+    "status": "Berhasil Membuat ✅! (Speaker: 燈)"
+  },
+  {
+    "file": "tomori-14.mp3",
+    "speaker": "燈",
+    "text": "四枚と……こっちも、一緒に。",
+    "source": "本 demo 同人补充：牌型、技能和桌上互动，非原作台词",
+    "kind": "fan",
+    "engine": "https://plana-archive-bang-dream-vits.hf.space",
+    "status": "Berhasil Membuat ✅! (Speaker: 燈)"
+  },
+  {
+    "file": "tomori-15.mp3",
+    "speaker": "燈",
+    "text": "この一枚を……。",
+    "source": "本 demo 同人补充：牌型、技能和桌上互动，非原作台词",
+    "kind": "fan",
+    "engine": "https://plana-archive-bang-dream-vits.hf.space",
+    "status": "Berhasil Membuat ✅! (Speaker: 燈)"
+  },
+  {
+    "file": "anon-2.mp3",
+    "speaker": "愛音",
+    "text": "よーし、私もいいとこ見せちゃお！",
+    "source": "本 demo 同人补充：牌型、技能和桌上互动，非原作台词",
+    "kind": "fan",
+    "engine": "https://plana-archive-bang-dream-vits.hf.space",
+    "status": "Berhasil Membuat ✅! (Speaker: 愛音)"
+  },
+  {
+    "file": "anon-3.mp3",
+    "speaker": "愛音",
+    "text": "ストレート！ いい感じにつながったでしょ？",
+    "source": "本 demo 同人补充：牌型、技能和桌上互动，非原作台词",
+    "kind": "fan",
+    "engine": "https://plana-archive-bang-dream-vits.hf.space",
+    "status": "Berhasil Membuat ✅! (Speaker: 愛音)"
+  },
+  {
+    "file": "anon-4.mp3",
+    "speaker": "愛音",
+    "text": "連続ペア！ こういうの、気持ちいいね！",
+    "source": "本 demo 同人补充：牌型、技能和桌上互动，非原作台词",
+    "kind": "fan",
+    "engine": "https://plana-archive-bang-dream-vits.hf.space",
+    "status": "Berhasil Membuat ✅! (Speaker: 愛音)"
+  },
+  {
+    "file": "anon-5.mp3",
+    "speaker": "愛音",
+    "text": "トリプルでつなげるよ！ ついてきてね！",
+    "source": "本 demo 同人补充：牌型、技能和桌上互动，非原作台词",
+    "kind": "fan",
+    "engine": "https://plana-archive-bang-dream-vits.hf.space",
+    "status": "Berhasil Membuat ✅! (Speaker: 愛音)"
+  },
+  {
+    "file": "anon-6.mp3",
+    "speaker": "愛音",
+    "text": "ボム！ ここはちょっと、目立たせて！",
+    "source": "本 demo 同人补充：牌型、技能和桌上互动，非原作台词",
+    "kind": "fan",
+    "engine": "https://plana-archive-bang-dream-vits.hf.space",
+    "status": "Berhasil Membuat ✅! (Speaker: 愛音)"
+  },
+  {
+    "file": "anon-7.mp3",
+    "speaker": "愛音",
+    "text": "ジョーカー二枚！ これは決まったでしょ！",
+    "source": "本 demo 同人补充：牌型、技能和桌上互动，非原作台词",
+    "kind": "fan",
+    "engine": "https://plana-archive-bang-dream-vits.hf.space",
+    "status": "Berhasil Membuat ✅! (Speaker: 愛音)"
+  },
+  {
+    "file": "anon-8.mp3",
+    "speaker": "愛音",
+    "text": "ちょっと探ってみよっか。準備も大事だし！",
+    "source": "本 demo 同人补充：牌型、技能和桌上互动，非原作台词",
+    "kind": "fan",
+    "engine": "https://plana-archive-bang-dream-vits.hf.space",
+    "status": "Berhasil Membuat ✅! (Speaker: 愛音)"
+  },
+  {
+    "file": "anon-9.mp3",
+    "speaker": "愛音",
+    "text": "んー、ここはパス！",
+    "source": "本 demo 同人补充：牌型、技能和桌上互动，非原作台词",
+    "kind": "fan",
+    "engine": "https://plana-archive-bang-dream-vits.hf.space",
+    "status": "Berhasil Membuat ✅! (Speaker: 愛音)"
+  },
+  {
+    "file": "anon-10.mp3",
+    "speaker": "愛音",
+    "text": "いいじゃん！ その調子！",
+    "source": "本 demo 同人补充：牌型、技能和桌上互动，非原作台词",
+    "kind": "fan",
+    "engine": "https://plana-archive-bang-dream-vits.hf.space",
+    "status": "Berhasil Membuat ✅! (Speaker: 愛音)"
+  },
+  {
+    "file": "anon-11.mp3",
+    "speaker": "愛音",
+    "text": "ありがと！ 次も任せて！",
+    "source": "本 demo 同人补充：牌型、技能和桌上互动，非原作台词",
+    "kind": "fan",
+    "engine": "https://plana-archive-bang-dream-vits.hf.space",
+    "status": "Berhasil Membuat ✅! (Speaker: 愛音)"
+  },
+  {
+    "file": "anon-12.mp3",
+    "speaker": "愛音",
+    "text": "あとちょっと！ ここから慎重にね。",
+    "source": "本 demo 同人补充：牌型、技能和桌上互动，非原作台词",
+    "kind": "fan",
+    "engine": "https://plana-archive-bang-dream-vits.hf.space",
+    "status": "Berhasil Membuat ✅! (Speaker: 愛音)"
+  },
+  {
+    "file": "anon-13.mp3",
+    "speaker": "愛音",
+    "text": "えー、負けた！ 次はもうちょっとうまくやる！",
+    "source": "本 demo 同人补充：牌型、技能和桌上互动，非原作台词",
+    "kind": "fan",
+    "engine": "https://plana-archive-bang-dream-vits.hf.space",
+    "status": "Berhasil Membuat ✅! (Speaker: 愛音)"
+  },
+  {
+    "file": "anon-14.mp3",
+    "speaker": "愛音",
+    "text": "四枚におまけ！ まとめていくよ！",
+    "source": "本 demo 同人补充：牌型、技能和桌上互动，非原作台词",
+    "kind": "fan",
+    "engine": "https://plana-archive-bang-dream-vits.hf.space",
+    "status": "Berhasil Membuat ✅! (Speaker: 愛音)"
+  },
+  {
+    "file": "anon-15.mp3",
+    "speaker": "愛音",
+    "text": "じゃ、この一枚！",
+    "source": "本 demo 同人补充：牌型、技能和桌上互动，非原作台词",
+    "kind": "fan",
+    "engine": "https://plana-archive-bang-dream-vits.hf.space",
+    "status": "Berhasil Membuat ✅! (Speaker: 愛音)"
+  },
+  {
+    "file": "rana-2.mp3",
+    "speaker": "楽奈",
+    "text": "……やろ。",
+    "source": "本 demo 同人补充：牌型、技能和桌上互动，非原作台词",
+    "kind": "fan",
+    "engine": "https://plana-archive-bang-dream-vits.hf.space",
+    "status": "Berhasil Membuat ✅! (Speaker: 楽奈)"
+  },
+  {
+    "file": "rana-3.mp3",
+    "speaker": "楽奈",
+    "text": "つながった。ストレート。",
+    "source": "本 demo 同人补充：牌型、技能和桌上互动，非原作台词",
+    "kind": "fan",
+    "engine": "https://plana-archive-bang-dream-vits.hf.space",
+    "status": "Berhasil Membuat ✅! (Speaker: 楽奈)"
+  },
+  {
+    "file": "rana-4.mp3",
+    "speaker": "楽奈",
+    "text": "ペア、いっぱい。",
+    "source": "本 demo 同人补充：牌型、技能和桌上互动，非原作台词",
+    "kind": "fan",
+    "engine": "https://plana-archive-bang-dream-vits.hf.space",
+    "status": "Berhasil Membuat ✅! (Speaker: 楽奈)"
+  },
+  {
+    "file": "rana-5.mp3",
+    "speaker": "楽奈",
+    "text": "三枚。三枚。……おもしろい。",
+    "source": "本 demo 同人补充：牌型、技能和桌上互动，非原作台词",
+    "kind": "fan",
+    "engine": "https://plana-archive-bang-dream-vits.hf.space",
+    "status": "Berhasil Membuat ✅! (Speaker: 楽奈)"
+  },
+  {
+    "file": "rana-6.mp3",
+    "speaker": "楽奈",
+    "text": "ボム。……どーん。",
+    "source": "本 demo 同人补充：牌型、技能和桌上互动，非原作台词",
+    "kind": "fan",
+    "engine": "https://plana-archive-bang-dream-vits.hf.space",
+    "status": "Berhasil Membuat ✅! (Speaker: 楽奈)"
+  },
+  {
+    "file": "rana-7.mp3",
+    "speaker": "楽奈",
+    "text": "ジョーカー。ふたつ。",
+    "source": "本 demo 同人补充：牌型、技能和桌上互动，非原作台词",
+    "kind": "fan",
+    "engine": "https://plana-archive-bang-dream-vits.hf.space",
+    "status": "Berhasil Membuat ✅! (Speaker: 楽奈)"
+  },
+  {
+    "file": "rana-8.mp3",
+    "speaker": "楽奈",
+    "text": "どこまで、つながるかな。",
+    "source": "本 demo 同人补充：牌型、技能和桌上互动，非原作台词",
+    "kind": "fan",
+    "engine": "https://plana-archive-bang-dream-vits.hf.space",
+    "status": "Berhasil Membuat ✅! (Speaker: 楽奈)"
+  },
+  {
+    "file": "rana-9.mp3",
+    "speaker": "楽奈",
+    "text": "……パス。",
+    "source": "本 demo 同人补充：牌型、技能和桌上互动，非原作台词",
+    "kind": "fan",
+    "engine": "https://plana-archive-bang-dream-vits.hf.space",
+    "status": "Berhasil Membuat ✅! (Speaker: 楽奈)"
+  },
+  {
+    "file": "rana-10.mp3",
+    "speaker": "楽奈",
+    "text": "……いい音。",
+    "source": "本 demo 同人补充：牌型、技能和桌上互动，非原作台词",
+    "kind": "fan",
+    "engine": "https://plana-archive-bang-dream-vits.hf.space",
+    "status": "Berhasil Membuat ✅! (Speaker: 楽奈)"
+  },
+  {
+    "file": "rana-11.mp3",
+    "speaker": "楽奈",
+    "text": "ん。もう一回。",
+    "source": "本 demo 同人补充：牌型、技能和桌上互动，非原作台词",
+    "kind": "fan",
+    "engine": "https://plana-archive-bang-dream-vits.hf.space",
+    "status": "Berhasil Membuat ✅! (Speaker: 楽奈)"
+  },
+  {
+    "file": "rana-12.mp3",
+    "speaker": "楽奈",
+    "text": "あと、ちょっと。",
+    "source": "本 demo 同人补充：牌型、技能和桌上互动，非原作台词",
+    "kind": "fan",
+    "engine": "https://plana-archive-bang-dream-vits.hf.space",
+    "status": "Berhasil Membuat ✅! (Speaker: 楽奈)"
+  },
+  {
+    "file": "rana-13.mp3",
+    "speaker": "楽奈",
+    "text": "負けた。……もう一回。",
+    "source": "本 demo 同人补充：牌型、技能和桌上互动，非原作台词",
+    "kind": "fan",
+    "engine": "https://plana-archive-bang-dream-vits.hf.space",
+    "status": "Berhasil Membuat ✅! (Speaker: 楽奈)"
+  },
+  {
+    "file": "rana-14.mp3",
+    "speaker": "楽奈",
+    "text": "四枚。これも。",
+    "source": "本 demo 同人补充：牌型、技能和桌上互动，非原作台词",
+    "kind": "fan",
+    "engine": "https://plana-archive-bang-dream-vits.hf.space",
+    "status": "Berhasil Membuat ✅! (Speaker: 楽奈)"
+  },
+  {
+    "file": "rana-15.mp3",
+    "speaker": "楽奈",
+    "text": "これ。",
+    "source": "本 demo 同人补充：牌型、技能和桌上互动，非原作台词",
+    "kind": "fan",
+    "engine": "https://plana-archive-bang-dream-vits.hf.space",
+    "status": "Berhasil Membuat ✅! (Speaker: 楽奈)"
+  },
+  {
+    "file": "soyo-2.mp3",
+    "speaker": "そよ",
+    "text": "焦らずに、楽しもうね。",
+    "source": "本 demo 同人补充：牌型、技能和桌上互动，非原作台词",
+    "kind": "fan",
+    "engine": "https://plana-archive-bang-dream-vits.hf.space",
+    "status": "Berhasil Membuat ✅! (Speaker: そよ)"
+  },
+  {
+    "file": "soyo-3.mp3",
+    "speaker": "そよ",
+    "text": "ストレート。うまくつながったね。",
+    "source": "本 demo 同人补充：牌型、技能和桌上互动，非原作台词",
+    "kind": "fan",
+    "engine": "https://plana-archive-bang-dream-vits.hf.space",
+    "status": "Berhasil Membuat ✅! (Speaker: そよ)"
+  },
+  {
+    "file": "soyo-4.mp3",
+    "speaker": "そよ",
+    "text": "ペアを、続けて出すね。",
+    "source": "本 demo 同人补充：牌型、技能和桌上互动，非原作台词",
+    "kind": "fan",
+    "engine": "https://plana-archive-bang-dream-vits.hf.space",
+    "status": "Berhasil Membuat ✅! (Speaker: そよ)"
+  },
+  {
+    "file": "soyo-5.mp3",
+    "speaker": "そよ",
+    "text": "三枚ずつ、揃えてみたの。",
+    "source": "本 demo 同人补充：牌型、技能和桌上互动，非原作台词",
+    "kind": "fan",
+    "engine": "https://plana-archive-bang-dream-vits.hf.space",
+    "status": "Berhasil Membuat ✅! (Speaker: そよ)"
+  },
+  {
+    "file": "soyo-6.mp3",
+    "speaker": "そよ",
+    "text": "ボム。ごめんね、ここは譲れないの。",
+    "source": "本 demo 同人补充：牌型、技能和桌上互动，非原作台词",
+    "kind": "fan",
+    "engine": "https://plana-archive-bang-dream-vits.hf.space",
+    "status": "Berhasil Membuat ✅! (Speaker: そよ)"
+  },
+  {
+    "file": "soyo-7.mp3",
+    "speaker": "そよ",
+    "text": "ジョーカーが、二枚揃ったよ。",
+    "source": "本 demo 同人补充：牌型、技能和桌上互动，非原作台词",
+    "kind": "fan",
+    "engine": "https://plana-archive-bang-dream-vits.hf.space",
+    "status": "Berhasil Membuat ✅! (Speaker: そよ)"
+  },
+  {
+    "file": "soyo-8.mp3",
+    "speaker": "そよ",
+    "text": "少しだけ、様子を見させてね。",
+    "source": "本 demo 同人补充：牌型、技能和桌上互动，非原作台词",
+    "kind": "fan",
+    "engine": "https://plana-archive-bang-dream-vits.hf.space",
+    "status": "Berhasil Membuat ✅! (Speaker: そよ)"
+  },
+  {
+    "file": "soyo-9.mp3",
+    "speaker": "そよ",
+    "text": "私は、見送るね。",
+    "source": "本 demo 同人补充：牌型、技能和桌上互动，非原作台词",
+    "kind": "fan",
+    "engine": "https://plana-archive-bang-dream-vits.hf.space",
+    "status": "Berhasil Membuat ✅! (Speaker: そよ)"
+  },
+  {
+    "file": "soyo-10.mp3",
+    "speaker": "そよ",
+    "text": "落ち着いて。まだ大丈夫だよ。",
+    "source": "本 demo 同人补充：牌型、技能和桌上互动，非原作台词",
+    "kind": "fan",
+    "engine": "https://plana-archive-bang-dream-vits.hf.space",
+    "status": "Berhasil Membuat ✅! (Speaker: そよ)"
+  },
+  {
+    "file": "soyo-11.mp3",
+    "speaker": "そよ",
+    "text": "気にかけてくれて、ありがとう。",
+    "source": "本 demo 同人补充：牌型、技能和桌上互动，非原作台词",
+    "kind": "fan",
+    "engine": "https://plana-archive-bang-dream-vits.hf.space",
+    "status": "Berhasil Membuat ✅! (Speaker: そよ)"
+  },
+  {
+    "file": "soyo-12.mp3",
+    "speaker": "そよ",
+    "text": "あと少しだね。最後まで、丁寧に。",
+    "source": "本 demo 同人补充：牌型、技能和桌上互动，非原作台词",
+    "kind": "fan",
+    "engine": "https://plana-archive-bang-dream-vits.hf.space",
+    "status": "Berhasil Membuat ✅! (Speaker: そよ)"
+  },
+  {
+    "file": "soyo-13.mp3",
+    "speaker": "そよ",
+    "text": "残念。でも、また付き合ってくれる？",
+    "source": "本 demo 同人补充：牌型、技能和桌上互动，非原作台词",
+    "kind": "fan",
+    "engine": "https://plana-archive-bang-dream-vits.hf.space",
+    "status": "Berhasil Membuat ✅! (Speaker: そよ)"
+  },
+  {
+    "file": "soyo-14.mp3",
+    "speaker": "そよ",
+    "text": "四枚に、こちらも添えて。",
+    "source": "本 demo 同人补充：牌型、技能和桌上互动，非原作台词",
+    "kind": "fan",
+    "engine": "https://plana-archive-bang-dream-vits.hf.space",
+    "status": "Berhasil Membuat ✅! (Speaker: そよ)"
+  },
+  {
+    "file": "soyo-15.mp3",
+    "speaker": "そよ",
+    "text": "これを、出すね。",
+    "source": "本 demo 同人补充：牌型、技能和桌上互动，非原作台词",
+    "kind": "fan",
+    "engine": "https://plana-archive-bang-dream-vits.hf.space",
+    "status": "Berhasil Membuat ✅! (Speaker: そよ)"
+  },
+  {
+    "file": "taki-2.mp3",
+    "speaker": "立希",
+    "text": "準備できた？ じゃ、始める。",
+    "source": "本 demo 同人补充：牌型、技能和桌上互动，非原作台词",
+    "kind": "fan",
+    "engine": "https://plana-archive-bang-dream-vits.hf.space",
+    "status": "Berhasil Membuat ✅! (Speaker: 立希)"
+  },
+  {
+    "file": "taki-3.mp3",
+    "speaker": "立希",
+    "text": "ストレート。リズム、崩さないで。",
+    "source": "本 demo 同人补充：牌型、技能和桌上互动，非原作台词",
+    "kind": "fan",
+    "engine": "https://plana-archive-bang-dream-vits.hf.space",
+    "status": "Berhasil Membuat ✅! (Speaker: 立希)"
+  },
+  {
+    "file": "taki-4.mp3",
+    "speaker": "立希",
+    "text": "連続ペア。このままいく。",
+    "source": "本 demo 同人补充：牌型、技能和桌上互动，非原作台词",
+    "kind": "fan",
+    "engine": "https://plana-archive-bang-dream-vits.hf.space",
+    "status": "Berhasil Membuat ✅! (Speaker: 立希)"
+  },
+  {
+    "file": "taki-5.mp3",
+    "speaker": "立希",
+    "text": "三枚ずつ。テンポ上げるよ。",
+    "source": "本 demo 同人补充：牌型、技能和桌上互动，非原作台词",
+    "kind": "fan",
+    "engine": "https://plana-archive-bang-dream-vits.hf.space",
+    "status": "Berhasil Membuat ✅! (Speaker: 立希)"
+  },
+  {
+    "file": "taki-6.mp3",
+    "speaker": "立希",
+    "text": "ボム。ここは通す。",
+    "source": "本 demo 同人补充：牌型、技能和桌上互动，非原作台词",
+    "kind": "fan",
+    "engine": "https://plana-archive-bang-dream-vits.hf.space",
+    "status": "Berhasil Membuat ✅! (Speaker: 立希)"
+  },
+  {
+    "file": "taki-7.mp3",
+    "speaker": "立希",
+    "text": "ジョーカー二枚。決めるよ。",
+    "source": "本 demo 同人补充：牌型、技能和桌上互动，非原作台词",
+    "kind": "fan",
+    "engine": "https://plana-archive-bang-dream-vits.hf.space",
+    "status": "Berhasil Membuat ✅! (Speaker: 立希)"
+  },
+  {
+    "file": "taki-8.mp3",
+    "speaker": "立希",
+    "text": "大きい音が来る前に、確かめる。",
+    "source": "本 demo 同人补充：牌型、技能和桌上互动，非原作台词",
+    "kind": "fan",
+    "engine": "https://plana-archive-bang-dream-vits.hf.space",
+    "status": "Berhasil Membuat ✅! (Speaker: 立希)"
+  },
+  {
+    "file": "taki-9.mp3",
+    "speaker": "立希",
+    "text": "……パス。次を見る。",
+    "source": "本 demo 同人补充：牌型、技能和桌上互动，非原作台词",
+    "kind": "fan",
+    "engine": "https://plana-archive-bang-dream-vits.hf.space",
+    "status": "Berhasil Membuat ✅! (Speaker: 立希)"
+  },
+  {
+    "file": "taki-10.mp3",
+    "speaker": "立希",
+    "text": "いい。そのまま続けて。",
+    "source": "本 demo 同人补充：牌型、技能和桌上互动，非原作台词",
+    "kind": "fan",
+    "engine": "https://plana-archive-bang-dream-vits.hf.space",
+    "status": "Berhasil Membuat ✅! (Speaker: 立希)"
+  },
+  {
+    "file": "taki-11.mp3",
+    "speaker": "立希",
+    "text": "……わかってる。ありがと。",
+    "source": "本 demo 同人补充：牌型、技能和桌上互动，非原作台词",
+    "kind": "fan",
+    "engine": "https://plana-archive-bang-dream-vits.hf.space",
+    "status": "Berhasil Membuat ✅! (Speaker: 立希)"
+  },
+  {
+    "file": "taki-12.mp3",
+    "speaker": "立希",
+    "text": "あと少し。気を抜かないで。",
+    "source": "本 demo 同人补充：牌型、技能和桌上互动，非原作台词",
+    "kind": "fan",
+    "engine": "https://plana-archive-bang-dream-vits.hf.space",
+    "status": "Berhasil Membuat ✅! (Speaker: 立希)"
+  },
+  {
+    "file": "taki-13.mp3",
+    "speaker": "立希",
+    "text": "……負けたか。次は、ミスしない。",
+    "source": "本 demo 同人补充：牌型、技能和桌上互动，非原作台词",
+    "kind": "fan",
+    "engine": "https://plana-archive-bang-dream-vits.hf.space",
+    "status": "Berhasil Membuat ✅! (Speaker: 立希)"
+  },
+  {
+    "file": "taki-14.mp3",
+    "speaker": "立希",
+    "text": "四枚。これも一緒に。",
+    "source": "本 demo 同人补充：牌型、技能和桌上互动，非原作台词",
+    "kind": "fan",
+    "engine": "https://plana-archive-bang-dream-vits.hf.space",
+    "status": "Berhasil Membuat ✅! (Speaker: 立希)"
+  },
+  {
+    "file": "taki-15.mp3",
+    "speaker": "立希",
+    "text": "これで。",
+    "source": "本 demo 同人补充：牌型、技能和桌上互动，非原作台词",
+    "kind": "fan",
+    "engine": "https://plana-archive-bang-dream-vits.hf.space",
+    "status": "Berhasil Membuat ✅! (Speaker: 立希)"
+  },
+  {
+    "file": "tomori-16.mp3",
+    "speaker": "燈",
+    "text": "来てくれたんだ……待ってた。",
+    "source": "本 demo 场景差分同人台词，非原作台词",
+    "kind": "fan",
+    "engine": "https://plana-archive-bang-dream-vits.hf.space",
+    "status": "Berhasil Membuat ✅! (Speaker: 燈)"
+  },
+  {
+    "file": "tomori-17.mp3",
+    "speaker": "燈",
+    "text": "ここなら、ゆっくり話せるね。",
+    "source": "本 demo 场景差分同人台词，非原作台词",
+    "kind": "fan",
+    "engine": "https://plana-archive-bang-dream-vits.hf.space",
+    "status": "Berhasil Membuat ✅! (Speaker: 燈)"
+  },
+  {
+    "file": "tomori-18.mp3",
+    "speaker": "燈",
+    "text": "今日も……一緒にいてくれる？",
+    "source": "本 demo 场景差分同人台词，非原作台词",
+    "kind": "fan",
+    "engine": "https://plana-archive-bang-dream-vits.hf.space",
+    "status": "Berhasil Membuat ✅! (Speaker: 燈)"
+  },
+  {
+    "file": "tomori-19.mp3",
+    "speaker": "燈",
+    "text": "一枚ずつ、ちゃんと考えるね。",
+    "source": "本 demo 场景差分同人台词，非原作台词",
+    "kind": "fan",
+    "engine": "https://plana-archive-bang-dream-vits.hf.space",
+    "status": "Berhasil Membuat ✅! (Speaker: 燈)"
+  },
+  {
+    "file": "tomori-20.mp3",
+    "speaker": "燈",
+    "text": "今は……みんなを信じたい。",
+    "source": "本 demo 场景差分同人台词，非原作台词",
+    "kind": "fan",
+    "engine": "https://plana-archive-bang-dream-vits.hf.space",
+    "status": "Berhasil Membuat ✅! (Speaker: 燈)"
+  },
+  {
+    "file": "tomori-21.mp3",
+    "speaker": "燈",
+    "text": "終わっても、また集まろうね。",
+    "source": "本 demo 场景差分同人台词，非原作台词",
+    "kind": "fan",
+    "engine": "https://plana-archive-bang-dream-vits.hf.space",
+    "status": "Berhasil Membuat ✅! (Speaker: 燈)"
+  },
+  {
+    "file": "anon-16.mp3",
+    "speaker": "愛音",
+    "text": "あ、来た来た！今日は何して遊ぶ？",
+    "source": "本 demo 场景差分同人台词，非原作台词",
+    "kind": "fan",
+    "engine": "https://plana-archive-bang-dream-vits.hf.space",
+    "status": "Berhasil Membuat ✅! (Speaker: 愛音)"
+  },
+  {
+    "file": "anon-17.mp3",
+    "speaker": "愛音",
+    "text": "この衣装、どう？けっこう似合ってない？",
+    "source": "本 demo 场景差分同人台词，非原作台词",
+    "kind": "fan",
+    "engine": "https://plana-archive-bang-dream-vits.hf.space",
+    "status": "Berhasil Membuat ✅! (Speaker: 愛音)"
+  },
+  {
+    "file": "anon-18.mp3",
+    "speaker": "愛音",
+    "text": "ちょっと休憩！おしゃべりしよ？",
+    "source": "本 demo 场景差分同人台词，非原作台词",
+    "kind": "fan",
+    "engine": "https://plana-archive-bang-dream-vits.hf.space",
+    "status": "Berhasil Membuat ✅! (Speaker: 愛音)"
+  },
+  {
+    "file": "anon-19.mp3",
+    "speaker": "愛音",
+    "text": "よーし、まずは流れをつかもう！",
+    "source": "本 demo 场景差分同人台词，非原作台词",
+    "kind": "fan",
+    "engine": "https://plana-archive-bang-dream-vits.hf.space",
+    "status": "Berhasil Membuat ✅! (Speaker: 愛音)"
+  },
+  {
+    "file": "anon-20.mp3",
+    "speaker": "愛音",
+    "text": "あれ？じゃあ、作戦変更！",
+    "source": "本 demo 场景差分同人台词，非原作台词",
+    "kind": "fan",
+    "engine": "https://plana-archive-bang-dream-vits.hf.space",
+    "status": "Berhasil Membuat ✅! (Speaker: 愛音)"
+  },
+  {
+    "file": "anon-21.mp3",
+    "speaker": "愛音",
+    "text": "もう一回！次はもっと上手くやれるって！",
+    "source": "本 demo 场景差分同人台词，非原作台词",
+    "kind": "fan",
+    "engine": "https://plana-archive-bang-dream-vits.hf.space",
+    "status": "Berhasil Membuat ✅! (Speaker: 愛音)"
+  },
+  {
+    "file": "rana-16.mp3",
+    "speaker": "楽奈",
+    "text": "来た。遊ぶ？",
+    "source": "本 demo 场景差分同人台词，非原作台词",
+    "kind": "fan",
+    "engine": "https://plana-archive-bang-dream-vits.hf.space",
+    "status": "Berhasil Membuat ✅! (Speaker: 楽奈)"
+  },
+  {
+    "file": "rana-17.mp3",
+    "speaker": "楽奈",
+    "text": "抹茶、ある？",
+    "source": "本 demo 场景差分同人台词，非原作台词",
+    "kind": "fan",
+    "engine": "https://plana-archive-bang-dream-vits.hf.space",
+    "status": "Berhasil Membuat ✅! (Speaker: 楽奈)"
+  },
+  {
+    "file": "rana-18.mp3",
+    "speaker": "楽奈",
+    "text": "ここ、落ち着く。",
+    "source": "本 demo 场景差分同人台词，非原作台词",
+    "kind": "fan",
+    "engine": "https://plana-archive-bang-dream-vits.hf.space",
+    "status": "Berhasil Membuat ✅! (Speaker: 楽奈)"
+  },
+  {
+    "file": "rana-19.mp3",
+    "speaker": "楽奈",
+    "text": "つながる。おもしろい。",
+    "source": "本 demo 场景差分同人台词，非原作台词",
+    "kind": "fan",
+    "engine": "https://plana-archive-bang-dream-vits.hf.space",
+    "status": "Berhasil Membuat ✅! (Speaker: 楽奈)"
+  },
+  {
+    "file": "rana-20.mp3",
+    "speaker": "楽奈",
+    "text": "まだ、続けたい。",
+    "source": "本 demo 场景差分同人台词，非原作台词",
+    "kind": "fan",
+    "engine": "https://plana-archive-bang-dream-vits.hf.space",
+    "status": "Berhasil Membuat ✅! (Speaker: 楽奈)"
+  },
+  {
+    "file": "rana-21.mp3",
+    "speaker": "楽奈",
+    "text": "もう一局。",
+    "source": "本 demo 场景差分同人台词，非原作台词",
+    "kind": "fan",
+    "engine": "https://plana-archive-bang-dream-vits.hf.space",
+    "status": "Berhasil Membuat ✅! (Speaker: 楽奈)"
+  },
+  {
+    "file": "soyo-16.mp3",
+    "speaker": "そよ",
+    "text": "おかえり。少し、休んでいく？",
+    "source": "本 demo 场景差分同人台词，非原作台词",
+    "kind": "fan",
+    "engine": "https://plana-archive-bang-dream-vits.hf.space",
+    "status": "Berhasil Membuat ✅! (Speaker: そよ)"
+  },
+  {
+    "file": "soyo-17.mp3",
+    "speaker": "そよ",
+    "text": "お茶を淹れようか。みんなの分も。",
+    "source": "本 demo 场景差分同人台词，非原作台词",
+    "kind": "fan",
+    "engine": "https://plana-archive-bang-dream-vits.hf.space",
+    "status": "Berhasil Membuat ✅! (Speaker: そよ)"
+  },
+  {
+    "file": "soyo-18.mp3",
+    "speaker": "そよ",
+    "text": "ふふ、今日はどんな一日だった？",
+    "source": "本 demo 场景差分同人台词，非原作台词",
+    "kind": "fan",
+    "engine": "https://plana-archive-bang-dream-vits.hf.space",
+    "status": "Berhasil Membuat ✅! (Speaker: そよ)"
+  },
+  {
+    "file": "soyo-19.mp3",
+    "speaker": "そよ",
+    "text": "焦らなくていいよ。よく見てからね。",
+    "source": "本 demo 场景差分同人台词，非原作台词",
+    "kind": "fan",
+    "engine": "https://plana-archive-bang-dream-vits.hf.space",
+    "status": "Berhasil Membuat ✅! (Speaker: そよ)"
+  },
+  {
+    "file": "soyo-20.mp3",
+    "speaker": "そよ",
+    "text": "なるほどね……じゃあ、こうしようかな。",
+    "source": "本 demo 场景差分同人台词，非原作台词",
+    "kind": "fan",
+    "engine": "https://plana-archive-bang-dream-vits.hf.space",
+    "status": "Berhasil Membuat ✅! (Speaker: そよ)"
+  },
+  {
+    "file": "soyo-21.mp3",
+    "speaker": "そよ",
+    "text": "お疲れさま。少し休んだら、またね。",
+    "source": "本 demo 场景差分同人台词，非原作台词",
+    "kind": "fan",
+    "engine": "https://plana-archive-bang-dream-vits.hf.space",
+    "status": "Berhasil Membuat ✅! (Speaker: そよ)"
+  },
+  {
+    "file": "taki-16.mp3",
+    "speaker": "立希",
+    "text": "来たんだ。準備、できてる？",
+    "source": "本 demo 场景差分同人台词，非原作台词",
+    "kind": "fan",
+    "engine": "https://plana-archive-bang-dream-vits.hf.space",
+    "status": "Berhasil Membuat ✅! (Speaker: 立希)"
+  },
+  {
+    "file": "taki-17.mp3",
+    "speaker": "立希",
+    "text": "練習まで、少し時間あるけど。",
+    "source": "本 demo 场景差分同人台词，非原作台词",
+    "kind": "fan",
+    "engine": "https://plana-archive-bang-dream-vits.hf.space",
+    "status": "Berhasil Membuat ✅! (Speaker: 立希)"
+  },
+  {
+    "file": "taki-18.mp3",
+    "speaker": "立希",
+    "text": "……無理はしないで。休むのも大事。",
+    "source": "本 demo 场景差分同人台词，非原作台词",
+    "kind": "fan",
+    "engine": "https://plana-archive-bang-dream-vits.hf.space",
+    "status": "Berhasil Membuat ✅! (Speaker: 立希)"
+  },
+  {
+    "file": "taki-19.mp3",
+    "speaker": "立希",
+    "text": "手札を見て。まだ、やれる。",
+    "source": "本 demo 场景差分同人台词，非原作台词",
+    "kind": "fan",
+    "engine": "https://plana-archive-bang-dream-vits.hf.space",
+    "status": "Berhasil Membuat ✅! (Speaker: 立希)"
+  },
+  {
+    "file": "taki-20.mp3",
+    "speaker": "立希",
+    "text": "ここは私がつなぐ。任せて。",
+    "source": "本 demo 场景差分同人台词，非原作台词",
+    "kind": "fan",
+    "engine": "https://plana-archive-bang-dream-vits.hf.space",
+    "status": "Berhasil Membuat ✅! (Speaker: 立希)"
+  },
+  {
+    "file": "taki-21.mp3",
+    "speaker": "立希",
+    "text": "次は、もっと合わせよう。",
+    "source": "本 demo 场景差分同人台词，非原作台词",
+    "kind": "fan",
+    "engine": "https://plana-archive-bang-dream-vits.hf.space",
+    "status": "Berhasil Membuat ✅! (Speaker: 立希)"
+  }
+]

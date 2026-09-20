@@ -1,0 +1,1608 @@
+{
+  "tomori": {
+    "lobby": [
+      {
+        "jp": "練習、終わった……少し、休もう。",
+        "zh": "练习结束了……稍微休息一下吧。",
+        "source": "同人原创角色独白，非原作引用",
+        "kind": "fan",
+        "file": "tomori-lobby-1-perspective.mp3"
+      },
+      {
+        "jp": "この手札……どんなふうに、つながるかな。",
+        "zh": "这副手牌……会怎样连起来呢。",
+        "source": "同人原创角色独白，非原作引用",
+        "kind": "fan",
+        "file": "tomori-lobby-2-perspective.mp3"
+      }
+    ],
+    "table": [
+      {
+        "jp": "みんなとなら……やってみたい。",
+        "zh": "和大家一起的话……我想试试。",
+        "source": "同人原创场景台词，非原作引用",
+        "kind": "fan",
+        "file": "tomori-table-1-extra.mp3"
+      },
+      {
+        "jp": "少しずつ、覚えていくね。",
+        "zh": "我会一点一点学会的。",
+        "source": "同人原创场景台词，非原作引用",
+        "kind": "fan",
+        "file": "tomori-table-2-extra.mp3"
+      }
+    ],
+    "play": [
+      {
+        "jp": "これを……つなげたい。",
+        "zh": "想把这张……接上。",
+        "source": "同人原创场景台词，非原作引用",
+        "kind": "fan",
+        "file": "tomori-play-1-extra.mp3"
+      },
+      {
+        "jp": "うん。この一枚にする。",
+        "zh": "嗯，就选这张。",
+        "source": "同人原创场景台词，非原作引用",
+        "kind": "fan",
+        "file": "tomori-play-2-extra.mp3"
+      }
+    ],
+    "pass": [
+      {
+        "jp": "今は……見てるね。",
+        "zh": "现在……我先看着。",
+        "source": "同人原创场景台词，非原作引用",
+        "kind": "fan",
+        "file": "tomori-pass-1-extra.mp3"
+      },
+      {
+        "jp": "……次に、つなぐから。",
+        "zh": "……下一次，我会接上的。",
+        "source": "同人原创场景台词，非原作引用",
+        "kind": "fan",
+        "file": "tomori-pass-2-extra.mp3"
+      }
+    ],
+    "chat": [
+      {
+        "jp": "一緒にいると……落ち着く。",
+        "zh": "和你一起……就能安心下来。",
+        "source": "同人原创场景台词，非原作引用",
+        "kind": "fan",
+        "file": "tomori-chat-1-extra.mp3"
+      },
+      {
+        "jp": "終わっても、少し話せる？",
+        "zh": "结束以后，还能聊一会儿吗？",
+        "source": "同人原创场景台词，非原作引用",
+        "kind": "fan",
+        "file": "tomori-chat-2-extra.mp3"
+      }
+    ],
+    "reply": [
+      {
+        "jp": "うん……ちゃんと聞いてる。",
+        "zh": "嗯……我有在认真听。",
+        "source": "同人原创场景台词，非原作引用",
+        "kind": "fan",
+        "file": "tomori-reply-1-extra.mp3"
+      },
+      {
+        "jp": "ありがとう。私も、頑張る。",
+        "zh": "谢谢。我也会努力。",
+        "source": "同人原创场景台词，非原作引用",
+        "kind": "fan",
+        "file": "tomori-reply-2-extra.mp3"
+      }
+    ],
+    "win": [
+      {
+        "jp": "勝てた……みんなのおかげだね。",
+        "zh": "赢了……是多亏大家呢。",
+        "source": "同人原创场景台词，非原作引用",
+        "kind": "fan",
+        "file": "tomori-win-1-extra.mp3"
+      },
+      {
+        "jp": "うれしい。また一緒に、できる？",
+        "zh": "好开心。还能一起玩吗？",
+        "source": "同人原创场景台词，非原作引用",
+        "kind": "fan",
+        "file": "tomori-win-2-extra.mp3"
+      }
+    ],
+    "lose": [
+      {
+        "jp": "うまく、できなかった……もう一度。",
+        "zh": "没能做好……再试一次。",
+        "source": "同人原创场景台词，非原作引用",
+        "kind": "fan",
+        "file": "tomori-lose-1-extra.mp3"
+      },
+      {
+        "jp": "次は……つなげたい。",
+        "zh": "下一次……想好好接上。",
+        "source": "同人原创场景台词，非原作引用",
+        "kind": "fan",
+        "file": "tomori-lose-2-extra.mp3"
+      }
+    ],
+    "skill": [
+      {
+        "jp": "小さな手がかり……見つけた。",
+        "zh": "找到了……小小的线索。",
+        "source": "同人原创场景台词，非原作引用",
+        "kind": "fan",
+        "file": "tomori-skill-1-extra.mp3"
+      },
+      {
+        "jp": "少しだけ、確かめてみるね。",
+        "zh": "让我稍微确认一下。",
+        "source": "同人原创场景台词，非原作引用",
+        "kind": "fan",
+        "file": "tomori-skill-2-extra.mp3"
+      }
+    ]
+  },
+  "anon": {
+    "lobby": [
+      {
+        "jp": "練習のあとは、トランプでしょ！",
+        "zh": "练习之后，当然要玩纸牌啦！",
+        "source": "同人原创角色独白，非原作引用",
+        "kind": "fan",
+        "file": "anon-lobby-1-perspective.mp3"
+      },
+      {
+        "jp": "今日はいいとこ見せちゃうんだから！",
+        "zh": "今天一定要好好表现一下！",
+        "source": "同人原创角色独白，非原作引用",
+        "kind": "fan",
+        "file": "anon-lobby-2-perspective.mp3"
+      }
+    ],
+    "table": [
+      {
+        "jp": "ルールは大丈夫！たぶんね。",
+        "zh": "规则没问题！大概吧。",
+        "source": "同人原创场景台词，非原作引用",
+        "kind": "fan",
+        "file": "anon-table-1-extra.mp3"
+      },
+      {
+        "jp": "よーし、かっこいいとこ見せちゃお！",
+        "zh": "好，要让你看看我帅气的一面！",
+        "source": "同人原创场景台词，非原作引用",
+        "kind": "fan",
+        "file": "anon-table-2-extra.mp3"
+      }
+    ],
+    "play": [
+      {
+        "jp": "これなら、いい感じじゃない？",
+        "zh": "这手应该不错吧？",
+        "source": "同人原创场景台词，非原作引用",
+        "kind": "fan",
+        "file": "anon-play-1-extra.mp3"
+      },
+      {
+        "jp": "ちょっと待って、こっちにする！",
+        "zh": "等一下，我选这手！",
+        "source": "同人原创场景台词，非原作引用",
+        "kind": "fan",
+        "file": "anon-play-2-extra.mp3"
+      }
+    ],
+    "pass": [
+      {
+        "jp": "んー、今はやめとこっかな。",
+        "zh": "嗯——现在还是先不出了。",
+        "source": "同人原创场景台词，非原作引用",
+        "kind": "fan",
+        "file": "anon-pass-1-extra.mp3"
+      },
+      {
+        "jp": "ここは譲る！次、見ててね！",
+        "zh": "这次让给你！看我下一手！",
+        "source": "同人原创场景台词，非原作引用",
+        "kind": "fan",
+        "file": "anon-pass-2-extra.mp3"
+      }
+    ],
+    "chat": [
+      {
+        "jp": "ね、今のちょっとよくなかった？",
+        "zh": "刚才那手，是不是还不错？",
+        "source": "同人原创场景台词，非原作引用",
+        "kind": "fan",
+        "file": "anon-chat-1-extra.mp3"
+      },
+      {
+        "jp": "終わったら、みんなで何か食べに行かない？",
+        "zh": "结束之后，大家一起去吃点什么吧？",
+        "source": "同人原创场景台词，非原作引用",
+        "kind": "fan",
+        "file": "anon-chat-2-extra.mp3"
+      }
+    ],
+    "reply": [
+      {
+        "jp": "わかってるって！任せといて！",
+        "zh": "知道啦！交给我！",
+        "source": "同人原创场景台词，非原作引用",
+        "kind": "fan",
+        "file": "anon-reply-1-extra.mp3"
+      },
+      {
+        "jp": "いいね！私も乗っかっちゃお！",
+        "zh": "不错！那我也跟上！",
+        "source": "同人原创场景台词，非原作引用",
+        "kind": "fan",
+        "file": "anon-reply-2-extra.mp3"
+      }
+    ],
+    "win": [
+      {
+        "jp": "やった！ね、けっこう上手くない？",
+        "zh": "赢啦！我还挺厉害的吧？",
+        "source": "同人原创场景台词，非原作引用",
+        "kind": "fan",
+        "file": "anon-win-1-extra.mp3"
+      },
+      {
+        "jp": "今の見た？ちゃんと作戦どおり！",
+        "zh": "看到了吗？完全按计划来哦！",
+        "source": "同人原创场景台词，非原作引用",
+        "kind": "fan",
+        "file": "anon-win-2-extra.mp3"
+      }
+    ],
+    "lose": [
+      {
+        "jp": "えー！今のは、ちょっと惜しかったじゃん。",
+        "zh": "诶！刚才就差那么一点嘛。",
+        "source": "同人原创场景台词，非原作引用",
+        "kind": "fan",
+        "file": "anon-lose-1-extra.mp3"
+      },
+      {
+        "jp": "次は変える！同じ手には引っかからないって。",
+        "zh": "下次换个办法！不会再中同一招啦。",
+        "source": "同人原创场景台词，非原作引用",
+        "kind": "fan",
+        "file": "anon-lose-2-extra.mp3"
+      }
+    ],
+    "skill": [
+      {
+        "jp": "ちょっと試してみよ。わかるかもしれないし！",
+        "zh": "试探一下吧，说不定就明白了！",
+        "source": "同人原创场景台词，非原作引用",
+        "kind": "fan",
+        "file": "anon-skill-1-extra.mp3"
+      },
+      {
+        "jp": "準備しといて損はないでしょ？",
+        "zh": "提前准备总不会吃亏吧？",
+        "source": "同人原创场景台词，非原作引用",
+        "kind": "fan",
+        "file": "anon-skill-2-extra.mp3"
+      }
+    ]
+  },
+  "rana": {
+    "lobby": [
+      {
+        "jp": "トランプ。やる。",
+        "zh": "纸牌。要玩。",
+        "source": "同人原创角色独白，非原作引用",
+        "kind": "fan",
+        "file": "rana-lobby-1-perspective.mp3"
+      },
+      {
+        "jp": "おもしろい手札、来るかな。",
+        "zh": "会拿到有意思的手牌吗。",
+        "source": "同人原创角色独白，非原作引用",
+        "kind": "fan",
+        "file": "rana-lobby-2-perspective.mp3"
+      }
+    ],
+    "table": [
+      {
+        "jp": "おもしろそう。やる。",
+        "zh": "好像很有趣。玩。",
+        "source": "同人原创场景台词，非原作引用",
+        "kind": "fan",
+        "file": "rana-table-1-extra.mp3"
+      },
+      {
+        "jp": "早く始めよう。",
+        "zh": "快开始吧。",
+        "source": "同人原创场景台词，非原作引用",
+        "kind": "fan",
+        "file": "rana-table-2-extra.mp3"
+      }
+    ],
+    "play": [
+      {
+        "jp": "これ、つながる。",
+        "zh": "这个，能连上。",
+        "source": "同人原创场景台词，非原作引用",
+        "kind": "fan",
+        "file": "rana-play-1-extra.mp3"
+      },
+      {
+        "jp": "こっちがいい。",
+        "zh": "这手更好。",
+        "source": "同人原创场景台词，非原作引用",
+        "kind": "fan",
+        "file": "rana-play-2-extra.mp3"
+      }
+    ],
+    "pass": [
+      {
+        "jp": "今はいい。",
+        "zh": "现在不出。",
+        "source": "同人原创场景台词，非原作引用",
+        "kind": "fan",
+        "file": "rana-pass-1-extra.mp3"
+      },
+      {
+        "jp": "……待つ。",
+        "zh": "……等着。",
+        "source": "同人原创场景台词，非原作引用",
+        "kind": "fan",
+        "file": "rana-pass-2-extra.mp3"
+      }
+    ],
+    "chat": [
+      {
+        "jp": "終わったら、抹茶。",
+        "zh": "结束之后，要抹茶。",
+        "source": "同人原创场景台词，非原作引用",
+        "kind": "fan",
+        "file": "rana-chat-1-extra.mp3"
+      },
+      {
+        "jp": "もう一回。おもしろいから。",
+        "zh": "再来一次。因为很有趣。",
+        "source": "同人原创场景台词，非原作引用",
+        "kind": "fan",
+        "file": "rana-chat-2-extra.mp3"
+      }
+    ],
+    "reply": [
+      {
+        "jp": "うん。わかった。",
+        "zh": "嗯。知道了。",
+        "source": "同人原创场景台词，非原作引用",
+        "kind": "fan",
+        "file": "rana-reply-1-extra.mp3"
+      },
+      {
+        "jp": "それ、いいね。",
+        "zh": "这个，不错。",
+        "source": "同人原创场景台词，非原作引用",
+        "kind": "fan",
+        "file": "rana-reply-2-extra.mp3"
+      }
+    ],
+    "win": [
+      {
+        "jp": "勝った。次は？",
+        "zh": "赢了。下一局呢？",
+        "source": "同人原创场景台词，非原作引用",
+        "kind": "fan",
+        "file": "rana-win-1-extra.mp3"
+      },
+      {
+        "jp": "おもしろかった。もっとやる。",
+        "zh": "很有趣。还要玩。",
+        "source": "同人原创场景台词，非原作引用",
+        "kind": "fan",
+        "file": "rana-win-2-extra.mp3"
+      }
+    ],
+    "lose": [
+      {
+        "jp": "負けた。もう一回。",
+        "zh": "输了。再来一次。",
+        "source": "同人原创场景台词，非原作引用",
+        "kind": "fan",
+        "file": "rana-lose-1-extra.mp3"
+      },
+      {
+        "jp": "次、違うのにする。",
+        "zh": "下次，换一种。",
+        "source": "同人原创场景台词，非原作引用",
+        "kind": "fan",
+        "file": "rana-lose-2-extra.mp3"
+      }
+    ],
+    "skill": [
+      {
+        "jp": "何か、ある。",
+        "zh": "有点东西。",
+        "source": "同人原创场景台词，非原作引用",
+        "kind": "fan",
+        "file": "rana-skill-1-extra.mp3"
+      },
+      {
+        "jp": "見つけた。",
+        "zh": "找到了。",
+        "source": "同人原创场景台词，非原作引用",
+        "kind": "fan",
+        "file": "rana-skill-2-extra.mp3"
+      }
+    ]
+  },
+  "soyo": {
+    "lobby": [
+      {
+        "jp": "練習、お疲れさま。少し休憩にしようか。",
+        "zh": "练习辛苦了。稍微休息一下吧。",
+        "source": "同人原创角色独白，非原作引用",
+        "kind": "fan",
+        "file": "soyo-lobby-1-perspective.mp3"
+      },
+      {
+        "jp": "お茶の準備も、できたよ。",
+        "zh": "茶也准备好了。",
+        "source": "同人原创角色独白，非原作引用",
+        "kind": "fan",
+        "file": "soyo-lobby-2-perspective.mp3"
+      }
+    ],
+    "table": [
+      {
+        "jp": "みんな、揃ったね。始めようか。",
+        "zh": "大家都到齐了。开始吧。",
+        "source": "同人原创场景台词，非原作引用",
+        "kind": "fan",
+        "file": "soyo-table-1-extra.mp3"
+      },
+      {
+        "jp": "焦らなくていいからね。",
+        "zh": "不用着急哦。",
+        "source": "同人原创场景台词，非原作引用",
+        "kind": "fan",
+        "file": "soyo-table-2-extra.mp3"
+      }
+    ],
+    "play": [
+      {
+        "jp": "じゃあ、これにしようかな。",
+        "zh": "那么，就选这手吧。",
+        "source": "同人原创场景台词，非原作引用",
+        "kind": "fan",
+        "file": "soyo-play-1-extra.mp3"
+      },
+      {
+        "jp": "ここなら、出せそうね。",
+        "zh": "现在应该可以出了。",
+        "source": "同人原创场景台词，非原作引用",
+        "kind": "fan",
+        "file": "soyo-play-2-extra.mp3"
+      }
+    ],
+    "pass": [
+      {
+        "jp": "私は、少し待ってるね。",
+        "zh": "我先稍微等一等。",
+        "source": "同人原创场景台词，非原作引用",
+        "kind": "fan",
+        "file": "soyo-pass-1-extra.mp3"
+      },
+      {
+        "jp": "今は、出さないでおこうかな。",
+        "zh": "这一手，还是先不出了。",
+        "source": "同人原创场景台词，非原作引用",
+        "kind": "fan",
+        "file": "soyo-pass-2-extra.mp3"
+      }
+    ],
+    "chat": [
+      {
+        "jp": "お茶、少し飲む？",
+        "zh": "要喝一点茶吗？",
+        "source": "同人原创场景台词，非原作引用",
+        "kind": "fan",
+        "file": "soyo-chat-1-extra.mp3"
+      },
+      {
+        "jp": "無理に急がなくても、待ってるよ。",
+        "zh": "不用勉强自己赶时间，我等着。",
+        "source": "同人原创场景台词，非原作引用",
+        "kind": "fan",
+        "file": "soyo-chat-2-extra.mp3"
+      }
+    ],
+    "reply": [
+      {
+        "jp": "うん、助かる。ありがとう。",
+        "zh": "嗯，帮大忙了。谢谢。",
+        "source": "同人原创场景台词，非原作引用",
+        "kind": "fan",
+        "file": "soyo-reply-1-extra.mp3"
+      },
+      {
+        "jp": "そうだね。続けてみようか。",
+        "zh": "也是呢。继续试试吧。",
+        "source": "同人原创场景台词，非原作引用",
+        "kind": "fan",
+        "file": "soyo-reply-2-extra.mp3"
+      }
+    ],
+    "win": [
+      {
+        "jp": "よかった。うまくつながったね。",
+        "zh": "太好了，顺利接上了呢。",
+        "source": "同人原创场景台词，非原作引用",
+        "kind": "fan",
+        "file": "soyo-win-1-extra.mp3"
+      },
+      {
+        "jp": "ありがとう。一緒だと、心強いね。",
+        "zh": "谢谢，有你一起就安心多了。",
+        "source": "同人原创场景台词，非原作引用",
+        "kind": "fan",
+        "file": "soyo-win-2-extra.mp3"
+      }
+    ],
+    "lose": [
+      {
+        "jp": "もう少し、考えればよかったかな。",
+        "zh": "或许应该再多考虑一下。",
+        "source": "同人原创场景台词，非原作引用",
+        "kind": "fan",
+        "file": "soyo-lose-1-extra.mp3"
+      },
+      {
+        "jp": "そっか……次は気をつけるね。",
+        "zh": "这样啊……下次我会注意的。",
+        "source": "同人原创场景台词，非原作引用",
+        "kind": "fan",
+        "file": "soyo-lose-2-extra.mp3"
+      }
+    ],
+    "skill": [
+      {
+        "jp": "少しだけ、確かめてもいい？",
+        "zh": "可以让我稍微确认一下吗？",
+        "source": "同人原创场景台词，非原作引用",
+        "kind": "fan",
+        "file": "soyo-skill-1-extra.mp3"
+      },
+      {
+        "jp": "なるほど。覚えておくね。",
+        "zh": "原来如此，我记住了。",
+        "source": "同人原创场景台词，非原作引用",
+        "kind": "fan",
+        "file": "soyo-skill-2-extra.mp3"
+      }
+    ]
+  },
+  "taki": {
+    "lobby": [
+      {
+        "jp": "練習終わり。少しなら、付き合う。",
+        "zh": "练习结束了。稍微玩一会儿也行。",
+        "source": "同人原创角色独白，非原作引用",
+        "kind": "fan",
+        "file": "taki-lobby-1-perspective.mp3"
+      },
+      {
+        "jp": "やるなら、ちゃんとやるから。",
+        "zh": "既然要玩，我就会认真。",
+        "source": "同人原创角色独白，非原作引用",
+        "kind": "fan",
+        "file": "taki-lobby-2-perspective.mp3"
+      }
+    ],
+    "table": [
+      {
+        "jp": "準備できた？じゃ、いくよ。",
+        "zh": "准备好了？那开始。",
+        "source": "同人原创场景台词，非原作引用",
+        "kind": "fan",
+        "file": "taki-table-1-extra.mp3"
+      },
+      {
+        "jp": "ちゃんと見てるから。",
+        "zh": "我会认真看着的。",
+        "source": "同人原创场景台词，非原作引用",
+        "kind": "fan",
+        "file": "taki-table-2-extra.mp3"
+      }
+    ],
+    "play": [
+      {
+        "jp": "ここは、これ。",
+        "zh": "这里，就这手。",
+        "source": "同人原创场景台词，非原作引用",
+        "kind": "fan",
+        "file": "taki-play-1-extra.mp3"
+      },
+      {
+        "jp": "……よし、出す。",
+        "zh": "……好，出了。",
+        "source": "同人原创场景台词，非原作引用",
+        "kind": "fan",
+        "file": "taki-play-2-extra.mp3"
+      }
+    ],
+    "pass": [
+      {
+        "jp": "今は出さない。",
+        "zh": "现在不出。",
+        "source": "同人原创场景台词，非原作引用",
+        "kind": "fan",
+        "file": "taki-pass-1-extra.mp3"
+      },
+      {
+        "jp": "次、頼む。",
+        "zh": "下一手，拜托了。",
+        "source": "同人原创场景台词，非原作引用",
+        "kind": "fan",
+        "file": "taki-pass-2-extra.mp3"
+      }
+    ],
+    "chat": [
+      {
+        "jp": "考えてるなら、待つけど。",
+        "zh": "你还在想的话，我会等。",
+        "source": "同人原创场景台词，非原作引用",
+        "kind": "fan",
+        "file": "taki-chat-1-extra.mp3"
+      },
+      {
+        "jp": "休憩、入れる？無理すんなよ。",
+        "zh": "要休息一下吗？别逞强。",
+        "source": "同人原创场景台词，非原作引用",
+        "kind": "fan",
+        "file": "taki-chat-2-extra.mp3"
+      }
+    ],
+    "reply": [
+      {
+        "jp": "わかった。こっちは任せて。",
+        "zh": "知道了。这边交给我。",
+        "source": "同人原创场景台词，非原作引用",
+        "kind": "fan",
+        "file": "taki-reply-1-extra.mp3"
+      },
+      {
+        "jp": "助かった。ありがと。",
+        "zh": "帮大忙了。谢了。",
+        "source": "同人原创场景台词，非原作引用",
+        "kind": "fan",
+        "file": "taki-reply-2-extra.mp3"
+      }
+    ],
+    "win": [
+      {
+        "jp": "よし。うまくいったね。",
+        "zh": "好，打得不错。",
+        "source": "同人原创场景台词，非原作引用",
+        "kind": "fan",
+        "file": "taki-win-1-extra.mp3"
+      },
+      {
+        "jp": "最後まで、つながってよかった。",
+        "zh": "能一直配合到最后，太好了。",
+        "source": "同人原创场景台词，非原作引用",
+        "kind": "fan",
+        "file": "taki-win-2-extra.mp3"
+      }
+    ],
+    "lose": [
+      {
+        "jp": "……読み違えた。次は直す。",
+        "zh": "……看错了。下次改。",
+        "source": "同人原创场景台词，非原作引用",
+        "kind": "fan",
+        "file": "taki-lose-1-extra.mp3"
+      },
+      {
+        "jp": "悔しいけど、もう一回。",
+        "zh": "虽然不甘心，再来一局。",
+        "source": "同人原创场景台词，非原作引用",
+        "kind": "fan",
+        "file": "taki-lose-2-extra.mp3"
+      }
+    ],
+    "skill": [
+      {
+        "jp": "確認する。ちょっと待って。",
+        "zh": "确认一下，稍等。",
+        "source": "同人原创场景台词，非原作引用",
+        "kind": "fan",
+        "file": "taki-skill-1-extra.mp3"
+      },
+      {
+        "jp": "これで、次が見える。",
+        "zh": "这样就知道下一步了。",
+        "source": "同人原创场景台词，非原作引用",
+        "kind": "fan",
+        "file": "taki-skill-2-extra.mp3"
+      }
+    ]
+  },
+  "uika": {
+    "lobby": [
+      {
+        "jp": "リハーサル、終わったね。少し休もうかな。",
+        "zh": "排练结束了。稍微休息一下吧。",
+        "source": "同人原创角色独白，非原作引用",
+        "kind": "fan",
+        "file": "uika-lobby-1-perspective.mp3"
+      },
+      {
+        "jp": "今日は、落ち着いて打てそう。",
+        "zh": "今天，应该能沉住气打牌。",
+        "source": "同人原创角色独白，非原作引用",
+        "kind": "fan",
+        "file": "uika-lobby-2-perspective.mp3"
+      }
+    ],
+    "table": [
+      {
+        "jp": "よろしくね。落ち着いていこう。",
+        "zh": "请多关照。慢慢来吧。",
+        "source": "同人原创场景台词，非原作引用",
+        "kind": "fan",
+        "file": "uika-table-1-extra.mp3"
+      },
+      {
+        "jp": "大丈夫。ちゃんと見てるから。",
+        "zh": "没关系，我会认真看着。",
+        "source": "同人原创场景台词，非原作引用",
+        "kind": "fan",
+        "file": "uika-table-2-extra.mp3"
+      }
+    ],
+    "play": [
+      {
+        "jp": "じゃあ、この一枚で。",
+        "zh": "那么，就这张。",
+        "source": "同人原创场景台词，非原作引用",
+        "kind": "fan",
+        "file": "uika-play-1-extra.mp3"
+      },
+      {
+        "jp": "ここは、私がつなぐね。",
+        "zh": "这里由我接上。",
+        "source": "同人原创场景台词，非原作引用",
+        "kind": "fan",
+        "file": "uika-play-2-extra.mp3"
+      }
+    ],
+    "pass": [
+      {
+        "jp": "今は、そちらに任せるね。",
+        "zh": "现在先交给你。",
+        "source": "同人原创场景台词，非原作引用",
+        "kind": "fan",
+        "file": "uika-pass-1-extra.mp3"
+      },
+      {
+        "jp": "少し、様子を見ようかな。",
+        "zh": "我再稍微观察一下。",
+        "source": "同人原创场景台词，非原作引用",
+        "kind": "fan",
+        "file": "uika-pass-2-extra.mp3"
+      }
+    ],
+    "chat": [
+      {
+        "jp": "疲れてない？ひと息つこうか。",
+        "zh": "累了吗？要稍微歇一下吗？",
+        "source": "同人原创场景台词，非原作引用",
+        "kind": "fan",
+        "file": "uika-chat-1-extra.mp3"
+      },
+      {
+        "jp": "こうして話せるの、うれしいな。",
+        "zh": "能这样一起聊天，我很开心。",
+        "source": "同人原创场景台词，非原作引用",
+        "kind": "fan",
+        "file": "uika-chat-2-extra.mp3"
+      }
+    ],
+    "reply": [
+      {
+        "jp": "うん。私も合わせるね。",
+        "zh": "嗯，我也会配合你的。",
+        "source": "同人原创场景台词，非原作引用",
+        "kind": "fan",
+        "file": "uika-reply-1-extra.mp3"
+      },
+      {
+        "jp": "ありがとう。頼りにしてる。",
+        "zh": "谢谢，我很信赖你。",
+        "source": "同人原创场景台词，非原作引用",
+        "kind": "fan",
+        "file": "uika-reply-2-extra.mp3"
+      }
+    ],
+    "win": [
+      {
+        "jp": "よかった。最後まで一緒にできたね。",
+        "zh": "太好了，我们一起坚持到了最后。",
+        "source": "同人原创场景台词，非原作引用",
+        "kind": "fan",
+        "file": "uika-win-1-extra.mp3"
+      },
+      {
+        "jp": "うれしいね。また、付き合ってくれる？",
+        "zh": "好开心。下次还愿意陪我吗？",
+        "source": "同人原创场景台词，非原作引用",
+        "kind": "fan",
+        "file": "uika-win-2-extra.mp3"
+      }
+    ],
+    "lose": [
+      {
+        "jp": "私も、もう少し考えてみるね。",
+        "zh": "我也再仔细想一想。",
+        "source": "同人原创场景台词，非原作引用",
+        "kind": "fan",
+        "file": "uika-lose-1-extra.mp3"
+      },
+      {
+        "jp": "残念だったね。でも、また一緒に。",
+        "zh": "真可惜，不过下次还一起吧。",
+        "source": "同人原创场景台词，非原作引用",
+        "kind": "fan",
+        "file": "uika-lose-2-extra.mp3"
+      }
+    ],
+    "skill": [
+      {
+        "jp": "つなげられるか、確かめてみよう。",
+        "zh": "确认一下能不能接上吧。",
+        "source": "同人原创场景台词，非原作引用",
+        "kind": "fan",
+        "file": "uika-skill-1-extra.mp3"
+      },
+      {
+        "jp": "次の一手、少し見えてきたよ。",
+        "zh": "下一手，渐渐有思路了。",
+        "source": "同人原创场景台词，非原作引用",
+        "kind": "fan",
+        "file": "uika-skill-2-extra.mp3"
+      }
+    ]
+  },
+  "mutsumi-quiet": {
+    "lobby": [
+      {
+        "jp": "……少し、休む。",
+        "zh": "……休息一会儿。",
+        "source": "同人原创角色独白，非原作引用",
+        "kind": "fan",
+        "file": "mutsumi-quiet-lobby-1-perspective.mp3"
+      },
+      {
+        "jp": "カード……ここにある。",
+        "zh": "纸牌……在这里。",
+        "source": "同人原创角色独白，非原作引用",
+        "kind": "fan",
+        "file": "mutsumi-quiet-lobby-2-perspective.mp3"
+      }
+    ],
+    "table": [
+      {
+        "jp": "……始めよう。",
+        "zh": "……开始吧。",
+        "source": "同人原创场景台词，非原作引用",
+        "kind": "fan",
+        "file": "mutsumi-quiet-table-1-extra.mp3"
+      },
+      {
+        "jp": "ゆっくりで……いい。",
+        "zh": "慢慢来……就好。",
+        "source": "同人原创场景台词，非原作引用",
+        "kind": "fan",
+        "file": "mutsumi-quiet-table-2-extra.mp3"
+      }
+    ],
+    "play": [
+      {
+        "jp": "……こっち。",
+        "zh": "……这手。",
+        "source": "同人原创场景台词，非原作引用",
+        "kind": "fan",
+        "file": "mutsumi-quiet-play-1-extra.mp3"
+      },
+      {
+        "jp": "これなら……出せる。",
+        "zh": "这张……可以出。",
+        "source": "同人原创场景台词，非原作引用",
+        "kind": "fan",
+        "file": "mutsumi-quiet-play-2-extra.mp3"
+      }
+    ],
+    "pass": [
+      {
+        "jp": "……まだ。",
+        "zh": "……还不出。",
+        "source": "同人原创场景台词，非原作引用",
+        "kind": "fan",
+        "file": "mutsumi-quiet-pass-1-extra.mp3"
+      },
+      {
+        "jp": "今は……やめておく。",
+        "zh": "现在……先不出了。",
+        "source": "同人原创场景台词，非原作引用",
+        "kind": "fan",
+        "file": "mutsumi-quiet-pass-2-extra.mp3"
+      }
+    ],
+    "chat": [
+      {
+        "jp": "ここ……落ち着く。",
+        "zh": "这里……能让人安心。",
+        "source": "同人原创场景台词，非原作引用",
+        "kind": "fan",
+        "file": "mutsumi-quiet-chat-1-extra.mp3"
+      },
+      {
+        "jp": "……そばに、いて。",
+        "zh": "……待在我身边吧。",
+        "source": "同人原创场景台词，非原作引用",
+        "kind": "fan",
+        "file": "mutsumi-quiet-chat-2-extra.mp3"
+      }
+    ],
+    "reply": [
+      {
+        "jp": "……わかった。",
+        "zh": "……知道了。",
+        "source": "同人原创场景台词，非原作引用",
+        "kind": "fan",
+        "file": "mutsumi-quiet-reply-1-extra.mp3"
+      },
+      {
+        "jp": "うん……ありがとう。",
+        "zh": "嗯……谢谢。",
+        "source": "同人原创场景台词，非原作引用",
+        "kind": "fan",
+        "file": "mutsumi-quiet-reply-2-extra.mp3"
+      }
+    ],
+    "win": [
+      {
+        "jp": "……できた。",
+        "zh": "……做到了。",
+        "source": "同人原创场景台词，非原作引用",
+        "kind": "fan",
+        "file": "mutsumi-quiet-win-1-extra.mp3"
+      },
+      {
+        "jp": "一緒で……よかった。",
+        "zh": "能一起……真好。",
+        "source": "同人原创场景台词，非原作引用",
+        "kind": "fan",
+        "file": "mutsumi-quiet-win-2-extra.mp3"
+      }
+    ],
+    "lose": [
+      {
+        "jp": "……もう一度、考える。",
+        "zh": "……再想一想。",
+        "source": "同人原创场景台词，非原作引用",
+        "kind": "fan",
+        "file": "mutsumi-quiet-lose-1-extra.mp3"
+      },
+      {
+        "jp": "……次は。",
+        "zh": "……下一次。",
+        "source": "同人原创场景台词，非原作引用",
+        "kind": "fan",
+        "file": "mutsumi-quiet-lose-2-extra.mp3"
+      }
+    ],
+    "skill": [
+      {
+        "jp": "……つながってる。",
+        "zh": "……连在一起。",
+        "source": "同人原创场景台词，非原作引用",
+        "kind": "fan",
+        "file": "mutsumi-quiet-skill-1-extra.mp3"
+      },
+      {
+        "jp": "少し……見えた。",
+        "zh": "稍微……看清了。",
+        "source": "同人原创场景台词，非原作引用",
+        "kind": "fan",
+        "file": "mutsumi-quiet-skill-2-extra.mp3"
+      }
+    ]
+  },
+  "mutsumi-mortis": {
+    "lobby": [
+      {
+        "jp": "休憩だね！今日は何して遊ぼっかな。",
+        "zh": "休息啦！今天玩什么好呢。",
+        "source": "同人原创角色独白，非原作引用",
+        "kind": "fan",
+        "file": "mutsumi-mortis-lobby-1-perspective.mp3"
+      },
+      {
+        "jp": "今は私の番！楽しくしなくちゃね。",
+        "zh": "现在轮到我了！得让气氛开心起来。",
+        "source": "同人原创角色独白，非原作引用",
+        "kind": "fan",
+        "file": "mutsumi-mortis-lobby-2-perspective.mp3"
+      }
+    ],
+    "table": [
+      {
+        "jp": "大丈夫、私も一緒だから！",
+        "zh": "没事，还有我陪着呢！",
+        "source": "同人原创场景台词，非原作引用",
+        "kind": "fan",
+        "file": "mutsumi-mortis-table-1-extra.mp3"
+      },
+      {
+        "jp": "難しい顔しないで。まず、やってみよ！",
+        "zh": "别愁眉苦脸嘛，先试试看！",
+        "source": "同人原创场景台词，非原作引用",
+        "kind": "fan",
+        "file": "mutsumi-mortis-table-2-extra.mp3"
+      }
+    ],
+    "play": [
+      {
+        "jp": "ふふ、こっちにしちゃお！",
+        "zh": "呵呵，就选这手！",
+        "source": "同人原创场景台词，非原作引用",
+        "kind": "fan",
+        "file": "mutsumi-mortis-play-1-extra.mp3"
+      },
+      {
+        "jp": "ほら、まだつながるよ！",
+        "zh": "看，还能接上哦！",
+        "source": "同人原创场景台词，非原作引用",
+        "kind": "fan",
+        "file": "mutsumi-mortis-play-2-extra.mp3"
+      }
+    ],
+    "pass": [
+      {
+        "jp": "今は見てる！次、どうなるかな。",
+        "zh": "现在我先看着！接下来会怎样呢？",
+        "source": "同人原创场景台词，非原作引用",
+        "kind": "fan",
+        "file": "mutsumi-mortis-pass-1-extra.mp3"
+      },
+      {
+        "jp": "いいよ、先にどうぞ！",
+        "zh": "好呀，你先来吧！",
+        "source": "同人原创场景台词，非原作引用",
+        "kind": "fan",
+        "file": "mutsumi-mortis-pass-2-extra.mp3"
+      }
+    ],
+    "chat": [
+      {
+        "jp": "楽しいね。ずっとこうしていられたらいいのに。",
+        "zh": "真开心。要是能一直这样就好了。",
+        "source": "同人原创场景台词，非原作引用",
+        "kind": "fan",
+        "file": "mutsumi-mortis-chat-1-extra.mp3"
+      },
+      {
+        "jp": "ね、私とも話してよ。ちゃんと聞いてるから！",
+        "zh": "也和我聊聊天嘛。我有认真听哦！",
+        "source": "同人原创场景台词，非原作引用",
+        "kind": "fan",
+        "file": "mutsumi-mortis-chat-2-extra.mp3"
+      }
+    ],
+    "reply": [
+      {
+        "jp": "うんうん！それ、いいと思う！",
+        "zh": "嗯嗯！我觉得不错！",
+        "source": "同人原创场景台词，非原作引用",
+        "kind": "fan",
+        "file": "mutsumi-mortis-reply-1-extra.mp3"
+      },
+      {
+        "jp": "ありがと。いてくれると、ほっとする。",
+        "zh": "谢谢，你在这里就让我安心了。",
+        "source": "同人原创场景台词，非原作引用",
+        "kind": "fan",
+        "file": "mutsumi-mortis-reply-2-extra.mp3"
+      }
+    ],
+    "win": [
+      {
+        "jp": "やったね！ねえ、楽しかった？",
+        "zh": "赢啦！你玩得开心吗？",
+        "source": "同人原创场景台词，非原作引用",
+        "kind": "fan",
+        "file": "mutsumi-mortis-win-1-extra.mp3"
+      },
+      {
+        "jp": "まだ時間あるよね？もう一回、付き合って！",
+        "zh": "还有时间吧？再陪我一局！",
+        "source": "同人原创场景台词，非原作引用",
+        "kind": "fan",
+        "file": "mutsumi-mortis-win-2-extra.mp3"
+      }
+    ],
+    "lose": [
+      {
+        "jp": "あれ、負けちゃった。……でも、楽しかったよね？",
+        "zh": "啊，输了呢。……不过，玩得很开心吧？",
+        "source": "同人原创场景台词，非原作引用",
+        "kind": "fan",
+        "file": "mutsumi-mortis-lose-1-extra.mp3"
+      },
+      {
+        "jp": "次はうまくやるから。もう少しだけ、ね？",
+        "zh": "下次我会做好的。再玩一会儿，好吗？",
+        "source": "同人原创场景台词，非原作引用",
+        "kind": "fan",
+        "file": "mutsumi-mortis-lose-2-extra.mp3"
+      }
+    ],
+    "skill": [
+      {
+        "jp": "あ、ちょっと気づいちゃった！",
+        "zh": "啊，我好像发现了什么！",
+        "source": "同人原创场景台词，非原作引用",
+        "kind": "fan",
+        "file": "mutsumi-mortis-skill-1-extra.mp3"
+      },
+      {
+        "jp": "ねえ、これってどういうことかな？",
+        "zh": "这个，是怎么回事呢？",
+        "source": "同人原创场景台词，非原作引用",
+        "kind": "fan",
+        "file": "mutsumi-mortis-skill-2-extra.mp3"
+      }
+    ]
+  },
+  "umiri": {
+    "lobby": [
+      {
+        "jp": "リハーサル終了。少し休憩ですね。",
+        "zh": "排练结束。稍作休息吧。",
+        "source": "同人原创角色独白，非原作引用",
+        "kind": "fan",
+        "file": "umiri-lobby-1-perspective.mp3"
+      },
+      {
+        "jp": "カードの準備は、できています。",
+        "zh": "纸牌已经准备好了。",
+        "source": "同人原创角色独白，非原作引用",
+        "kind": "fan",
+        "file": "umiri-lobby-2-perspective.mp3"
+      }
+    ],
+    "table": [
+      {
+        "jp": "準備できています。いつでも。",
+        "zh": "准备好了，随时都可以。",
+        "source": "同人原创场景台词，非原作引用",
+        "kind": "fan",
+        "file": "umiri-table-1-extra.mp3"
+      },
+      {
+        "jp": "では、よろしくお願いします。",
+        "zh": "那么，请多关照。",
+        "source": "同人原创场景台词，非原作引用",
+        "kind": "fan",
+        "file": "umiri-table-2-extra.mp3"
+      }
+    ],
+    "play": [
+      {
+        "jp": "こちらでいきます。",
+        "zh": "我出这手。",
+        "source": "同人原创场景台词，非原作引用",
+        "kind": "fan",
+        "file": "umiri-play-1-extra.mp3"
+      },
+      {
+        "jp": "今なら、つなげます。",
+        "zh": "现在可以接上。",
+        "source": "同人原创场景台词，非原作引用",
+        "kind": "fan",
+        "file": "umiri-play-2-extra.mp3"
+      }
+    ],
+    "pass": [
+      {
+        "jp": "ここは、待ちます。",
+        "zh": "这里先等一下。",
+        "source": "同人原创场景台词，非原作引用",
+        "kind": "fan",
+        "file": "umiri-pass-1-extra.mp3"
+      },
+      {
+        "jp": "次に備えます。",
+        "zh": "留待下一手。",
+        "source": "同人原创场景台词，非原作引用",
+        "kind": "fan",
+        "file": "umiri-pass-2-extra.mp3"
+      }
+    ],
+    "chat": [
+      {
+        "jp": "少し休みますか。合わせますよ。",
+        "zh": "要休息一下吗？我都可以。",
+        "source": "同人原创场景台词，非原作引用",
+        "kind": "fan",
+        "file": "umiri-chat-1-extra.mp3"
+      },
+      {
+        "jp": "無理のないペースで、どうぞ。",
+        "zh": "按你舒服的节奏来吧。",
+        "source": "同人原创场景台词，非原作引用",
+        "kind": "fan",
+        "file": "umiri-chat-2-extra.mp3"
+      }
+    ],
+    "reply": [
+      {
+        "jp": "了解です。続けます。",
+        "zh": "明白，继续。",
+        "source": "同人原创场景台词，非原作引用",
+        "kind": "fan",
+        "file": "umiri-reply-1-extra.mp3"
+      },
+      {
+        "jp": "助かりました。ありがとうございます。",
+        "zh": "帮大忙了，谢谢。",
+        "source": "同人原创场景台词，非原作引用",
+        "kind": "fan",
+        "file": "umiri-reply-2-extra.mp3"
+      }
+    ],
+    "win": [
+      {
+        "jp": "いい連携でしたね。",
+        "zh": "配合得不错。",
+        "source": "同人原创场景台词，非原作引用",
+        "kind": "fan",
+        "file": "umiri-win-1-extra.mp3"
+      },
+      {
+        "jp": "お疲れさまでした。またご一緒しましょう。",
+        "zh": "辛苦了，下次也一起吧。",
+        "source": "同人原创场景台词，非原作引用",
+        "kind": "fan",
+        "file": "umiri-win-2-extra.mp3"
+      }
+    ],
+    "lose": [
+      {
+        "jp": "判断が遅れました。次に活かします。",
+        "zh": "判断慢了些，下次会改进。",
+        "source": "同人原创场景台词，非原作引用",
+        "kind": "fan",
+        "file": "umiri-lose-1-extra.mp3"
+      },
+      {
+        "jp": "一度、振り返っておきます。",
+        "zh": "我先回顾一下。",
+        "source": "同人原创场景台词，非原作引用",
+        "kind": "fan",
+        "file": "umiri-lose-2-extra.mp3"
+      }
+    ],
+    "skill": [
+      {
+        "jp": "確認できました。",
+        "zh": "确认到了。",
+        "source": "同人原创场景台词，非原作引用",
+        "kind": "fan",
+        "file": "umiri-skill-1-extra.mp3"
+      },
+      {
+        "jp": "この情報は、覚えておきましょう。",
+        "zh": "记下这条信息吧。",
+        "source": "同人原创场景台词，非原作引用",
+        "kind": "fan",
+        "file": "umiri-skill-2-extra.mp3"
+      }
+    ]
+  },
+  "nyamu": {
+    "lobby": [
+      {
+        "jp": "休憩時間！何して遊ぼっかな。",
+        "zh": "休息时间！玩什么好呢。",
+        "source": "同人原创角色独白，非原作引用",
+        "kind": "fan",
+        "file": "nyamu-lobby-1-perspective.mp3"
+      },
+      {
+        "jp": "今日は、にゃむの見せ場にしちゃお！",
+        "zh": "今天就变成喵梦的主场吧！",
+        "source": "同人原创角色独白，非原作引用",
+        "kind": "fan",
+        "file": "nyamu-lobby-2-perspective.mp3"
+      }
+    ],
+    "table": [
+      {
+        "jp": "にゃむのこと、ちゃんと見ててよ？",
+        "zh": "要好好看着喵梦哦？",
+        "source": "同人原创场景台词，非原作引用",
+        "kind": "fan",
+        "file": "nyamu-table-1-extra.mp3"
+      },
+      {
+        "jp": "よーし、始めちゃお！",
+        "zh": "好，开始吧！",
+        "source": "同人原创场景台词，非原作引用",
+        "kind": "fan",
+        "file": "nyamu-table-2-extra.mp3"
+      }
+    ],
+    "play": [
+      {
+        "jp": "これはどう？いいでしょ！",
+        "zh": "这手怎么样？不错吧！",
+        "source": "同人原创场景台词，非原作引用",
+        "kind": "fan",
+        "file": "nyamu-play-1-extra.mp3"
+      },
+      {
+        "jp": "はいっ、にゃむの番！",
+        "zh": "好，轮到喵梦！",
+        "source": "同人原创场景台词，非原作引用",
+        "kind": "fan",
+        "file": "nyamu-play-2-extra.mp3"
+      }
+    ],
+    "pass": [
+      {
+        "jp": "んー、今回は見ててあげる。",
+        "zh": "嗯——这次先看你表现。",
+        "source": "同人原创场景台词，非原作引用",
+        "kind": "fan",
+        "file": "nyamu-pass-1-extra.mp3"
+      },
+      {
+        "jp": "どうぞどうぞ。次はにゃむね！",
+        "zh": "请吧请吧，下次就是喵梦了！",
+        "source": "同人原创场景台词，非原作引用",
+        "kind": "fan",
+        "file": "nyamu-pass-2-extra.mp3"
+      }
+    ],
+    "chat": [
+      {
+        "jp": "今の、見てた？見逃してないよね？",
+        "zh": "刚才看到了吧？没错过吧？",
+        "source": "同人原创场景台词，非原作引用",
+        "kind": "fan",
+        "file": "nyamu-chat-1-extra.mp3"
+      },
+      {
+        "jp": "もっと反応してよ。にゃむ、頑張ってるんだけど！",
+        "zh": "多给点反应嘛，喵梦可是很努力的！",
+        "source": "同人原创场景台词，非原作引用",
+        "kind": "fan",
+        "file": "nyamu-chat-2-extra.mp3"
+      }
+    ],
+    "reply": [
+      {
+        "jp": "いいじゃん！そういうの好き！",
+        "zh": "不错嘛！我就喜欢这样！",
+        "source": "同人原创场景台词，非原作引用",
+        "kind": "fan",
+        "file": "nyamu-reply-1-extra.mp3"
+      },
+      {
+        "jp": "ありがと！次もよろしくね！",
+        "zh": "谢谢！下一手也拜托啦！",
+        "source": "同人原创场景台词，非原作引用",
+        "kind": "fan",
+        "file": "nyamu-reply-2-extra.mp3"
+      }
+    ],
+    "win": [
+      {
+        "jp": "どう？今日はにゃむの日って感じ！",
+        "zh": "怎么样？今天感觉是喵梦的主场！",
+        "source": "同人原创场景台词，非原作引用",
+        "kind": "fan",
+        "file": "nyamu-win-1-extra.mp3"
+      },
+      {
+        "jp": "やった！もう一回、見たいでしょ？",
+        "zh": "赢啦！还想再看一次吧？",
+        "source": "同人原创场景台词，非原作引用",
+        "kind": "fan",
+        "file": "nyamu-win-2-extra.mp3"
+      }
+    ],
+    "lose": [
+      {
+        "jp": "えー、今のなし！……だめ？",
+        "zh": "诶，刚才那次不算！……不行吗？",
+        "source": "同人原创场景台词，非原作引用",
+        "kind": "fan",
+        "file": "nyamu-lose-1-extra.mp3"
+      },
+      {
+        "jp": "次はちゃんと決めるから。見てて！",
+        "zh": "下次一定能赢，看着吧！",
+        "source": "同人原创场景台词，非原作引用",
+        "kind": "fan",
+        "file": "nyamu-lose-2-extra.mp3"
+      }
+    ],
+    "skill": [
+      {
+        "jp": "気になるなあ。ちょっと見せて？",
+        "zh": "真让人在意呢，让我看看？",
+        "source": "同人原创场景台词，非原作引用",
+        "kind": "fan",
+        "file": "nyamu-skill-1-extra.mp3"
+      },
+      {
+        "jp": "ふーん、そういうことね。",
+        "zh": "哼哼，原来是这样。",
+        "source": "同人原创场景台词，非原作引用",
+        "kind": "fan",
+        "file": "nyamu-skill-2-extra.mp3"
+      }
+    ]
+  },
+  "sakiko": {
+    "lobby": [
+      {
+        "jp": "リハーサルは、ここまでにしましょう。",
+        "zh": "排练就先到这里吧。",
+        "source": "同人原创角色独白，非原作引用",
+        "kind": "fan",
+        "file": "sakiko-lobby-1-perspective.mp3"
+      },
+      {
+        "jp": "少し、気分を変えるのもよいですわね。",
+        "zh": "稍微换个心情，也不错呢。",
+        "source": "同人原创角色独白，非原作引用",
+        "kind": "fan",
+        "file": "sakiko-lobby-2-perspective.mp3"
+      }
+    ],
+    "table": [
+      {
+        "jp": "お手柔らかに、お願いいたします。",
+        "zh": "还请手下留情。",
+        "source": "同人原创场景台词，非原作引用",
+        "kind": "fan",
+        "file": "sakiko-table-1-extra.mp3"
+      },
+      {
+        "jp": "では、落ち着いて参りましょう。",
+        "zh": "那么，沉着些开始吧。",
+        "source": "同人原创场景台词，非原作引用",
+        "kind": "fan",
+        "file": "sakiko-table-2-extra.mp3"
+      }
+    ],
+    "play": [
+      {
+        "jp": "今は、こちらがよさそうです。",
+        "zh": "现在看来，这手更合适。",
+        "source": "同人原创场景台词，非原作引用",
+        "kind": "fan",
+        "file": "sakiko-play-1-extra.mp3"
+      },
+      {
+        "jp": "少し、試してみますわ。",
+        "zh": "我稍微试一试。",
+        "source": "同人原创场景台词，非原作引用",
+        "kind": "fan",
+        "file": "sakiko-play-2-extra.mp3"
+      }
+    ],
+    "pass": [
+      {
+        "jp": "今は、待つことにいたします。",
+        "zh": "现在我选择等待。",
+        "source": "同人原创场景台词，非原作引用",
+        "kind": "fan",
+        "file": "sakiko-pass-1-extra.mp3"
+      },
+      {
+        "jp": "どうぞ、お続けください。",
+        "zh": "请继续吧。",
+        "source": "同人原创场景台词，非原作引用",
+        "kind": "fan",
+        "file": "sakiko-pass-2-extra.mp3"
+      }
+    ],
+    "chat": [
+      {
+        "jp": "少し休憩にいたしましょうか。",
+        "zh": "要稍微休息一下吗？",
+        "source": "同人原创场景台词，非原作引用",
+        "kind": "fan",
+        "file": "sakiko-chat-1-extra.mp3"
+      },
+      {
+        "jp": "こういう時間も、悪くありませんね。",
+        "zh": "这样的时光，也不坏呢。",
+        "source": "同人原创场景台词，非原作引用",
+        "kind": "fan",
+        "file": "sakiko-chat-2-extra.mp3"
+      }
+    ],
+    "reply": [
+      {
+        "jp": "ええ、承知しました。",
+        "zh": "嗯，我明白了。",
+        "source": "同人原创场景台词，非原作引用",
+        "kind": "fan",
+        "file": "sakiko-reply-1-extra.mp3"
+      },
+      {
+        "jp": "ありがとうございます。心強いですわ。",
+        "zh": "谢谢，有你在很让人安心。",
+        "source": "同人原创场景台词，非原作引用",
+        "kind": "fan",
+        "file": "sakiko-reply-2-extra.mp3"
+      }
+    ],
+    "win": [
+      {
+        "jp": "うまくいきましたね。ありがとうございます。",
+        "zh": "很顺利呢，谢谢你。",
+        "source": "同人原创场景台词，非原作引用",
+        "kind": "fan",
+        "file": "sakiko-win-1-extra.mp3"
+      },
+      {
+        "jp": "最後まで気を配れました。よかったですわ。",
+        "zh": "能坚持专注到最后，太好了。",
+        "source": "同人原创场景台词，非原作引用",
+        "kind": "fan",
+        "file": "sakiko-win-2-extra.mp3"
+      }
+    ],
+    "lose": [
+      {
+        "jp": "もう少し、慎重にすべきでした。",
+        "zh": "我应当再谨慎一些。",
+        "source": "同人原创场景台词，非原作引用",
+        "kind": "fan",
+        "file": "sakiko-lose-1-extra.mp3"
+      },
+      {
+        "jp": "勉強になりました。次に活かします。",
+        "zh": "受教了，下次会改进。",
+        "source": "同人原创场景台词，非原作引用",
+        "kind": "fan",
+        "file": "sakiko-lose-2-extra.mp3"
+      }
+    ],
+    "skill": [
+      {
+        "jp": "ひとつ、確認させていただきます。",
+        "zh": "请容我确认一件事。",
+        "source": "同人原创场景台词，非原作引用",
+        "kind": "fan",
+        "file": "sakiko-skill-1-extra.mp3"
+      },
+      {
+        "jp": "そういうことでしたのね。",
+        "zh": "原来是这样啊。",
+        "source": "同人原创场景台词，非原作引用",
+        "kind": "fan",
+        "file": "sakiko-skill-2-extra.mp3"
+      }
+    ]
+  }
+}

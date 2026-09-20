@@ -1,0 +1,866 @@
+[
+  {
+    "file": "mutsumi-quiet-0.mp3",
+    "duration": 1.021688,
+    "valid": true,
+    "sampleRate": "48000"
+  },
+  {
+    "file": "mutsumi-quiet-1.mp3",
+    "duration": 2.519375,
+    "valid": true,
+    "sampleRate": "48000"
+  },
+  {
+    "file": "mutsumi-quiet-2.mp3",
+    "duration": 1.428042,
+    "valid": true,
+    "sampleRate": "48000"
+  },
+  {
+    "file": "mutsumi-quiet-3.mp3",
+    "duration": 1.056979,
+    "valid": true,
+    "sampleRate": "48000"
+  },
+  {
+    "file": "mutsumi-quiet-4.mp3",
+    "duration": 0.986854,
+    "valid": true,
+    "sampleRate": "48000"
+  },
+  {
+    "file": "mutsumi-quiet-5.mp3",
+    "duration": 2.600646,
+    "valid": true,
+    "sampleRate": "48000"
+  },
+  {
+    "file": "mutsumi-quiet-6.mp3",
+    "duration": 2.263958,
+    "valid": true,
+    "sampleRate": "48000"
+  },
+  {
+    "file": "mutsumi-quiet-7.mp3",
+    "duration": 1.102958,
+    "valid": true,
+    "sampleRate": "48000"
+  },
+  {
+    "file": "mutsumi-quiet-8.mp3",
+    "duration": 1.126167,
+    "valid": true,
+    "sampleRate": "48000"
+  },
+  {
+    "file": "mutsumi-quiet-9.mp3",
+    "duration": 1.637021,
+    "valid": true,
+    "sampleRate": "48000"
+  },
+  {
+    "file": "mutsumi-quiet-10.mp3",
+    "duration": 1.544125,
+    "valid": true,
+    "sampleRate": "48000"
+  },
+  {
+    "file": "mutsumi-quiet-11.mp3",
+    "duration": 1.486083,
+    "valid": true,
+    "sampleRate": "48000"
+  },
+  {
+    "file": "mutsumi-quiet-12.mp3",
+    "duration": 1.439646,
+    "valid": true,
+    "sampleRate": "48000"
+  },
+  {
+    "file": "mutsumi-quiet-13.mp3",
+    "duration": 1.288708,
+    "valid": true,
+    "sampleRate": "48000"
+  },
+  {
+    "file": "mutsumi-quiet-14.mp3",
+    "duration": 1.091333,
+    "valid": true,
+    "sampleRate": "48000"
+  },
+  {
+    "file": "mutsumi-quiet-15.mp3",
+    "duration": 1.625396,
+    "valid": true,
+    "sampleRate": "48000"
+  },
+  {
+    "file": "mutsumi-quiet-16.mp3",
+    "duration": 1.718292,
+    "valid": true,
+    "sampleRate": "48000"
+  },
+  {
+    "file": "mutsumi-quiet-17.mp3",
+    "duration": 2.693521,
+    "valid": true,
+    "sampleRate": "48000"
+  },
+  {
+    "file": "mutsumi-quiet-18.mp3",
+    "duration": 2.159458,
+    "valid": true,
+    "sampleRate": "48000"
+  },
+  {
+    "file": "mutsumi-quiet-19.mp3",
+    "duration": 2.217521,
+    "valid": true,
+    "sampleRate": "48000"
+  },
+  {
+    "file": "mutsumi-quiet-20.mp3",
+    "duration": 2.101417,
+    "valid": true,
+    "sampleRate": "48000"
+  },
+  {
+    "file": "mutsumi-quiet-21.mp3",
+    "duration": 1.544125,
+    "valid": true,
+    "sampleRate": "48000"
+  },
+  {
+    "file": "mutsumi-quiet-22.mp3",
+    "duration": 1.369979,
+    "valid": true,
+    "sampleRate": "48000"
+  },
+  {
+    "file": "mutsumi-quiet-23.mp3",
+    "duration": 1.578958,
+    "valid": true,
+    "sampleRate": "48000"
+  },
+  {
+    "file": "mutsumi-mortis-0.mp3",
+    "duration": 2.113021,
+    "valid": true,
+    "sampleRate": "48000"
+  },
+  {
+    "file": "mutsumi-mortis-1.mp3",
+    "duration": 1.892438,
+    "valid": true,
+    "sampleRate": "48000"
+  },
+  {
+    "file": "mutsumi-mortis-2.mp3",
+    "duration": 1.7415,
+    "valid": true,
+    "sampleRate": "48000"
+  },
+  {
+    "file": "mutsumi-mortis-3.mp3",
+    "duration": 2.856979,
+    "valid": true,
+    "sampleRate": "48000"
+  },
+  {
+    "file": "mutsumi-mortis-4.mp3",
+    "duration": 1.915646,
+    "valid": true,
+    "sampleRate": "48000"
+  },
+  {
+    "file": "mutsumi-mortis-5.mp3",
+    "duration": 1.869208,
+    "valid": true,
+    "sampleRate": "48000"
+  },
+  {
+    "file": "mutsumi-mortis-6.mp3",
+    "duration": 2.751563,
+    "valid": true,
+    "sampleRate": "48000"
+  },
+  {
+    "file": "mutsumi-mortis-7.mp3",
+    "duration": 1.962083,
+    "valid": true,
+    "sampleRate": "48000"
+  },
+  {
+    "file": "mutsumi-mortis-8.mp3",
+    "duration": 2.472979,
+    "valid": true,
+    "sampleRate": "48000"
+  },
+  {
+    "file": "mutsumi-mortis-9.mp3",
+    "duration": 2.890896,
+    "valid": true,
+    "sampleRate": "48000"
+  },
+  {
+    "file": "mutsumi-mortis-10.mp3",
+    "duration": 2.600646,
+    "valid": true,
+    "sampleRate": "48000"
+  },
+  {
+    "file": "mutsumi-mortis-11.mp3",
+    "duration": 3.424958,
+    "valid": true,
+    "sampleRate": "48000"
+  },
+  {
+    "file": "mutsumi-mortis-12.mp3",
+    "duration": 1.973708,
+    "valid": true,
+    "sampleRate": "48000"
+  },
+  {
+    "file": "mutsumi-mortis-13.mp3",
+    "duration": 2.693521,
+    "valid": true,
+    "sampleRate": "48000"
+  },
+  {
+    "file": "mutsumi-mortis-14.mp3",
+    "duration": 2.71675,
+    "valid": true,
+    "sampleRate": "48000"
+  },
+  {
+    "file": "mutsumi-mortis-15.mp3",
+    "duration": 1.799542,
+    "valid": true,
+    "sampleRate": "48000"
+  },
+  {
+    "file": "mutsumi-mortis-16.mp3",
+    "duration": 2.71675,
+    "valid": true,
+    "sampleRate": "48000"
+  },
+  {
+    "file": "mutsumi-mortis-17.mp3",
+    "duration": 2.647083,
+    "valid": true,
+    "sampleRate": "48000"
+  },
+  {
+    "file": "mutsumi-mortis-18.mp3",
+    "duration": 3.274021,
+    "valid": true,
+    "sampleRate": "48000"
+  },
+  {
+    "file": "mutsumi-mortis-19.mp3",
+    "duration": 2.693521,
+    "valid": true,
+    "sampleRate": "48000"
+  },
+  {
+    "file": "mutsumi-mortis-20.mp3",
+    "duration": 3.564271,
+    "valid": true,
+    "sampleRate": "48000"
+  },
+  {
+    "file": "mutsumi-mortis-21.mp3",
+    "duration": 3.436563,
+    "valid": true,
+    "sampleRate": "48000"
+  },
+  {
+    "file": "mutsumi-mortis-22.mp3",
+    "duration": 1.671833,
+    "valid": true,
+    "sampleRate": "48000"
+  },
+  {
+    "file": "mutsumi-mortis-23.mp3",
+    "duration": 2.089792,
+    "valid": true,
+    "sampleRate": "48000"
+  },
+  {
+    "file": "uika-0.mp3",
+    "duration": 1.660229,
+    "valid": true,
+    "sampleRate": "48000"
+  },
+  {
+    "file": "uika-1.mp3",
+    "duration": 2.03175,
+    "valid": true,
+    "sampleRate": "48000"
+  },
+  {
+    "file": "uika-2.mp3",
+    "duration": 2.008542,
+    "valid": true,
+    "sampleRate": "48000"
+  },
+  {
+    "file": "uika-3.mp3",
+    "duration": 1.764729,
+    "valid": true,
+    "sampleRate": "48000"
+  },
+  {
+    "file": "uika-4.mp3",
+    "duration": 1.927271,
+    "valid": true,
+    "sampleRate": "48000"
+  },
+  {
+    "file": "uika-5.mp3",
+    "duration": 1.892438,
+    "valid": true,
+    "sampleRate": "48000"
+  },
+  {
+    "file": "uika-6.mp3",
+    "duration": 2.275563,
+    "valid": true,
+    "sampleRate": "48000"
+  },
+  {
+    "file": "uika-7.mp3",
+    "duration": 1.729896,
+    "valid": true,
+    "sampleRate": "48000"
+  },
+  {
+    "file": "uika-8.mp3",
+    "duration": 2.054979,
+    "valid": true,
+    "sampleRate": "48000"
+  },
+  {
+    "file": "uika-9.mp3",
+    "duration": 1.904042,
+    "valid": true,
+    "sampleRate": "48000"
+  },
+  {
+    "file": "uika-10.mp3",
+    "duration": 1.973708,
+    "valid": true,
+    "sampleRate": "48000"
+  },
+  {
+    "file": "uika-11.mp3",
+    "duration": 2.101417,
+    "valid": true,
+    "sampleRate": "48000"
+  },
+  {
+    "file": "uika-12.mp3",
+    "duration": 1.776979,
+    "valid": true,
+    "sampleRate": "48000"
+  },
+  {
+    "file": "uika-13.mp3",
+    "duration": 2.287167,
+    "valid": true,
+    "sampleRate": "48000"
+  },
+  {
+    "file": "uika-14.mp3",
+    "duration": 2.124625,
+    "valid": true,
+    "sampleRate": "48000"
+  },
+  {
+    "file": "uika-15.mp3",
+    "duration": 1.288708,
+    "valid": true,
+    "sampleRate": "48000"
+  },
+  {
+    "file": "uika-16.mp3",
+    "duration": 1.822771,
+    "valid": true,
+    "sampleRate": "48000"
+  },
+  {
+    "file": "uika-17.mp3",
+    "duration": 2.020146,
+    "valid": true,
+    "sampleRate": "48000"
+  },
+  {
+    "file": "uika-18.mp3",
+    "duration": 1.683458,
+    "valid": true,
+    "sampleRate": "48000"
+  },
+  {
+    "file": "uika-19.mp3",
+    "duration": 2.263958,
+    "valid": true,
+    "sampleRate": "48000"
+  },
+  {
+    "file": "uika-20.mp3",
+    "duration": 2.693521,
+    "valid": true,
+    "sampleRate": "48000"
+  },
+  {
+    "file": "uika-21.mp3",
+    "duration": 1.915646,
+    "valid": true,
+    "sampleRate": "48000"
+  },
+  {
+    "file": "uika-22.mp3",
+    "duration": 1.7415,
+    "valid": true,
+    "sampleRate": "48000"
+  },
+  {
+    "file": "uika-23.mp3",
+    "duration": 1.811167,
+    "valid": true,
+    "sampleRate": "48000"
+  },
+  {
+    "file": "umiri-0.mp3",
+    "duration": 1.335146,
+    "valid": true,
+    "sampleRate": "48000"
+  },
+  {
+    "file": "umiri-1.mp3",
+    "duration": 1.45125,
+    "valid": true,
+    "sampleRate": "48000"
+  },
+  {
+    "file": "umiri-2.mp3",
+    "duration": 0.928813,
+    "valid": true,
+    "sampleRate": "48000"
+  },
+  {
+    "file": "umiri-3.mp3",
+    "duration": 1.695063,
+    "valid": true,
+    "sampleRate": "48000"
+  },
+  {
+    "file": "umiri-4.mp3",
+    "duration": 1.613792,
+    "valid": true,
+    "sampleRate": "48000"
+  },
+  {
+    "file": "umiri-5.mp3",
+    "duration": 1.613792,
+    "valid": true,
+    "sampleRate": "48000"
+  },
+  {
+    "file": "umiri-6.mp3",
+    "duration": 1.45125,
+    "valid": true,
+    "sampleRate": "48000"
+  },
+  {
+    "file": "umiri-7.mp3",
+    "duration": 1.439646,
+    "valid": true,
+    "sampleRate": "48000"
+  },
+  {
+    "file": "umiri-8.mp3",
+    "duration": 1.416979,
+    "valid": true,
+    "sampleRate": "48000"
+  },
+  {
+    "file": "umiri-9.mp3",
+    "duration": 1.497688,
+    "valid": true,
+    "sampleRate": "48000"
+  },
+  {
+    "file": "umiri-10.mp3",
+    "duration": 1.787938,
+    "valid": true,
+    "sampleRate": "48000"
+  },
+  {
+    "file": "umiri-11.mp3",
+    "duration": 0.998458,
+    "valid": true,
+    "sampleRate": "48000"
+  },
+  {
+    "file": "umiri-12.mp3",
+    "duration": 0.893979,
+    "valid": true,
+    "sampleRate": "48000"
+  },
+  {
+    "file": "umiri-13.mp3",
+    "duration": 1.2655,
+    "valid": true,
+    "sampleRate": "48000"
+  },
+  {
+    "file": "umiri-14.mp3",
+    "duration": 1.253875,
+    "valid": true,
+    "sampleRate": "48000"
+  },
+  {
+    "file": "umiri-15.mp3",
+    "duration": 1.021688,
+    "valid": true,
+    "sampleRate": "48000"
+  },
+  {
+    "file": "umiri-16.mp3",
+    "duration": 1.230667,
+    "valid": true,
+    "sampleRate": "48000"
+  },
+  {
+    "file": "umiri-17.mp3",
+    "duration": 1.927271,
+    "valid": true,
+    "sampleRate": "48000"
+  },
+  {
+    "file": "umiri-18.mp3",
+    "duration": 1.486083,
+    "valid": true,
+    "sampleRate": "48000"
+  },
+  {
+    "file": "umiri-19.mp3",
+    "duration": 1.497688,
+    "valid": true,
+    "sampleRate": "48000"
+  },
+  {
+    "file": "umiri-20.mp3",
+    "duration": 2.275563,
+    "valid": true,
+    "sampleRate": "48000"
+  },
+  {
+    "file": "umiri-21.mp3",
+    "duration": 2.147854,
+    "valid": true,
+    "sampleRate": "48000"
+  },
+  {
+    "file": "umiri-22.mp3",
+    "duration": 1.416979,
+    "valid": true,
+    "sampleRate": "48000"
+  },
+  {
+    "file": "umiri-23.mp3",
+    "duration": 1.462854,
+    "valid": true,
+    "sampleRate": "48000"
+  },
+  {
+    "file": "nyamu-0.mp3",
+    "duration": 1.497688,
+    "valid": true,
+    "sampleRate": "48000"
+  },
+  {
+    "file": "nyamu-1.mp3",
+    "duration": 1.915646,
+    "valid": true,
+    "sampleRate": "48000"
+  },
+  {
+    "file": "nyamu-2.mp3",
+    "duration": 1.091333,
+    "valid": true,
+    "sampleRate": "48000"
+  },
+  {
+    "file": "nyamu-3.mp3",
+    "duration": 2.020146,
+    "valid": true,
+    "sampleRate": "48000"
+  },
+  {
+    "file": "nyamu-4.mp3",
+    "duration": 1.578958,
+    "valid": true,
+    "sampleRate": "48000"
+  },
+  {
+    "file": "nyamu-5.mp3",
+    "duration": 1.126167,
+    "valid": true,
+    "sampleRate": "48000"
+  },
+  {
+    "file": "nyamu-6.mp3",
+    "duration": 1.381583,
+    "valid": true,
+    "sampleRate": "48000"
+  },
+  {
+    "file": "nyamu-7.mp3",
+    "duration": 1.068125,
+    "valid": true,
+    "sampleRate": "48000"
+  },
+  {
+    "file": "nyamu-8.mp3",
+    "duration": 1.915646,
+    "valid": true,
+    "sampleRate": "48000"
+  },
+  {
+    "file": "nyamu-9.mp3",
+    "duration": 2.101417,
+    "valid": true,
+    "sampleRate": "48000"
+  },
+  {
+    "file": "nyamu-10.mp3",
+    "duration": 1.648625,
+    "valid": true,
+    "sampleRate": "48000"
+  },
+  {
+    "file": "nyamu-11.mp3",
+    "duration": 1.474479,
+    "valid": true,
+    "sampleRate": "48000"
+  },
+  {
+    "file": "nyamu-12.mp3",
+    "duration": 1.660229,
+    "valid": true,
+    "sampleRate": "48000"
+  },
+  {
+    "file": "nyamu-13.mp3",
+    "duration": 2.008542,
+    "valid": true,
+    "sampleRate": "48000"
+  },
+  {
+    "file": "nyamu-14.mp3",
+    "duration": 2.368438,
+    "valid": true,
+    "sampleRate": "48000"
+  },
+  {
+    "file": "nyamu-15.mp3",
+    "duration": 1.648625,
+    "valid": true,
+    "sampleRate": "48000"
+  },
+  {
+    "file": "nyamu-16.mp3",
+    "duration": 1.938875,
+    "valid": true,
+    "sampleRate": "48000"
+  },
+  {
+    "file": "nyamu-17.mp3",
+    "duration": 1.683458,
+    "valid": true,
+    "sampleRate": "48000"
+  },
+  {
+    "file": "nyamu-18.mp3",
+    "duration": 1.637021,
+    "valid": true,
+    "sampleRate": "48000"
+  },
+  {
+    "file": "nyamu-19.mp3",
+    "duration": 2.159458,
+    "valid": true,
+    "sampleRate": "48000"
+  },
+  {
+    "file": "nyamu-20.mp3",
+    "duration": 1.393208,
+    "valid": true,
+    "sampleRate": "48000"
+  },
+  {
+    "file": "nyamu-21.mp3",
+    "duration": 2.472979,
+    "valid": true,
+    "sampleRate": "48000"
+  },
+  {
+    "file": "nyamu-22.mp3",
+    "duration": 1.532521,
+    "valid": true,
+    "sampleRate": "48000"
+  },
+  {
+    "file": "nyamu-23.mp3",
+    "duration": 1.683458,
+    "valid": true,
+    "sampleRate": "48000"
+  },
+  {
+    "file": "sakiko-0.mp3",
+    "duration": 1.253875,
+    "valid": true,
+    "sampleRate": "48000"
+  },
+  {
+    "file": "sakiko-1.mp3",
+    "duration": 1.625396,
+    "valid": true,
+    "sampleRate": "48000"
+  },
+  {
+    "file": "sakiko-2.mp3",
+    "duration": 0.998458,
+    "valid": true,
+    "sampleRate": "48000"
+  },
+  {
+    "file": "sakiko-3.mp3",
+    "duration": 1.625396,
+    "valid": true,
+    "sampleRate": "48000"
+  },
+  {
+    "file": "sakiko-4.mp3",
+    "duration": 1.776979,
+    "valid": true,
+    "sampleRate": "48000"
+  },
+  {
+    "file": "sakiko-5.mp3",
+    "duration": 1.602188,
+    "valid": true,
+    "sampleRate": "48000"
+  },
+  {
+    "file": "sakiko-6.mp3",
+    "duration": 1.822771,
+    "valid": true,
+    "sampleRate": "48000"
+  },
+  {
+    "file": "sakiko-7.mp3",
+    "duration": 1.660229,
+    "valid": true,
+    "sampleRate": "48000"
+  },
+  {
+    "file": "sakiko-8.mp3",
+    "duration": 2.205896,
+    "valid": true,
+    "sampleRate": "48000"
+  },
+  {
+    "file": "sakiko-9.mp3",
+    "duration": 2.089792,
+    "valid": true,
+    "sampleRate": "48000"
+  },
+  {
+    "file": "sakiko-10.mp3",
+    "duration": 1.671833,
+    "valid": true,
+    "sampleRate": "48000"
+  },
+  {
+    "file": "sakiko-11.mp3",
+    "duration": 1.474479,
+    "valid": true,
+    "sampleRate": "48000"
+  },
+  {
+    "file": "sakiko-12.mp3",
+    "duration": 1.079729,
+    "valid": true,
+    "sampleRate": "48000"
+  },
+  {
+    "file": "sakiko-13.mp3",
+    "duration": 1.369979,
+    "valid": true,
+    "sampleRate": "48000"
+  },
+  {
+    "file": "sakiko-14.mp3",
+    "duration": 2.171063,
+    "valid": true,
+    "sampleRate": "48000"
+  },
+  {
+    "file": "sakiko-15.mp3",
+    "duration": 1.195833,
+    "valid": true,
+    "sampleRate": "48000"
+  },
+  {
+    "file": "sakiko-16.mp3",
+    "duration": 2.565813,
+    "valid": true,
+    "sampleRate": "48000"
+  },
+  {
+    "file": "sakiko-17.mp3",
+    "duration": 1.486083,
+    "valid": true,
+    "sampleRate": "48000"
+  },
+  {
+    "file": "sakiko-18.mp3",
+    "duration": 2.171063,
+    "valid": true,
+    "sampleRate": "48000"
+  },
+  {
+    "file": "sakiko-19.mp3",
+    "duration": 1.811167,
+    "valid": true,
+    "sampleRate": "48000"
+  },
+  {
+    "file": "sakiko-20.mp3",
+    "duration": 1.7415,
+    "valid": true,
+    "sampleRate": "48000"
+  },
+  {
+    "file": "sakiko-21.mp3",
+    "duration": 1.927271,
+    "valid": true,
+    "sampleRate": "48000"
+  },
+  {
+    "file": "sakiko-22.mp3",
+    "duration": 1.637021,
+    "valid": true,
+    "sampleRate": "48000"
+  },
+  {
+    "file": "sakiko-23.mp3",
+    "duration": 1.544125,
+    "valid": true,
+    "sampleRate": "48000"
+  }
+]

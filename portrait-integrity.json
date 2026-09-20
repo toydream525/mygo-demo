@@ -1,0 +1,73 @@
+[
+  {
+    "name": "uika-stage",
+    "originalRGBUnchanged": true,
+    "faceInteriorMinimumAlpha": [
+      255
+    ]
+  },
+  {
+    "name": "mutsumi-stage",
+    "originalRGBUnchanged": true,
+    "faceInteriorMinimumAlpha": [
+      255,
+      255
+    ]
+  },
+  {
+    "name": "umiri-stage",
+    "originalRGBUnchanged": true,
+    "faceInteriorMinimumAlpha": [
+      255
+    ]
+  },
+  {
+    "name": "nyamu-stage",
+    "originalRGBUnchanged": true,
+    "faceInteriorMinimumAlpha": [
+      255
+    ]
+  },
+  {
+    "name": "sakiko-stage",
+    "originalRGBUnchanged": true,
+    "faceInteriorMinimumAlpha": [
+      255
+    ]
+  },
+  {
+    "name": "uika-skin",
+    "originalRGBUnchanged": true,
+    "faceInteriorMinimumAlpha": [
+      255
+    ]
+  },
+  {
+    "name": "mutsumi-skin",
+    "originalRGBUnchanged": true,
+    "faceInteriorMinimumAlpha": [
+      255
+    ]
+  },
+  {
+    "name": "umiri-skin",
+    "originalRGBUnchanged": true,
+    "faceInteriorMinimumAlpha": [
+      255
+    ]
+  },
+  {
+    "name": "nyamu-skin",
+    "originalRGBUnchanged": true,
+    "faceInteriorMinimumAlpha": [
+      255
+    ]
+  },
+  {
+    "name": "sakiko-skin",
+    "originalRGBUnchanged": true,
+    "faceInteriorMinimumAlpha": [
+      255
+    ]
+  }
+]

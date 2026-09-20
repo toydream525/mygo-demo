@@ -1,0 +1,107 @@
+{
+  "seed": 20260920,
+  "dealsPerGame": 10000,
+  "counts": {
+    "ddzJoker": [
+      3079,
+      3153,
+      3217,
+      551
+    ],
+    "ddzTwos": [
+      12620,
+      12721,
+      12420,
+      2239
+    ],
+    "runTwo": [
+      3357,
+      3325,
+      3318
+    ],
+    "runThreeSpades": [
+      3306,
+      3320,
+      3374
+    ],
+    "bjAces": [
+      1476,
+      1544
+    ],
+    "bjTens": [
+      6197,
+      6152
+    ]
+  },
+  "duplicatePlayerHands": {
+    "doudizhu": 0,
+    "runfast": 0
+  },
+  "ddzOptionsIndependent": true,
+  "blackjack": {
+    "rounds": 500,
+    "continued": 489,
+    "reshuffled": 11,
+    "shoeConservation": true
+  },
+  "opponents": {
+    "samples": 36000,
+    "player": "tomori",
+    "expectedPerCharacterPerSeat": 4000,
+    "oldRandomSort": [
+      {
+        "anon": 7462,
+        "rana": 2849,
+        "soyo": 3731,
+        "taki": 4912,
+        "uika": 3248,
+        "mutsumi": 3471,
+        "umiri": 3792,
+        "nyamu": 4190,
+        "sakiko": 2345
+      },
+      {
+        "anon": 5067,
+        "rana": 5829,
+        "soyo": 3735,
+        "taki": 4799,
+        "uika": 2952,
+        "mutsumi": 3296,
+        "umiri": 3799,
+        "nyamu": 4300,
+        "sakiko": 2223
+      }
+    ],
+    "fisherYates": [
+      {
+        "anon": 3984,
+        "rana": 4049,
+        "soyo": 3960,
+        "taki": 4025,
+        "uika": 3984,
+        "mutsumi": 4050,
+        "umiri": 4024,
+        "nyamu": 3990,
+        "sakiko": 3934
+      },
+      {
+        "anon": 3981,
+        "rana": 4063,
+        "soyo": 4008,
+        "taki": 4035,
+        "uika": 4029,
+        "mutsumi": 3982,
+        "umiri": 4041,
+        "nyamu": 3945,
+        "sakiko": 3916
+      }
+    ],
+    "unorderedPairsSeen": 36,
+    "expectedPairs": 36
+  },
+  "behavior": {
+    "doudizhuAgain": "reselects opponents and reshuffles",
+    "parlorAgain": "retains opponents; runfast reshuffles; blackjack reuses shoe while at least 78 remain",
+    "lobbyReentry": "reselects opponents and starts a fresh deck/shoe"
+  }
+}

@@ -1,0 +1,283 @@
+{
+  "uika-stage": {
+    "source": "art-sources/uika-stage-original.png",
+    "crop": [
+      799,
+      458,
+      1786,
+      2240
+    ],
+    "heroComparisonCrop": [
+      67,
+      201,
+      422,
+      645
+    ],
+    "avatarComparisonCrop": [
+      140,
+      295,
+      268,
+      455
+    ],
+    "alphaOnly": true,
+    "comparisonScale": 0.5050505050505051,
+    "comparisonPadY": 0,
+    "selectedMatte": "BiRefNet general, original RGB",
+    "sceneryRetained": true,
+    "mask": "art-sources/uika-stage-alpha.png",
+    "upscaled": false
+  },
+  "mutsumi-stage": {
+    "source": "art-sources/mutsumi-stage-original.png",
+    "crop": [
+      497,
+      348,
+      1193,
+      1422
+    ],
+    "heroComparisonCrop": [
+      141,
+      54,
+      527,
+      550
+    ],
+    "avatarComparisonCrop": [
+      147,
+      52,
+      535,
+      372
+    ],
+    "alphaOnly": true,
+    "comparisonScale": 0.8379888268156425,
+    "comparisonPadY": 0,
+    "selectedMatte": "BiRefNet general, original RGB",
+    "sceneryRetained": true,
+    "mask": "art-sources/mutsumi-stage-alpha.png",
+    "upscaled": false
+  },
+  "umiri-stage": {
+    "source": "art-sources/umiri-stage-original.png",
+    "crop": [
+      959,
+      569,
+      1761,
+      1760
+    ],
+    "heroComparisonCrop": [
+      9,
+      41,
+      575,
+      519
+    ],
+    "avatarComparisonCrop": [
+      106,
+      40,
+      297,
+      279
+    ],
+    "alphaOnly": true,
+    "comparisonScale": 0.7556675062972292,
+    "comparisonPadY": 0,
+    "selectedMatte": "BiRefNet general, original RGB",
+    "sceneryRetained": true,
+    "mask": "art-sources/umiri-stage-alpha.png",
+    "upscaled": false
+  },
+  "nyamu-stage": {
+    "source": "art-sources/nyamu-stage-original.png",
+    "crop": [
+      786,
+      506,
+      1710,
+      2119
+    ],
+    "heroComparisonCrop": [
+      164,
+      -1,
+      446,
+      467
+    ],
+    "avatarComparisonCrop": [
+      230,
+      145,
+      363,
+      311
+    ],
+    "alphaOnly": true,
+    "comparisonScale": 0.5948446794448117,
+    "comparisonPadY": 100,
+    "selectedMatte": "BiRefNet general, original RGB",
+    "sceneryRetained": true,
+    "drumstickRestoration": "Original pixels, source crop (1190,520)-(1410,800), 2.5x contour",
+    "mask": "art-sources/nyamu-stage-alpha.png",
+    "upscaled": false
+  },
+  "sakiko-stage": {
+    "source": "art-sources/sakiko-stage-original.png",
+    "crop": [
+      739,
+      543,
+      1682,
+      1991
+    ],
+    "heroComparisonCrop": [
+      96,
+      151,
+      449,
+      591
+    ],
+    "avatarComparisonCrop": [
+      241,
+      177,
+      380,
+      351
+    ],
+    "alphaOnly": true,
+    "comparisonScale": 0.6215469613259669,
+    "comparisonPadY": 0,
+    "selectedMatte": "BiRefNet general, original RGB",
+    "sceneryRetained": true,
+    "mask": "art-sources/sakiko-stage-alpha.png",
+    "upscaled": false
+  },
+  "uika-skin": {
+    "source": "art-sources/uika-skin-original.png",
+    "crop": [
+      342,
+      618,
+      1940,
+      2013
+    ],
+    "heroComparisonCrop": [
+      190,
+      32,
+      459,
+      371
+    ],
+    "avatarComparisonCrop": [
+      271,
+      35,
+      402,
+      199
+    ],
+    "alphaOnly": true,
+    "comparisonScale": 0.4380475594493116,
+    "comparisonPadY": 0,
+    "selectedMatte": "BiRefNet general, original RGB",
+    "sceneryRetained": true,
+    "mask": "art-sources/uika-skin-alpha.png",
+    "upscaled": false
+  },
+  "mutsumi-skin": {
+    "source": "art-sources/mutsumi-skin-original.png",
+    "crop": [
+      414,
+      382,
+      1698,
+      2218
+    ],
+    "heroComparisonCrop": [
+      142,
+      103,
+      493,
+      544
+    ],
+    "avatarComparisonCrop": [
+      267,
+      106,
+      411,
+      286
+    ],
+    "alphaOnly": true,
+    "comparisonScale": 0.49019607843137253,
+    "comparisonPadY": 0,
+    "selectedMatte": "BiRefNet general, original RGB",
+    "sceneryRetained": true,
+    "mask": "art-sources/mutsumi-skin-alpha.png",
+    "upscaled": false
+  },
+  "umiri-skin": {
+    "source": "art-sources/umiri-skin-original.png",
+    "crop": [
+      812,
+      391,
+      1851,
+      1876
+    ],
+    "heroComparisonCrop": [
+      159,
+      0,
+      417,
+      409
+    ],
+    "avatarComparisonCrop": [
+      224,
+      0,
+      376,
+      224
+    ],
+    "alphaOnly": true,
+    "comparisonScale": 0.6498194945848376,
+    "comparisonPadY": 100,
+    "selectedMatte": "BiRefNet general, original RGB",
+    "sceneryRetained": true,
+    "mask": "art-sources/umiri-skin-alpha.png",
+    "upscaled": false
+  },
+  "nyamu-skin": {
+    "source": "art-sources/nyamu-skin-original.png",
+    "crop": [
+      498,
+      370,
+      1578,
+      1789
+    ],
+    "heroComparisonCrop": [
+      113,
+      123,
+      542,
+      553
+    ],
+    "avatarComparisonCrop": [
+      233,
+      132,
+      398,
+      338
+    ],
+    "alphaOnly": true,
+    "comparisonScale": 0.6342494714587738,
+    "comparisonPadY": 0,
+    "selectedMatte": "BiRefNet general, original RGB",
+    "sceneryRetained": true,
+    "mask": "art-sources/nyamu-skin-alpha.png",
+    "upscaled": false
+  },
+  "sakiko-skin": {
+    "source": "art-sources/sakiko-skin-original.png",
+    "crop": [
+      344,
+      368,
+      1448,
+      1972
+    ],
+    "heroComparisonCrop": [
+      141,
+      121,
+      448,
+      506
+    ],
+    "avatarComparisonCrop": [
+      238,
+      121,
+      421,
+      333
+    ],
+    "alphaOnly": true,
+    "comparisonScale": 0.5610972568578554,
+    "comparisonPadY": 0,
+    "selectedMatte": "BiRefNet general, original RGB",
+    "sceneryRetained": true,
+    "mask": "art-sources/sakiko-skin-alpha.png",
+    "upscaled": false
+  }
+}

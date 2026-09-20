@@ -1,0 +1,15 @@
+{
+  "games": 200000,
+  "scores": {
+    "casual": -22096,
+    "standard": -1386,
+    "expert": -1426
+  },
+  "expertMinusStandard": {
+    "mean": -0.0002,
+    "confidence95": [
+      -0.0012584022830435348,
+      0.0008584022830435348
+    ]
+  }
+}

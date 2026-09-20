@@ -1,0 +1,24 @@
+{
+  "runfast": {
+    "standard": {
+      "baseline": "casual",
+      "games": 1002,
+      "wins": 457,
+      "winRate": 0.4560878243512974
+    },
+    "expert": {
+      "baseline": "standard",
+      "games": 240,
+      "wins": 96,
+      "winRate": 0.4,
+      "wilson95": [
+        0.34006480281631607,
+        0.463086095143671
+      ],
+      "neutralThreePlayerBaseline": 0.3333333333333333
+    }
+  },
+  "blackjack": {
+    "report": "BLACKJACK_BENCHMARK.json"
+  }
+}

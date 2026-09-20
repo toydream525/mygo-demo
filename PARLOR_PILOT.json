@@ -1,0 +1,11 @@
+{
+  "runfast": {
+    "expert": {
+      "baseline": "standard",
+      "games": 240,
+      "wins": 96,
+      "winRate": 0.4
+    }
+  },
+  "blackjack": {}
+}

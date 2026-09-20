@@ -1,0 +1,1586 @@
+[
+  {
+    "file": "tomori-lobby-1-extra.mp3",
+    "speaker": "燈",
+    "lengthScale": 1.0,
+    "text": "来てくれて……ありがとう。",
+    "serviceStatus": "Berhasil Membuat ✅! (Speaker: 燈)",
+    "status": "generated"
+  },
+  {
+    "file": "tomori-lobby-2-extra.mp3",
+    "speaker": "燈",
+    "lengthScale": 1.0,
+    "text": "ここ、空けておいたんだ。",
+    "serviceStatus": "Berhasil Membuat ✅! (Speaker: 燈)",
+    "status": "generated"
+  },
+  {
+    "file": "tomori-table-1-extra.mp3",
+    "speaker": "燈",
+    "lengthScale": 1.0,
+    "text": "みんなとなら……やってみたい。",
+    "serviceStatus": "Berhasil Membuat ✅! (Speaker: 燈)",
+    "status": "generated"
+  },
+  {
+    "file": "tomori-table-2-extra.mp3",
+    "speaker": "燈",
+    "lengthScale": 1.0,
+    "text": "少しずつ、覚えていくね。",
+    "serviceStatus": "Berhasil Membuat ✅! (Speaker: 燈)",
+    "status": "generated"
+  },
+  {
+    "file": "tomori-play-1-extra.mp3",
+    "speaker": "燈",
+    "lengthScale": 1.0,
+    "text": "これを……つなげたい。",
+    "serviceStatus": "Berhasil Membuat ✅! (Speaker: 燈)",
+    "status": "generated"
+  },
+  {
+    "file": "tomori-play-2-extra.mp3",
+    "speaker": "燈",
+    "lengthScale": 1.0,
+    "text": "うん。この一枚にする。",
+    "serviceStatus": "Berhasil Membuat ✅! (Speaker: 燈)",
+    "status": "generated"
+  },
+  {
+    "file": "tomori-pass-1-extra.mp3",
+    "speaker": "燈",
+    "lengthScale": 1.0,
+    "text": "今は……見てるね。",
+    "serviceStatus": "Berhasil Membuat ✅! (Speaker: 燈)",
+    "status": "generated"
+  },
+  {
+    "file": "tomori-pass-2-extra.mp3",
+    "speaker": "燈",
+    "lengthScale": 1.0,
+    "text": "……次に、つなぐから。",
+    "serviceStatus": "Berhasil Membuat ✅! (Speaker: 燈)",
+    "status": "generated"
+  },
+  {
+    "file": "tomori-chat-1-extra.mp3",
+    "speaker": "燈",
+    "lengthScale": 1.0,
+    "text": "一緒にいると……落ち着く。",
+    "serviceStatus": "Berhasil Membuat ✅! (Speaker: 燈)",
+    "status": "generated"
+  },
+  {
+    "file": "tomori-chat-2-extra.mp3",
+    "speaker": "燈",
+    "lengthScale": 1.0,
+    "text": "終わっても、少し話せる？",
+    "serviceStatus": "Berhasil Membuat ✅! (Speaker: 燈)",
+    "status": "generated"
+  },
+  {
+    "file": "tomori-reply-1-extra.mp3",
+    "speaker": "燈",
+    "lengthScale": 1.0,
+    "text": "うん……ちゃんと聞いてる。",
+    "serviceStatus": "Berhasil Membuat ✅! (Speaker: 燈)",
+    "status": "generated"
+  },
+  {
+    "file": "tomori-reply-2-extra.mp3",
+    "speaker": "燈",
+    "lengthScale": 1.0,
+    "text": "ありがとう。私も、頑張る。",
+    "serviceStatus": "Berhasil Membuat ✅! (Speaker: 燈)",
+    "status": "generated"
+  },
+  {
+    "file": "tomori-win-1-extra.mp3",
+    "speaker": "燈",
+    "lengthScale": 1.0,
+    "text": "勝てた……みんなのおかげだね。",
+    "serviceStatus": "Berhasil Membuat ✅! (Speaker: 燈)",
+    "status": "generated"
+  },
+  {
+    "file": "tomori-win-2-extra.mp3",
+    "speaker": "燈",
+    "lengthScale": 1.0,
+    "text": "うれしい。また一緒に、できる？",
+    "serviceStatus": "Berhasil Membuat ✅! (Speaker: 燈)",
+    "status": "generated"
+  },
+  {
+    "file": "tomori-lose-1-extra.mp3",
+    "speaker": "燈",
+    "lengthScale": 1.0,
+    "text": "うまく、できなかった……もう一度。",
+    "serviceStatus": "Berhasil Membuat ✅! (Speaker: 燈)",
+    "status": "generated"
+  },
+  {
+    "file": "tomori-lose-2-extra.mp3",
+    "speaker": "燈",
+    "lengthScale": 1.0,
+    "text": "次は……つなげたい。",
+    "serviceStatus": "Berhasil Membuat ✅! (Speaker: 燈)",
+    "status": "generated"
+  },
+  {
+    "file": "tomori-skill-1-extra.mp3",
+    "speaker": "燈",
+    "lengthScale": 1.0,
+    "text": "小さな手がかり……見つけた。",
+    "serviceStatus": "Berhasil Membuat ✅! (Speaker: 燈)",
+    "status": "generated"
+  },
+  {
+    "file": "tomori-skill-2-extra.mp3",
+    "speaker": "燈",
+    "lengthScale": 1.0,
+    "text": "少しだけ、確かめてみるね。",
+    "serviceStatus": "Berhasil Membuat ✅! (Speaker: 燈)",
+    "status": "generated"
+  },
+  {
+    "file": "anon-lobby-1-extra.mp3",
+    "speaker": "愛音",
+    "lengthScale": 1.0,
+    "text": "あ、ちょうどよかった！一緒にやろ？",
+    "serviceStatus": "Berhasil Membuat ✅! (Speaker: 愛音)",
+    "status": "generated"
+  },
+  {
+    "file": "anon-lobby-2-extra.mp3",
+    "speaker": "愛音",
+    "lengthScale": 1.0,
+    "text": "今日は調子いい気がするんだよね！",
+    "serviceStatus": "Berhasil Membuat ✅! (Speaker: 愛音)",
+    "status": "generated"
+  },
+  {
+    "file": "anon-table-1-extra.mp3",
+    "speaker": "愛音",
+    "lengthScale": 1.0,
+    "text": "ルールは大丈夫！たぶんね。",
+    "serviceStatus": "Berhasil Membuat ✅! (Speaker: 愛音)",
+    "status": "generated"
+  },
+  {
+    "file": "anon-table-2-extra.mp3",
+    "speaker": "愛音",
+    "lengthScale": 1.0,
+    "text": "よーし、かっこいいとこ見せちゃお！",
+    "serviceStatus": "Berhasil Membuat ✅! (Speaker: 愛音)",
+    "status": "generated"
+  },
+  {
+    "file": "anon-play-1-extra.mp3",
+    "speaker": "愛音",
+    "lengthScale": 1.0,
+    "text": "これなら、いい感じじゃない？",
+    "serviceStatus": "Berhasil Membuat ✅! (Speaker: 愛音)",
+    "status": "generated"
+  },
+  {
+    "file": "anon-play-2-extra.mp3",
+    "speaker": "愛音",
+    "lengthScale": 1.0,
+    "text": "ちょっと待って、こっちにする！",
+    "serviceStatus": "Berhasil Membuat ✅! (Speaker: 愛音)",
+    "status": "generated"
+  },
+  {
+    "file": "anon-pass-1-extra.mp3",
+    "speaker": "愛音",
+    "lengthScale": 1.0,
+    "text": "んー、今はやめとこっかな。",
+    "serviceStatus": "Berhasil Membuat ✅! (Speaker: 愛音)",
+    "status": "generated"
+  },
+  {
+    "file": "anon-pass-2-extra.mp3",
+    "speaker": "愛音",
+    "lengthScale": 1.0,
+    "text": "ここは譲る！次、見ててね！",
+    "serviceStatus": "Berhasil Membuat ✅! (Speaker: 愛音)",
+    "status": "generated"
+  },
+  {
+    "file": "anon-chat-1-extra.mp3",
+    "speaker": "愛音",
+    "lengthScale": 1.0,
+    "text": "ね、今のちょっとよくなかった？",
+    "serviceStatus": "Berhasil Membuat ✅! (Speaker: 愛音)",
+    "status": "generated"
+  },
+  {
+    "file": "anon-chat-2-extra.mp3",
+    "speaker": "愛音",
+    "lengthScale": 1.0,
+    "text": "終わったら、みんなで何か食べに行かない？",
+    "serviceStatus": "Berhasil Membuat ✅! (Speaker: 愛音)",
+    "status": "generated"
+  },
+  {
+    "file": "anon-reply-1-extra.mp3",
+    "speaker": "愛音",
+    "lengthScale": 1.0,
+    "text": "わかってるって！任せといて！",
+    "serviceStatus": "Berhasil Membuat ✅! (Speaker: 愛音)",
+    "status": "generated"
+  },
+  {
+    "file": "anon-reply-2-extra.mp3",
+    "speaker": "愛音",
+    "lengthScale": 1.0,
+    "text": "いいね！私も乗っかっちゃお！",
+    "serviceStatus": "Berhasil Membuat ✅! (Speaker: 愛音)",
+    "status": "generated"
+  },
+  {
+    "file": "anon-win-1-extra.mp3",
+    "speaker": "愛音",
+    "lengthScale": 1.0,
+    "text": "やった！ね、けっこう上手くない？",
+    "serviceStatus": "Berhasil Membuat ✅! (Speaker: 愛音)",
+    "status": "generated"
+  },
+  {
+    "file": "anon-win-2-extra.mp3",
+    "speaker": "愛音",
+    "lengthScale": 1.0,
+    "text": "今の見た？ちゃんと作戦どおり！",
+    "serviceStatus": "Berhasil Membuat ✅! (Speaker: 愛音)",
+    "status": "generated"
+  },
+  {
+    "file": "anon-lose-1-extra.mp3",
+    "speaker": "愛音",
+    "lengthScale": 1.0,
+    "text": "えー！今のは、ちょっと惜しかったじゃん。",
+    "serviceStatus": "Berhasil Membuat ✅! (Speaker: 愛音)",
+    "status": "generated"
+  },
+  {
+    "file": "anon-lose-2-extra.mp3",
+    "speaker": "愛音",
+    "lengthScale": 1.0,
+    "text": "次は変える！同じ手には引っかからないって。",
+    "serviceStatus": "Berhasil Membuat ✅! (Speaker: 愛音)",
+    "status": "generated"
+  },
+  {
+    "file": "anon-skill-1-extra.mp3",
+    "speaker": "愛音",
+    "lengthScale": 1.0,
+    "text": "ちょっと試してみよ。わかるかもしれないし！",
+    "serviceStatus": "Berhasil Membuat ✅! (Speaker: 愛音)",
+    "status": "generated"
+  },
+  {
+    "file": "anon-skill-2-extra.mp3",
+    "speaker": "愛音",
+    "lengthScale": 1.0,
+    "text": "準備しといて損はないでしょ？",
+    "serviceStatus": "Berhasil Membuat ✅! (Speaker: 愛音)",
+    "status": "generated"
+  },
+  {
+    "file": "rana-lobby-1-extra.mp3",
+    "speaker": "楽奈",
+    "lengthScale": 1.0,
+    "text": "来た。遊ぶ？",
+    "serviceStatus": "Berhasil Membuat ✅! (Speaker: 楽奈)",
+    "status": "generated"
+  },
+  {
+    "file": "rana-lobby-2-extra.mp3",
+    "speaker": "楽奈",
+    "lengthScale": 1.0,
+    "text": "ここ、座っていい？",
+    "serviceStatus": "Berhasil Membuat ✅! (Speaker: 楽奈)",
+    "status": "generated"
+  },
+  {
+    "file": "rana-table-1-extra.mp3",
+    "speaker": "楽奈",
+    "lengthScale": 1.0,
+    "text": "おもしろそう。やる。",
+    "serviceStatus": "Berhasil Membuat ✅! (Speaker: 楽奈)",
+    "status": "generated"
+  },
+  {
+    "file": "rana-table-2-extra.mp3",
+    "speaker": "楽奈",
+    "lengthScale": 1.0,
+    "text": "早く始めよう。",
+    "serviceStatus": "Berhasil Membuat ✅! (Speaker: 楽奈)",
+    "status": "generated"
+  },
+  {
+    "file": "rana-play-1-extra.mp3",
+    "speaker": "楽奈",
+    "lengthScale": 1.0,
+    "text": "これ、つながる。",
+    "serviceStatus": "Berhasil Membuat ✅! (Speaker: 楽奈)",
+    "status": "generated"
+  },
+  {
+    "file": "rana-play-2-extra.mp3",
+    "speaker": "楽奈",
+    "lengthScale": 1.0,
+    "text": "こっちがいい。",
+    "serviceStatus": "Berhasil Membuat ✅! (Speaker: 楽奈)",
+    "status": "generated"
+  },
+  {
+    "file": "rana-pass-1-extra.mp3",
+    "speaker": "楽奈",
+    "lengthScale": 1.0,
+    "text": "今はいい。",
+    "serviceStatus": "Berhasil Membuat ✅! (Speaker: 楽奈)",
+    "status": "generated"
+  },
+  {
+    "file": "rana-pass-2-extra.mp3",
+    "speaker": "楽奈",
+    "lengthScale": 1.0,
+    "text": "……待つ。",
+    "serviceStatus": "Berhasil Membuat ✅! (Speaker: 楽奈)",
+    "status": "generated"
+  },
+  {
+    "file": "rana-chat-1-extra.mp3",
+    "speaker": "楽奈",
+    "lengthScale": 1.0,
+    "text": "終わったら、抹茶。",
+    "serviceStatus": "Berhasil Membuat ✅! (Speaker: 楽奈)",
+    "status": "generated"
+  },
+  {
+    "file": "rana-chat-2-extra.mp3",
+    "speaker": "楽奈",
+    "lengthScale": 1.0,
+    "text": "もう一回。おもしろいから。",
+    "serviceStatus": "Berhasil Membuat ✅! (Speaker: 楽奈)",
+    "status": "generated"
+  },
+  {
+    "file": "rana-reply-1-extra.mp3",
+    "speaker": "楽奈",
+    "lengthScale": 1.0,
+    "text": "うん。わかった。",
+    "serviceStatus": "Berhasil Membuat ✅! (Speaker: 楽奈)",
+    "status": "generated"
+  },
+  {
+    "file": "rana-reply-2-extra.mp3",
+    "speaker": "楽奈",
+    "lengthScale": 1.0,
+    "text": "それ、いいね。",
+    "serviceStatus": "Berhasil Membuat ✅! (Speaker: 楽奈)",
+    "status": "generated"
+  },
+  {
+    "file": "rana-win-1-extra.mp3",
+    "speaker": "楽奈",
+    "lengthScale": 1.0,
+    "text": "勝った。次は？",
+    "serviceStatus": "Berhasil Membuat ✅! (Speaker: 楽奈)",
+    "status": "generated"
+  },
+  {
+    "file": "rana-win-2-extra.mp3",
+    "speaker": "楽奈",
+    "lengthScale": 1.0,
+    "text": "おもしろかった。もっとやる。",
+    "serviceStatus": "Berhasil Membuat ✅! (Speaker: 楽奈)",
+    "status": "generated"
+  },
+  {
+    "file": "rana-lose-1-extra.mp3",
+    "speaker": "楽奈",
+    "lengthScale": 1.0,
+    "text": "負けた。もう一回。",
+    "serviceStatus": "Berhasil Membuat ✅! (Speaker: 楽奈)",
+    "status": "generated"
+  },
+  {
+    "file": "rana-lose-2-extra.mp3",
+    "speaker": "楽奈",
+    "lengthScale": 1.0,
+    "text": "次、違うのにする。",
+    "serviceStatus": "Berhasil Membuat ✅! (Speaker: 楽奈)",
+    "status": "generated"
+  },
+  {
+    "file": "rana-skill-1-extra.mp3",
+    "speaker": "楽奈",
+    "lengthScale": 1.0,
+    "text": "何か、ある。",
+    "serviceStatus": "Berhasil Membuat ✅! (Speaker: 楽奈)",
+    "status": "generated"
+  },
+  {
+    "file": "rana-skill-2-extra.mp3",
+    "speaker": "楽奈",
+    "lengthScale": 1.0,
+    "text": "見つけた。",
+    "serviceStatus": "Berhasil Membuat ✅! (Speaker: 楽奈)",
+    "status": "generated"
+  },
+  {
+    "file": "soyo-lobby-1-extra.mp3",
+    "speaker": "そよ",
+    "lengthScale": 1.0,
+    "text": "来てくれたんだ。こっち、空いてるよ。",
+    "serviceStatus": "Berhasil Membuat ✅! (Speaker: そよ)",
+    "status": "generated"
+  },
+  {
+    "file": "soyo-lobby-2-extra.mp3",
+    "speaker": "そよ",
+    "lengthScale": 1.0,
+    "text": "今日は少し、ゆっくりできそう？",
+    "serviceStatus": "Berhasil Membuat ✅! (Speaker: そよ)",
+    "status": "generated"
+  },
+  {
+    "file": "soyo-table-1-extra.mp3",
+    "speaker": "そよ",
+    "lengthScale": 1.0,
+    "text": "みんな、揃ったね。始めようか。",
+    "serviceStatus": "Berhasil Membuat ✅! (Speaker: そよ)",
+    "status": "generated"
+  },
+  {
+    "file": "soyo-table-2-extra.mp3",
+    "speaker": "そよ",
+    "lengthScale": 1.0,
+    "text": "焦らなくていいからね。",
+    "serviceStatus": "Berhasil Membuat ✅! (Speaker: そよ)",
+    "status": "generated"
+  },
+  {
+    "file": "soyo-play-1-extra.mp3",
+    "speaker": "そよ",
+    "lengthScale": 1.0,
+    "text": "じゃあ、これにしようかな。",
+    "serviceStatus": "Berhasil Membuat ✅! (Speaker: そよ)",
+    "status": "generated"
+  },
+  {
+    "file": "soyo-play-2-extra.mp3",
+    "speaker": "そよ",
+    "lengthScale": 1.0,
+    "text": "ここなら、出せそうね。",
+    "serviceStatus": "Berhasil Membuat ✅! (Speaker: そよ)",
+    "status": "generated"
+  },
+  {
+    "file": "soyo-pass-1-extra.mp3",
+    "speaker": "そよ",
+    "lengthScale": 1.0,
+    "text": "私は、少し待ってるね。",
+    "serviceStatus": "Berhasil Membuat ✅! (Speaker: そよ)",
+    "status": "generated"
+  },
+  {
+    "file": "soyo-pass-2-extra.mp3",
+    "speaker": "そよ",
+    "lengthScale": 1.0,
+    "text": "今は、出さないでおこうかな。",
+    "serviceStatus": "Berhasil Membuat ✅! (Speaker: そよ)",
+    "status": "generated"
+  },
+  {
+    "file": "soyo-chat-1-extra.mp3",
+    "speaker": "そよ",
+    "lengthScale": 1.0,
+    "text": "お茶、少し飲む？",
+    "serviceStatus": "Berhasil Membuat ✅! (Speaker: そよ)",
+    "status": "generated"
+  },
+  {
+    "file": "soyo-chat-2-extra.mp3",
+    "speaker": "そよ",
+    "lengthScale": 1.0,
+    "text": "無理に急がなくても、待ってるよ。",
+    "serviceStatus": "Berhasil Membuat ✅! (Speaker: そよ)",
+    "status": "generated"
+  },
+  {
+    "file": "soyo-reply-1-extra.mp3",
+    "speaker": "そよ",
+    "lengthScale": 1.0,
+    "text": "うん、助かる。ありがとう。",
+    "serviceStatus": "Berhasil Membuat ✅! (Speaker: そよ)",
+    "status": "generated"
+  },
+  {
+    "file": "soyo-reply-2-extra.mp3",
+    "speaker": "そよ",
+    "lengthScale": 1.0,
+    "text": "そうだね。続けてみようか。",
+    "serviceStatus": "Berhasil Membuat ✅! (Speaker: そよ)",
+    "status": "generated"
+  },
+  {
+    "file": "soyo-win-1-extra.mp3",
+    "speaker": "そよ",
+    "lengthScale": 1.0,
+    "text": "よかった。うまくつながったね。",
+    "serviceStatus": "Berhasil Membuat ✅! (Speaker: そよ)",
+    "status": "generated"
+  },
+  {
+    "file": "soyo-win-2-extra.mp3",
+    "speaker": "そよ",
+    "lengthScale": 1.0,
+    "text": "ありがとう。一緒だと、心強いね。",
+    "serviceStatus": "Berhasil Membuat ✅! (Speaker: そよ)",
+    "status": "generated"
+  },
+  {
+    "file": "soyo-lose-1-extra.mp3",
+    "speaker": "そよ",
+    "lengthScale": 1.0,
+    "text": "もう少し、考えればよかったかな。",
+    "serviceStatus": "Berhasil Membuat ✅! (Speaker: そよ)",
+    "status": "generated"
+  },
+  {
+    "file": "soyo-lose-2-extra.mp3",
+    "speaker": "そよ",
+    "lengthScale": 1.0,
+    "text": "そっか……次は気をつけるね。",
+    "serviceStatus": "Berhasil Membuat ✅! (Speaker: そよ)",
+    "status": "generated"
+  },
+  {
+    "file": "soyo-skill-1-extra.mp3",
+    "speaker": "そよ",
+    "lengthScale": 1.0,
+    "text": "少しだけ、確かめてもいい？",
+    "serviceStatus": "Berhasil Membuat ✅! (Speaker: そよ)",
+    "status": "generated"
+  },
+  {
+    "file": "soyo-skill-2-extra.mp3",
+    "speaker": "そよ",
+    "lengthScale": 1.0,
+    "text": "なるほど。覚えておくね。",
+    "serviceStatus": "Berhasil Membuat ✅! (Speaker: そよ)",
+    "status": "generated"
+  },
+  {
+    "file": "taki-lobby-1-extra.mp3",
+    "speaker": "立希",
+    "lengthScale": 1.0,
+    "text": "来たんだ。座れば？",
+    "serviceStatus": "Berhasil Membuat ✅! (Speaker: 立希)",
+    "status": "generated"
+  },
+  {
+    "file": "taki-lobby-2-extra.mp3",
+    "speaker": "立希",
+    "lengthScale": 1.0,
+    "text": "始めるなら、呼んで。",
+    "serviceStatus": "Berhasil Membuat ✅! (Speaker: 立希)",
+    "status": "generated"
+  },
+  {
+    "file": "taki-table-1-extra.mp3",
+    "speaker": "立希",
+    "lengthScale": 1.0,
+    "text": "準備できた？じゃ、いくよ。",
+    "serviceStatus": "Berhasil Membuat ✅! (Speaker: 立希)",
+    "status": "generated"
+  },
+  {
+    "file": "taki-table-2-extra.mp3",
+    "speaker": "立希",
+    "lengthScale": 1.0,
+    "text": "ちゃんと見てるから。",
+    "serviceStatus": "Berhasil Membuat ✅! (Speaker: 立希)",
+    "status": "generated"
+  },
+  {
+    "file": "taki-play-1-extra.mp3",
+    "speaker": "立希",
+    "lengthScale": 1.0,
+    "text": "ここは、これ。",
+    "serviceStatus": "Berhasil Membuat ✅! (Speaker: 立希)",
+    "status": "generated"
+  },
+  {
+    "file": "taki-play-2-extra.mp3",
+    "speaker": "立希",
+    "lengthScale": 1.0,
+    "text": "……よし、出す。",
+    "serviceStatus": "Berhasil Membuat ✅! (Speaker: 立希)",
+    "status": "generated"
+  },
+  {
+    "file": "taki-pass-1-extra.mp3",
+    "speaker": "立希",
+    "lengthScale": 1.0,
+    "text": "今は出さない。",
+    "serviceStatus": "Berhasil Membuat ✅! (Speaker: 立希)",
+    "status": "generated"
+  },
+  {
+    "file": "taki-pass-2-extra.mp3",
+    "speaker": "立希",
+    "lengthScale": 1.0,
+    "text": "次、頼む。",
+    "serviceStatus": "Berhasil Membuat ✅! (Speaker: 立希)",
+    "status": "generated"
+  },
+  {
+    "file": "taki-chat-1-extra.mp3",
+    "speaker": "立希",
+    "lengthScale": 1.0,
+    "text": "考えてるなら、待つけど。",
+    "serviceStatus": "Berhasil Membuat ✅! (Speaker: 立希)",
+    "status": "generated"
+  },
+  {
+    "file": "taki-chat-2-extra.mp3",
+    "speaker": "立希",
+    "lengthScale": 1.0,
+    "text": "休憩、入れる？無理すんなよ。",
+    "serviceStatus": "Berhasil Membuat ✅! (Speaker: 立希)",
+    "status": "generated"
+  },
+  {
+    "file": "taki-reply-1-extra.mp3",
+    "speaker": "立希",
+    "lengthScale": 1.0,
+    "text": "わかった。こっちは任せて。",
+    "serviceStatus": "Berhasil Membuat ✅! (Speaker: 立希)",
+    "status": "generated"
+  },
+  {
+    "file": "taki-reply-2-extra.mp3",
+    "speaker": "立希",
+    "lengthScale": 1.0,
+    "text": "助かった。ありがと。",
+    "serviceStatus": "Berhasil Membuat ✅! (Speaker: 立希)",
+    "status": "generated"
+  },
+  {
+    "file": "taki-win-1-extra.mp3",
+    "speaker": "立希",
+    "lengthScale": 1.0,
+    "text": "よし。うまくいったね。",
+    "serviceStatus": "Berhasil Membuat ✅! (Speaker: 立希)",
+    "status": "generated"
+  },
+  {
+    "file": "taki-win-2-extra.mp3",
+    "speaker": "立希",
+    "lengthScale": 1.0,
+    "text": "最後まで、つながってよかった。",
+    "serviceStatus": "Berhasil Membuat ✅! (Speaker: 立希)",
+    "status": "generated"
+  },
+  {
+    "file": "taki-lose-1-extra.mp3",
+    "speaker": "立希",
+    "lengthScale": 1.0,
+    "text": "……読み違えた。次は直す。",
+    "serviceStatus": "Berhasil Membuat ✅! (Speaker: 立希)",
+    "status": "generated"
+  },
+  {
+    "file": "taki-lose-2-extra.mp3",
+    "speaker": "立希",
+    "lengthScale": 1.0,
+    "text": "悔しいけど、もう一回。",
+    "serviceStatus": "Berhasil Membuat ✅! (Speaker: 立希)",
+    "status": "generated"
+  },
+  {
+    "file": "taki-skill-1-extra.mp3",
+    "speaker": "立希",
+    "lengthScale": 1.0,
+    "text": "確認する。ちょっと待って。",
+    "serviceStatus": "Berhasil Membuat ✅! (Speaker: 立希)",
+    "status": "generated"
+  },
+  {
+    "file": "taki-skill-2-extra.mp3",
+    "speaker": "立希",
+    "lengthScale": 1.0,
+    "text": "これで、次が見える。",
+    "serviceStatus": "Berhasil Membuat ✅! (Speaker: 立希)",
+    "status": "generated"
+  },
+  {
+    "file": "uika-lobby-1-extra.mp3",
+    "speaker": "初華",
+    "lengthScale": 1.0,
+    "text": "会えてうれしい。少し、一緒に過ごそう？",
+    "serviceStatus": "Berhasil Membuat ✅! (Speaker: 初華)",
+    "status": "generated"
+  },
+  {
+    "file": "uika-lobby-2-extra.mp3",
+    "speaker": "初華",
+    "lengthScale": 1.0,
+    "text": "こっち、空いてるよ。待ってた。",
+    "serviceStatus": "Berhasil Membuat ✅! (Speaker: 初華)",
+    "status": "generated"
+  },
+  {
+    "file": "uika-table-1-extra.mp3",
+    "speaker": "初華",
+    "lengthScale": 1.0,
+    "text": "よろしくね。落ち着いていこう。",
+    "serviceStatus": "Berhasil Membuat ✅! (Speaker: 初華)",
+    "status": "generated"
+  },
+  {
+    "file": "uika-table-2-extra.mp3",
+    "speaker": "初華",
+    "lengthScale": 1.0,
+    "text": "大丈夫。ちゃんと見てるから。",
+    "serviceStatus": "Berhasil Membuat ✅! (Speaker: 初華)",
+    "status": "generated"
+  },
+  {
+    "file": "uika-play-1-extra.mp3",
+    "speaker": "初華",
+    "lengthScale": 1.0,
+    "text": "じゃあ、この一枚で。",
+    "serviceStatus": "Berhasil Membuat ✅! (Speaker: 初華)",
+    "status": "generated"
+  },
+  {
+    "file": "uika-play-2-extra.mp3",
+    "speaker": "初華",
+    "lengthScale": 1.0,
+    "text": "ここは、私がつなぐね。",
+    "serviceStatus": "Berhasil Membuat ✅! (Speaker: 初華)",
+    "status": "generated"
+  },
+  {
+    "file": "uika-pass-1-extra.mp3",
+    "speaker": "初華",
+    "lengthScale": 1.0,
+    "text": "今は、そちらに任せるね。",
+    "serviceStatus": "Berhasil Membuat ✅! (Speaker: 初華)",
+    "status": "generated"
+  },
+  {
+    "file": "uika-pass-2-extra.mp3",
+    "speaker": "初華",
+    "lengthScale": 1.0,
+    "text": "少し、様子を見ようかな。",
+    "serviceStatus": "Berhasil Membuat ✅! (Speaker: 初華)",
+    "status": "generated"
+  },
+  {
+    "file": "uika-chat-1-extra.mp3",
+    "speaker": "初華",
+    "lengthScale": 1.0,
+    "text": "疲れてない？ひと息つこうか。",
+    "serviceStatus": "Berhasil Membuat ✅! (Speaker: 初華)",
+    "status": "generated"
+  },
+  {
+    "file": "uika-chat-2-extra.mp3",
+    "speaker": "初華",
+    "lengthScale": 1.0,
+    "text": "こうして話せるの、うれしいな。",
+    "serviceStatus": "Berhasil Membuat ✅! (Speaker: 初華)",
+    "status": "generated"
+  },
+  {
+    "file": "uika-reply-1-extra.mp3",
+    "speaker": "初華",
+    "lengthScale": 1.0,
+    "text": "うん。私も合わせるね。",
+    "serviceStatus": "Berhasil Membuat ✅! (Speaker: 初華)",
+    "status": "generated"
+  },
+  {
+    "file": "uika-reply-2-extra.mp3",
+    "speaker": "初華",
+    "lengthScale": 1.0,
+    "text": "ありがとう。頼りにしてる。",
+    "serviceStatus": "Berhasil Membuat ✅! (Speaker: 初華)",
+    "status": "generated"
+  },
+  {
+    "file": "uika-win-1-extra.mp3",
+    "speaker": "初華",
+    "lengthScale": 1.0,
+    "text": "よかった。最後まで一緒にできたね。",
+    "serviceStatus": "Berhasil Membuat ✅! (Speaker: 初華)",
+    "status": "generated"
+  },
+  {
+    "file": "uika-win-2-extra.mp3",
+    "speaker": "初華",
+    "lengthScale": 1.0,
+    "text": "うれしいね。また、付き合ってくれる？",
+    "serviceStatus": "Berhasil Membuat ✅! (Speaker: 初華)",
+    "status": "generated"
+  },
+  {
+    "file": "uika-lose-1-extra.mp3",
+    "speaker": "初華",
+    "lengthScale": 1.0,
+    "text": "私も、もう少し考えてみるね。",
+    "serviceStatus": "Berhasil Membuat ✅! (Speaker: 初華)",
+    "status": "generated"
+  },
+  {
+    "file": "uika-lose-2-extra.mp3",
+    "speaker": "初華",
+    "lengthScale": 1.0,
+    "text": "残念だったね。でも、また一緒に。",
+    "serviceStatus": "Berhasil Membuat ✅! (Speaker: 初華)",
+    "status": "generated"
+  },
+  {
+    "file": "uika-skill-1-extra.mp3",
+    "speaker": "初華",
+    "lengthScale": 1.0,
+    "text": "つなげられるか、確かめてみよう。",
+    "serviceStatus": "Berhasil Membuat ✅! (Speaker: 初華)",
+    "status": "generated"
+  },
+  {
+    "file": "uika-skill-2-extra.mp3",
+    "speaker": "初華",
+    "lengthScale": 1.0,
+    "text": "次の一手、少し見えてきたよ。",
+    "serviceStatus": "Berhasil Membuat ✅! (Speaker: 初華)",
+    "status": "generated"
+  },
+  {
+    "file": "mutsumi-quiet-lobby-1-extra.mp3",
+    "speaker": "睦",
+    "lengthScale": 1.0,
+    "text": "……ここに、いたんだ。",
+    "serviceStatus": "Berhasil Membuat ✅! (Speaker: 睦)",
+    "status": "generated"
+  },
+  {
+    "file": "mutsumi-quiet-lobby-2-extra.mp3",
+    "speaker": "睦",
+    "lengthScale": 1.0,
+    "text": "一緒に……いてもいい？",
+    "serviceStatus": "Berhasil Membuat ✅! (Speaker: 睦)",
+    "status": "generated"
+  },
+  {
+    "file": "mutsumi-quiet-table-1-extra.mp3",
+    "speaker": "睦",
+    "lengthScale": 1.0,
+    "text": "……始めよう。",
+    "serviceStatus": "Berhasil Membuat ✅! (Speaker: 睦)",
+    "status": "generated"
+  },
+  {
+    "file": "mutsumi-quiet-table-2-extra.mp3",
+    "speaker": "睦",
+    "lengthScale": 1.0,
+    "text": "ゆっくりで……いい。",
+    "serviceStatus": "Berhasil Membuat ✅! (Speaker: 睦)",
+    "status": "generated"
+  },
+  {
+    "file": "mutsumi-quiet-play-1-extra.mp3",
+    "speaker": "睦",
+    "lengthScale": 1.0,
+    "text": "……こっち。",
+    "serviceStatus": "Berhasil Membuat ✅! (Speaker: 睦)",
+    "status": "generated"
+  },
+  {
+    "file": "mutsumi-quiet-play-2-extra.mp3",
+    "speaker": "睦",
+    "lengthScale": 1.0,
+    "text": "これなら……出せる。",
+    "serviceStatus": "Berhasil Membuat ✅! (Speaker: 睦)",
+    "status": "generated"
+  },
+  {
+    "file": "mutsumi-quiet-pass-1-extra.mp3",
+    "speaker": "睦",
+    "lengthScale": 1.0,
+    "text": "……まだ。",
+    "serviceStatus": "Berhasil Membuat ✅! (Speaker: 睦)",
+    "status": "generated"
+  },
+  {
+    "file": "mutsumi-quiet-pass-2-extra.mp3",
+    "speaker": "睦",
+    "lengthScale": 1.0,
+    "text": "今は……やめておく。",
+    "serviceStatus": "Berhasil Membuat ✅! (Speaker: 睦)",
+    "status": "generated"
+  },
+  {
+    "file": "mutsumi-quiet-chat-1-extra.mp3",
+    "speaker": "睦",
+    "lengthScale": 1.0,
+    "text": "ここ……落ち着く。",
+    "serviceStatus": "Berhasil Membuat ✅! (Speaker: 睦)",
+    "status": "generated"
+  },
+  {
+    "file": "mutsumi-quiet-chat-2-extra.mp3",
+    "speaker": "睦",
+    "lengthScale": 1.0,
+    "text": "……そばに、いて。",
+    "serviceStatus": "Berhasil Membuat ✅! (Speaker: 睦)",
+    "status": "generated"
+  },
+  {
+    "file": "mutsumi-quiet-reply-1-extra.mp3",
+    "speaker": "睦",
+    "lengthScale": 1.0,
+    "text": "……わかった。",
+    "serviceStatus": "Berhasil Membuat ✅! (Speaker: 睦)",
+    "status": "generated"
+  },
+  {
+    "file": "mutsumi-quiet-reply-2-extra.mp3",
+    "speaker": "睦",
+    "lengthScale": 1.0,
+    "text": "うん……ありがとう。",
+    "serviceStatus": "Berhasil Membuat ✅! (Speaker: 睦)",
+    "status": "generated"
+  },
+  {
+    "file": "mutsumi-quiet-win-1-extra.mp3",
+    "speaker": "睦",
+    "lengthScale": 1.0,
+    "text": "……できた。",
+    "serviceStatus": "Berhasil Membuat ✅! (Speaker: 睦)",
+    "status": "generated"
+  },
+  {
+    "file": "mutsumi-quiet-win-2-extra.mp3",
+    "speaker": "睦",
+    "lengthScale": 1.0,
+    "text": "一緒で……よかった。",
+    "serviceStatus": "Berhasil Membuat ✅! (Speaker: 睦)",
+    "status": "generated"
+  },
+  {
+    "file": "mutsumi-quiet-lose-1-extra.mp3",
+    "speaker": "睦",
+    "lengthScale": 1.0,
+    "text": "……もう一度、考える。",
+    "serviceStatus": "Berhasil Membuat ✅! (Speaker: 睦)",
+    "status": "generated"
+  },
+  {
+    "file": "mutsumi-quiet-lose-2-extra.mp3",
+    "speaker": "睦",
+    "lengthScale": 1.0,
+    "text": "……次は。",
+    "serviceStatus": "Berhasil Membuat ✅! (Speaker: 睦)",
+    "status": "generated"
+  },
+  {
+    "file": "mutsumi-quiet-skill-1-extra.mp3",
+    "speaker": "睦",
+    "lengthScale": 1.0,
+    "text": "……つながってる。",
+    "serviceStatus": "Berhasil Membuat ✅! (Speaker: 睦)",
+    "status": "generated"
+  },
+  {
+    "file": "mutsumi-quiet-skill-2-extra.mp3",
+    "speaker": "睦",
+    "lengthScale": 1.0,
+    "text": "少し……見えた。",
+    "serviceStatus": "Berhasil Membuat ✅! (Speaker: 睦)",
+    "status": "generated"
+  },
+  {
+    "file": "mutsumi-mortis-lobby-1-extra.mp3",
+    "speaker": "睦",
+    "lengthScale": 0.92,
+    "text": "ねえ、こっち！隣、取っておいたよ。",
+    "serviceStatus": "Berhasil Membuat ✅! (Speaker: 睦)",
+    "status": "generated"
+  },
+  {
+    "file": "mutsumi-mortis-lobby-2-extra.mp3",
+    "speaker": "睦",
+    "lengthScale": 0.92,
+    "text": "やっと会えた。今日はゆっくりしていってね？",
+    "serviceStatus": "Berhasil Membuat ✅! (Speaker: 睦)",
+    "status": "generated"
+  },
+  {
+    "file": "mutsumi-mortis-table-1-extra.mp3",
+    "speaker": "睦",
+    "lengthScale": 0.92,
+    "text": "大丈夫、私も一緒だから！",
+    "serviceStatus": "Berhasil Membuat ✅! (Speaker: 睦)",
+    "status": "generated"
+  },
+  {
+    "file": "mutsumi-mortis-table-2-extra.mp3",
+    "speaker": "睦",
+    "lengthScale": 0.92,
+    "text": "難しい顔しないで。まず、やってみよ！",
+    "serviceStatus": "Berhasil Membuat ✅! (Speaker: 睦)",
+    "status": "generated"
+  },
+  {
+    "file": "mutsumi-mortis-play-1-extra.mp3",
+    "speaker": "睦",
+    "lengthScale": 0.92,
+    "text": "ふふ、こっちにしちゃお！",
+    "serviceStatus": "Berhasil Membuat ✅! (Speaker: 睦)",
+    "status": "generated"
+  },
+  {
+    "file": "mutsumi-mortis-play-2-extra.mp3",
+    "speaker": "睦",
+    "lengthScale": 0.92,
+    "text": "ほら、まだつながるよ！",
+    "serviceStatus": "Berhasil Membuat ✅! (Speaker: 睦)",
+    "status": "generated"
+  },
+  {
+    "file": "mutsumi-mortis-pass-1-extra.mp3",
+    "speaker": "睦",
+    "lengthScale": 0.92,
+    "text": "今は見てる！次、どうなるかな。",
+    "serviceStatus": "Berhasil Membuat ✅! (Speaker: 睦)",
+    "status": "generated"
+  },
+  {
+    "file": "mutsumi-mortis-pass-2-extra.mp3",
+    "speaker": "睦",
+    "lengthScale": 0.92,
+    "text": "いいよ、先にどうぞ！",
+    "serviceStatus": "Berhasil Membuat ✅! (Speaker: 睦)",
+    "status": "generated"
+  },
+  {
+    "file": "mutsumi-mortis-chat-1-extra.mp3",
+    "speaker": "睦",
+    "lengthScale": 0.92,
+    "text": "楽しいね。ずっとこうしていられたらいいのに。",
+    "serviceStatus": "Berhasil Membuat ✅! (Speaker: 睦)",
+    "status": "generated"
+  },
+  {
+    "file": "mutsumi-mortis-chat-2-extra.mp3",
+    "speaker": "睦",
+    "lengthScale": 0.92,
+    "text": "ね、私とも話してよ。ちゃんと聞いてるから！",
+    "serviceStatus": "Berhasil Membuat ✅! (Speaker: 睦)",
+    "status": "generated"
+  },
+  {
+    "file": "mutsumi-mortis-reply-1-extra.mp3",
+    "speaker": "睦",
+    "lengthScale": 0.92,
+    "text": "うんうん！それ、いいと思う！",
+    "serviceStatus": "Berhasil Membuat ✅! (Speaker: 睦)",
+    "status": "generated"
+  },
+  {
+    "file": "mutsumi-mortis-reply-2-extra.mp3",
+    "speaker": "睦",
+    "lengthScale": 0.92,
+    "text": "ありがと。いてくれると、ほっとする。",
+    "serviceStatus": "Berhasil Membuat ✅! (Speaker: 睦)",
+    "status": "generated"
+  },
+  {
+    "file": "mutsumi-mortis-win-1-extra.mp3",
+    "speaker": "睦",
+    "lengthScale": 0.92,
+    "text": "やったね！ねえ、楽しかった？",
+    "serviceStatus": "Berhasil Membuat ✅! (Speaker: 睦)",
+    "status": "generated"
+  },
+  {
+    "file": "mutsumi-mortis-win-2-extra.mp3",
+    "speaker": "睦",
+    "lengthScale": 0.92,
+    "text": "まだ時間あるよね？もう一回、付き合って！",
+    "serviceStatus": "Berhasil Membuat ✅! (Speaker: 睦)",
+    "status": "generated"
+  },
+  {
+    "file": "mutsumi-mortis-lose-1-extra.mp3",
+    "speaker": "睦",
+    "lengthScale": 0.92,
+    "text": "あれ、負けちゃった。……でも、楽しかったよね？",
+    "serviceStatus": "Berhasil Membuat ✅! (Speaker: 睦)",
+    "status": "generated"
+  },
+  {
+    "file": "mutsumi-mortis-lose-2-extra.mp3",
+    "speaker": "睦",
+    "lengthScale": 0.92,
+    "text": "次はうまくやるから。もう少しだけ、ね？",
+    "serviceStatus": "Berhasil Membuat ✅! (Speaker: 睦)",
+    "status": "generated"
+  },
+  {
+    "file": "mutsumi-mortis-skill-1-extra.mp3",
+    "speaker": "睦",
+    "lengthScale": 0.92,
+    "text": "あ、ちょっと気づいちゃった！",
+    "serviceStatus": "Berhasil Membuat ✅! (Speaker: 睦)",
+    "status": "generated"
+  },
+  {
+    "file": "mutsumi-mortis-skill-2-extra.mp3",
+    "speaker": "睦",
+    "lengthScale": 0.92,
+    "text": "ねえ、これってどういうことかな？",
+    "serviceStatus": "Berhasil Membuat ✅! (Speaker: 睦)",
+    "status": "generated"
+  },
+  {
+    "file": "umiri-lobby-1-extra.mp3",
+    "speaker": "海鈴",
+    "lengthScale": 1.0,
+    "text": "お疲れさまです。ご一緒しても？",
+    "serviceStatus": "Berhasil Membuat ✅! (Speaker: 海鈴)",
+    "status": "generated"
+  },
+  {
+    "file": "umiri-lobby-2-extra.mp3",
+    "speaker": "海鈴",
+    "lengthScale": 1.0,
+    "text": "少し時間があります。始めますか。",
+    "serviceStatus": "Berhasil Membuat ✅! (Speaker: 海鈴)",
+    "status": "generated"
+  },
+  {
+    "file": "umiri-table-1-extra.mp3",
+    "speaker": "海鈴",
+    "lengthScale": 1.0,
+    "text": "準備できています。いつでも。",
+    "serviceStatus": "Berhasil Membuat ✅! (Speaker: 海鈴)",
+    "status": "generated"
+  },
+  {
+    "file": "umiri-table-2-extra.mp3",
+    "speaker": "海鈴",
+    "lengthScale": 1.0,
+    "text": "では、よろしくお願いします。",
+    "serviceStatus": "Berhasil Membuat ✅! (Speaker: 海鈴)",
+    "status": "generated"
+  },
+  {
+    "file": "umiri-play-1-extra.mp3",
+    "speaker": "海鈴",
+    "lengthScale": 1.0,
+    "text": "こちらでいきます。",
+    "serviceStatus": "Berhasil Membuat ✅! (Speaker: 海鈴)",
+    "status": "generated"
+  },
+  {
+    "file": "umiri-play-2-extra.mp3",
+    "speaker": "海鈴",
+    "lengthScale": 1.0,
+    "text": "今なら、つなげます。",
+    "serviceStatus": "Berhasil Membuat ✅! (Speaker: 海鈴)",
+    "status": "generated"
+  },
+  {
+    "file": "umiri-pass-1-extra.mp3",
+    "speaker": "海鈴",
+    "lengthScale": 1.0,
+    "text": "ここは、待ちます。",
+    "serviceStatus": "Berhasil Membuat ✅! (Speaker: 海鈴)",
+    "status": "generated"
+  },
+  {
+    "file": "umiri-pass-2-extra.mp3",
+    "speaker": "海鈴",
+    "lengthScale": 1.0,
+    "text": "次に備えます。",
+    "serviceStatus": "Berhasil Membuat ✅! (Speaker: 海鈴)",
+    "status": "generated"
+  },
+  {
+    "file": "umiri-chat-1-extra.mp3",
+    "speaker": "海鈴",
+    "lengthScale": 1.0,
+    "text": "少し休みますか。合わせますよ。",
+    "serviceStatus": "Berhasil Membuat ✅! (Speaker: 海鈴)",
+    "status": "generated"
+  },
+  {
+    "file": "umiri-chat-2-extra.mp3",
+    "speaker": "海鈴",
+    "lengthScale": 1.0,
+    "text": "無理のないペースで、どうぞ。",
+    "serviceStatus": "Berhasil Membuat ✅! (Speaker: 海鈴)",
+    "status": "generated"
+  },
+  {
+    "file": "umiri-reply-1-extra.mp3",
+    "speaker": "海鈴",
+    "lengthScale": 1.0,
+    "text": "了解です。続けます。",
+    "serviceStatus": "Berhasil Membuat ✅! (Speaker: 海鈴)",
+    "status": "generated"
+  },
+  {
+    "file": "umiri-reply-2-extra.mp3",
+    "speaker": "海鈴",
+    "lengthScale": 1.0,
+    "text": "助かりました。ありがとうございます。",
+    "serviceStatus": "Berhasil Membuat ✅! (Speaker: 海鈴)",
+    "status": "generated"
+  },
+  {
+    "file": "umiri-win-1-extra.mp3",
+    "speaker": "海鈴",
+    "lengthScale": 1.0,
+    "text": "いい連携でしたね。",
+    "serviceStatus": "Berhasil Membuat ✅! (Speaker: 海鈴)",
+    "status": "generated"
+  },
+  {
+    "file": "umiri-win-2-extra.mp3",
+    "speaker": "海鈴",
+    "lengthScale": 1.0,
+    "text": "お疲れさまでした。またご一緒しましょう。",
+    "serviceStatus": "Berhasil Membuat ✅! (Speaker: 海鈴)",
+    "status": "generated"
+  },
+  {
+    "file": "umiri-lose-1-extra.mp3",
+    "speaker": "海鈴",
+    "lengthScale": 1.0,
+    "text": "判断が遅れました。次に活かします。",
+    "serviceStatus": "Berhasil Membuat ✅! (Speaker: 海鈴)",
+    "status": "generated"
+  },
+  {
+    "file": "umiri-lose-2-extra.mp3",
+    "speaker": "海鈴",
+    "lengthScale": 1.0,
+    "text": "一度、振り返っておきます。",
+    "serviceStatus": "Berhasil Membuat ✅! (Speaker: 海鈴)",
+    "status": "generated"
+  },
+  {
+    "file": "umiri-skill-1-extra.mp3",
+    "speaker": "海鈴",
+    "lengthScale": 1.0,
+    "text": "確認できました。",
+    "serviceStatus": "Berhasil Membuat ✅! (Speaker: 海鈴)",
+    "status": "generated"
+  },
+  {
+    "file": "umiri-skill-2-extra.mp3",
+    "speaker": "海鈴",
+    "lengthScale": 1.0,
+    "text": "この情報は、覚えておきましょう。",
+    "serviceStatus": "Berhasil Membuat ✅! (Speaker: 海鈴)",
+    "status": "generated"
+  },
+  {
+    "file": "nyamu-lobby-1-extra.mp3",
+    "speaker": "にゃむ",
+    "lengthScale": 1.0,
+    "text": "あ、来た！今日は一緒に遊んでくれるんだ？",
+    "serviceStatus": "Berhasil Membuat ✅! (Speaker: にゃむ)",
+    "status": "generated"
+  },
+  {
+    "file": "nyamu-lobby-2-extra.mp3",
+    "speaker": "にゃむ",
+    "lengthScale": 1.0,
+    "text": "こっち、おいでよ。いい席だよ！",
+    "serviceStatus": "Berhasil Membuat ✅! (Speaker: にゃむ)",
+    "status": "generated"
+  },
+  {
+    "file": "nyamu-table-1-extra.mp3",
+    "speaker": "にゃむ",
+    "lengthScale": 1.0,
+    "text": "にゃむのこと、ちゃんと見ててよ？",
+    "serviceStatus": "Berhasil Membuat ✅! (Speaker: にゃむ)",
+    "status": "generated"
+  },
+  {
+    "file": "nyamu-table-2-extra.mp3",
+    "speaker": "にゃむ",
+    "lengthScale": 1.0,
+    "text": "よーし、始めちゃお！",
+    "serviceStatus": "Berhasil Membuat ✅! (Speaker: にゃむ)",
+    "status": "generated"
+  },
+  {
+    "file": "nyamu-play-1-extra.mp3",
+    "speaker": "にゃむ",
+    "lengthScale": 1.0,
+    "text": "これはどう？いいでしょ！",
+    "serviceStatus": "Berhasil Membuat ✅! (Speaker: にゃむ)",
+    "status": "generated"
+  },
+  {
+    "file": "nyamu-play-2-extra.mp3",
+    "speaker": "にゃむ",
+    "lengthScale": 1.0,
+    "text": "はいっ、にゃむの番！",
+    "serviceStatus": "Berhasil Membuat ✅! (Speaker: にゃむ)",
+    "status": "generated"
+  },
+  {
+    "file": "nyamu-pass-1-extra.mp3",
+    "speaker": "にゃむ",
+    "lengthScale": 1.0,
+    "text": "んー、今回は見ててあげる。",
+    "serviceStatus": "Berhasil Membuat ✅! (Speaker: にゃむ)",
+    "status": "generated"
+  },
+  {
+    "file": "nyamu-pass-2-extra.mp3",
+    "speaker": "にゃむ",
+    "lengthScale": 1.0,
+    "text": "どうぞどうぞ。次はにゃむね！",
+    "serviceStatus": "Berhasil Membuat ✅! (Speaker: にゃむ)",
+    "status": "generated"
+  },
+  {
+    "file": "nyamu-chat-1-extra.mp3",
+    "speaker": "にゃむ",
+    "lengthScale": 1.0,
+    "text": "今の、見てた？見逃してないよね？",
+    "serviceStatus": "Berhasil Membuat ✅! (Speaker: にゃむ)",
+    "status": "generated"
+  },
+  {
+    "file": "nyamu-chat-2-extra.mp3",
+    "speaker": "にゃむ",
+    "lengthScale": 1.0,
+    "text": "もっと反応してよ。にゃむ、頑張ってるんだけど！",
+    "serviceStatus": "Berhasil Membuat ✅! (Speaker: にゃむ)",
+    "status": "generated"
+  },
+  {
+    "file": "nyamu-reply-1-extra.mp3",
+    "speaker": "にゃむ",
+    "lengthScale": 1.0,
+    "text": "いいじゃん！そういうの好き！",
+    "serviceStatus": "Berhasil Membuat ✅! (Speaker: にゃむ)",
+    "status": "generated"
+  },
+  {
+    "file": "nyamu-reply-2-extra.mp3",
+    "speaker": "にゃむ",
+    "lengthScale": 1.0,
+    "text": "ありがと！次もよろしくね！",
+    "serviceStatus": "Berhasil Membuat ✅! (Speaker: にゃむ)",
+    "status": "generated"
+  },
+  {
+    "file": "nyamu-win-1-extra.mp3",
+    "speaker": "にゃむ",
+    "lengthScale": 1.0,
+    "text": "どう？今日はにゃむの日って感じ！",
+    "serviceStatus": "Berhasil Membuat ✅! (Speaker: にゃむ)",
+    "status": "generated"
+  },
+  {
+    "file": "nyamu-win-2-extra.mp3",
+    "speaker": "にゃむ",
+    "lengthScale": 1.0,
+    "text": "やった！もう一回、見たいでしょ？",
+    "serviceStatus": "Berhasil Membuat ✅! (Speaker: にゃむ)",
+    "status": "generated"
+  },
+  {
+    "file": "nyamu-lose-1-extra.mp3",
+    "speaker": "にゃむ",
+    "lengthScale": 1.0,
+    "text": "えー、今のなし！……だめ？",
+    "serviceStatus": "Berhasil Membuat ✅! (Speaker: にゃむ)",
+    "status": "generated"
+  },
+  {
+    "file": "nyamu-lose-2-extra.mp3",
+    "speaker": "にゃむ",
+    "lengthScale": 1.0,
+    "text": "次はちゃんと決めるから。見てて！",
+    "serviceStatus": "Berhasil Membuat ✅! (Speaker: にゃむ)",
+    "status": "generated"
+  },
+  {
+    "file": "nyamu-skill-1-extra.mp3",
+    "speaker": "にゃむ",
+    "lengthScale": 1.0,
+    "text": "気になるなあ。ちょっと見せて？",
+    "serviceStatus": "Berhasil Membuat ✅! (Speaker: にゃむ)",
+    "status": "generated"
+  },
+  {
+    "file": "nyamu-skill-2-extra.mp3",
+    "speaker": "にゃむ",
+    "lengthScale": 1.0,
+    "text": "ふーん、そういうことね。",
+    "serviceStatus": "Berhasil Membuat ✅! (Speaker: にゃむ)",
+    "status": "generated"
+  },
+  {
+    "file": "sakiko-lobby-1-extra.mp3",
+    "speaker": "祥子",
+    "lengthScale": 1.03,
+    "text": "お待ちしていました。どうぞ、こちらへ。",
+    "serviceStatus": "Berhasil Membuat ✅! (Speaker: 祥子)",
+    "status": "generated"
+  },
+  {
+    "file": "sakiko-lobby-2-extra.mp3",
+    "speaker": "祥子",
+    "lengthScale": 1.03,
+    "text": "少し、息抜きにいかがですか。",
+    "serviceStatus": "Berhasil Membuat ✅! (Speaker: 祥子)",
+    "status": "generated"
+  },
+  {
+    "file": "sakiko-table-1-extra.mp3",
+    "speaker": "祥子",
+    "lengthScale": 1.03,
+    "text": "お手柔らかに、お願いいたします。",
+    "serviceStatus": "Berhasil Membuat ✅! (Speaker: 祥子)",
+    "status": "generated"
+  },
+  {
+    "file": "sakiko-table-2-extra.mp3",
+    "speaker": "祥子",
+    "lengthScale": 1.03,
+    "text": "では、落ち着いて参りましょう。",
+    "serviceStatus": "Berhasil Membuat ✅! (Speaker: 祥子)",
+    "status": "generated"
+  },
+  {
+    "file": "sakiko-play-1-extra.mp3",
+    "speaker": "祥子",
+    "lengthScale": 1.03,
+    "text": "今は、こちらがよさそうです。",
+    "serviceStatus": "Berhasil Membuat ✅! (Speaker: 祥子)",
+    "status": "generated"
+  },
+  {
+    "file": "sakiko-play-2-extra.mp3",
+    "speaker": "祥子",
+    "lengthScale": 1.03,
+    "text": "少し、試してみますわ。",
+    "serviceStatus": "Berhasil Membuat ✅! (Speaker: 祥子)",
+    "status": "generated"
+  },
+  {
+    "file": "sakiko-pass-1-extra.mp3",
+    "speaker": "祥子",
+    "lengthScale": 1.03,
+    "text": "今は、待つことにいたします。",
+    "serviceStatus": "Berhasil Membuat ✅! (Speaker: 祥子)",
+    "status": "generated"
+  },
+  {
+    "file": "sakiko-pass-2-extra.mp3",
+    "speaker": "祥子",
+    "lengthScale": 1.03,
+    "text": "どうぞ、お続けください。",
+    "serviceStatus": "Berhasil Membuat ✅! (Speaker: 祥子)",
+    "status": "generated"
+  },
+  {
+    "file": "sakiko-chat-1-extra.mp3",
+    "speaker": "祥子",
+    "lengthScale": 1.03,
+    "text": "少し休憩にいたしましょうか。",
+    "serviceStatus": "Berhasil Membuat ✅! (Speaker: 祥子)",
+    "status": "generated"
+  },
+  {
+    "file": "sakiko-chat-2-extra.mp3",
+    "speaker": "祥子",
+    "lengthScale": 1.03,
+    "text": "こういう時間も、悪くありませんね。",
+    "serviceStatus": "Berhasil Membuat ✅! (Speaker: 祥子)",
+    "status": "generated"
+  },
+  {
+    "file": "sakiko-reply-1-extra.mp3",
+    "speaker": "祥子",
+    "lengthScale": 1.03,
+    "text": "ええ、承知しました。",
+    "serviceStatus": "Berhasil Membuat ✅! (Speaker: 祥子)",
+    "status": "generated"
+  },
+  {
+    "file": "sakiko-reply-2-extra.mp3",
+    "speaker": "祥子",
+    "lengthScale": 1.03,
+    "text": "ありがとうございます。心強いですわ。",
+    "serviceStatus": "Berhasil Membuat ✅! (Speaker: 祥子)",
+    "status": "generated"
+  },
+  {
+    "file": "sakiko-win-1-extra.mp3",
+    "speaker": "祥子",
+    "lengthScale": 1.03,
+    "text": "うまくいきましたね。ありがとうございます。",
+    "serviceStatus": "Berhasil Membuat ✅! (Speaker: 祥子)",
+    "status": "generated"
+  },
+  {
+    "file": "sakiko-win-2-extra.mp3",
+    "speaker": "祥子",
+    "lengthScale": 1.03,
+    "text": "最後まで気を配れました。よかったですわ。",
+    "serviceStatus": "Berhasil Membuat ✅! (Speaker: 祥子)",
+    "status": "generated"
+  },
+  {
+    "file": "sakiko-lose-1-extra.mp3",
+    "speaker": "祥子",
+    "lengthScale": 1.03,
+    "text": "もう少し、慎重にすべきでした。",
+    "serviceStatus": "Berhasil Membuat ✅! (Speaker: 祥子)",
+    "status": "generated"
+  },
+  {
+    "file": "sakiko-lose-2-extra.mp3",
+    "speaker": "祥子",
+    "lengthScale": 1.03,
+    "text": "勉強になりました。次に活かします。",
+    "serviceStatus": "Berhasil Membuat ✅! (Speaker: 祥子)",
+    "status": "generated"
+  },
+  {
+    "file": "sakiko-skill-1-extra.mp3",
+    "speaker": "祥子",
+    "lengthScale": 1.03,
+    "text": "ひとつ、確認させていただきます。",
+    "serviceStatus": "Berhasil Membuat ✅! (Speaker: 祥子)",
+    "status": "generated"
+  },
+  {
+    "file": "sakiko-skill-2-extra.mp3",
+    "speaker": "祥子",
+    "lengthScale": 1.03,
+    "text": "そういうことでしたのね。",
+    "serviceStatus": "Berhasil Membuat ✅! (Speaker: 祥子)",
+    "status": "generated"
+  }
+]

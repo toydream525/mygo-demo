@@ -1,0 +1,189 @@
+{
+  "reports": [
+    {
+      "mode": "classic",
+      "strong": "standard",
+      "weak": "casual",
+      "pairedDeals": 1000,
+      "games": 2000,
+      "steps": 77062,
+      "strongWinRate": 0.614,
+      "paired95CI": [
+        0.5944880938685919,
+        0.6335119061314081
+      ],
+      "characters": {
+        "tomori": {
+          "lordGames": 200,
+          "lordWins": 113,
+          "farmerGames": 400,
+          "farmerWins": 306
+        },
+        "anon": {
+          "lordGames": 201,
+          "lordWins": 76,
+          "farmerGames": 399,
+          "farmerWins": 288
+        },
+        "rana": {
+          "lordGames": 199,
+          "lordWins": 98,
+          "farmerGames": 401,
+          "farmerWins": 295
+        },
+        "soyo": {
+          "lordGames": 201,
+          "lordWins": 105,
+          "farmerGames": 399,
+          "farmerWins": 310
+        },
+        "taki": {
+          "lordGames": 199,
+          "lordWins": 82,
+          "farmerGames": 401,
+          "farmerWins": 309
+        }
+      }
+    },
+    {
+      "mode": "classic",
+      "strong": "expert",
+      "weak": "standard",
+      "pairedDeals": 1000,
+      "games": 2000,
+      "steps": 69020,
+      "strongWinRate": 0.86,
+      "paired95CI": [
+        0.8460095327750224,
+        0.8739904672249775
+      ],
+      "characters": {
+        "tomori": {
+          "lordGames": 200,
+          "lordWins": 169,
+          "farmerGames": 400,
+          "farmerWins": 354
+        },
+        "anon": {
+          "lordGames": 201,
+          "lordWins": 164,
+          "farmerGames": 399,
+          "farmerWins": 365
+        },
+        "rana": {
+          "lordGames": 199,
+          "lordWins": 165,
+          "farmerGames": 401,
+          "farmerWins": 355
+        },
+        "soyo": {
+          "lordGames": 201,
+          "lordWins": 162,
+          "farmerGames": 399,
+          "farmerWins": 357
+        },
+        "taki": {
+          "lordGames": 199,
+          "lordWins": 165,
+          "farmerGames": 401,
+          "farmerWins": 359
+        }
+      }
+    },
+    {
+      "mode": "skills",
+      "strong": "standard",
+      "weak": "casual",
+      "pairedDeals": 1000,
+      "games": 2000,
+      "steps": 84566,
+      "strongWinRate": 0.6355,
+      "paired95CI": [
+        0.6161975585003387,
+        0.6548024414996612
+      ],
+      "characters": {
+        "tomori": {
+          "lordGames": 200,
+          "lordWins": 110,
+          "farmerGames": 400,
+          "farmerWins": 312
+        },
+        "anon": {
+          "lordGames": 201,
+          "lordWins": 73,
+          "farmerGames": 399,
+          "farmerWins": 311
+        },
+        "rana": {
+          "lordGames": 199,
+          "lordWins": 115,
+          "farmerGames": 401,
+          "farmerWins": 308
+        },
+        "soyo": {
+          "lordGames": 201,
+          "lordWins": 94,
+          "farmerGames": 399,
+          "farmerWins": 317
+        },
+        "taki": {
+          "lordGames": 199,
+          "lordWins": 95,
+          "farmerGames": 401,
+          "farmerWins": 320
+        }
+      }
+    },
+    {
+      "mode": "skills",
+      "strong": "expert",
+      "weak": "standard",
+      "pairedDeals": 1000,
+      "games": 2000,
+      "steps": 76284,
+      "strongWinRate": 0.8585,
+      "paired95CI": [
+        0.8444645620688945,
+        0.8725354379311056
+      ],
+      "characters": {
+        "tomori": {
+          "lordGames": 200,
+          "lordWins": 168,
+          "farmerGames": 400,
+          "farmerWins": 352
+        },
+        "anon": {
+          "lordGames": 201,
+          "lordWins": 170,
+          "farmerGames": 399,
+          "farmerWins": 361
+        },
+        "rana": {
+          "lordGames": 199,
+          "lordWins": 163,
+          "farmerGames": 401,
+          "farmerWins": 355
+        },
+        "soyo": {
+          "lordGames": 201,
+          "lordWins": 161,
+          "farmerGames": 399,
+          "farmerWins": 357
+        },
+        "taki": {
+          "lordGames": 199,
+          "lordWins": 164,
+          "farmerGames": 401,
+          "farmerWins": 357
+        }
+      }
+    }
+  ],
+  "modelInferenceMs": {
+    "n": 71998,
+    "p95": 2.148041000000376,
+    "max": 44.64254200000141
+  }
+}

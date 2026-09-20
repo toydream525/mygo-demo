@@ -1,0 +1,16 @@
+import {useContext} from 'react';
+import {ThemeContext,mujicaMotifs} from './theme';
+import type {CSSProperties,PointerEvent,MouseEvent} from 'react';
+import {deckSongs} from './songs';
+import {rankLabel,type Card} from './engine';
+type Props={card?:Card;small?:boolean;selected?:boolean;style?:CSSProperties;onPointerDown?:(e:PointerEvent<HTMLButtonElement>)=>void;onClick?:(e:MouseEvent<HTMLButtonElement>)=>void;disabled?:boolean;'data-card-id'?:number};
+
+export default function PlayingCard({card,small=false,selected=false,...rest}:Props){
+ const theme=useContext(ThemeContext),band=theme==='mygo'?'MyGO!!!!!':'Ave Mujica';
+ const red=card&&(card.suit===1||card.suit===2||card.rank===17);
+ return <button tabIndex={rest.onClick||rest.onPointerDown?0:-1} aria-label={card?`${['黑桃','红桃','方块','梅花',''][card.suit]}${rankLabel(card.rank)}`:'底牌未揭晓'} aria-pressed={rest.onPointerDown?selected:undefined} className={`playing-card music-card ${theme==='mujica'?'theatre-card':''} song-motif-${card?(card.rank%4):0} ${small?'small':''} ${red?'red':''} ${!card?'back':''} ${selected?'selected':''}`} {...rest}>
+ {card?<><span className="card-corner">{card.rank>=16?<span className="joker-name">{card.rank===17?'大':'小'}<br/>王</span>:<>{rankLabel(card.rank)}<small>{['♠','♥','♦','♣'][card.suit]}</small></>}</span>
+ {theme==='mujica'?<><span className="theatre-rail">☾<i>◆</i>☽</span><svg className="theatre-emblem" viewBox="0 0 100 140" aria-hidden="true"><path className="theatre-frame" d="M10 125V30Q10 18 23 18L50 5 77 18Q90 18 90 30V125M17 120V34Q17 25 27 25L50 14 73 25Q83 25 83 34V120"/><path d="M67 30C37 20 27 57 48 70C16 64 15 22 45 20Q60 19 67 30Z"/><path className="theatre-mask" d="M26 61Q50 48 74 61L70 87Q50 113 30 87Z"/><path d="M34 70Q40 65 46 72M54 72Q60 65 66 70M43 87Q50 92 57 87M50 66V82M24 119L50 108 76 119 50 131Z"/>{card.rank>=11&&card.rank<=15&&<path d="M30 47L27 32 41 39 50 27 59 39 73 32 70 47Z"/>}{card.rank>=16&&<path d="M26 57L13 39 37 49 50 33 63 49 87 39 74 57M36 92L30 111 50 100 70 111 64 92"/>}</svg></>:<><span className="music-rail">•••<i>♪</i>••</span><svg className="music-emblem" viewBox="0 0 100 140" aria-hidden="true"><circle cx="57" cy="65" r="32"/><ellipse cx="57" cy="65" rx="43" ry="17" transform="rotate(-48 57 65)"/><path d="M57 26 65 54 89 65 65 73 57 105 49 74 25 65 49 55Z"/><path className="music-wave" d="M15 113h9v-8h4v16h4V99h4v31h4v-18h5v-9h4v19h4v-15h5v6h27"/><path d="M23 20 72 14 90 42M72 14 57 65 90 42"/><circle cx="23" cy="20" r="2"/><circle cx="72" cy="14" r="2"/><circle cx="90" cy="42" r="2"/></svg></>}
+ <span className="card-pip">{card.rank>=16?(theme==='mujica'?(card.rank===17?'☀':'☾'):'✦'):['♠','♥','♦','♣'][card.suit]}</span><span className="card-brand">{theme==='mygo'?deckSongs[card.rank]:mujicaMotifs[card.rank]}</span><span className="card-edition">{band}</span></>:<><span className="back-orbit"/>{theme==='mujica'?<svg className="theatre-back" viewBox="0 0 100 140" aria-hidden="true"><path d="M50 8 88 32V105L50 132 12 105V32ZM50 18 80 37V100L50 122 20 100V37Z"/><path d="M69 30C28 23 28 64 55 68C16 75 10 21 50 22ZM25 69Q50 56 75 69L69 95 50 110 31 95Z"/><path d="M33 78 44 81M56 81 67 78M43 95Q50 100 57 95"/></svg>:<span className="back-star">✧</span>}<span className="back-band">{band}</span></>}
+ </button>;
+}

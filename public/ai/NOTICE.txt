@@ -1,0 +1,24 @@
+DouZero: Mastering DouDizhu with Self-Play Deep Reinforcement Learning
+Authors: Daochen Zha and the DouZero contributors; AI Platform, Kwai Inc.
+Original code: https://github.com/kwai/DouZero
+Code revision: 718a5c920bf3361e34178a38f3b80458e176b351
+License: Apache License 2.0 (DOUZERO-LICENSE.txt)
+
+This distribution includes converted ONNX versions of the three DouZero-WP
+checkpoints. The original repository's Google Drive folder returned HTTP 404
+at retrieval. The WP checkpoints were retrieved from the Apache-2.0-licensed
+DouZero derivative below, whose README identifies them as DouZero-WP:
+https://github.com/tianqiraf/DouZero_For_HappyDouDiZhu
+Revision: c01062592f362cfb77d6af14a34c2cbcfa614fd2
+Paths: baselines/douzero_WP/{landlord,landlord_up,landlord_down}.ckpt
+The online-game automation code of that repository is NOT included or used.
+
+Modifications: exported to ONNX opset 17; compute the identical LSTM history
+embedding once per information set and expand it across legal actions.
+No retraining. Numerical parity report: conversion-report.json.
+Game rules, character styles and public skill modifiers are this demo's additions.
+The added skills were not part of the model's original training.
+
+ONNX Runtime Web 1.22.0, Microsoft Corporation and contributors.
+MIT License (ONNXRUNTIME-LICENSE.txt).
+All inference runs locally in a browser worker; no inference server is used.
