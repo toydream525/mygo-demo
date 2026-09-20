@@ -1,4 +1,4 @@
-# 迷星牌局
+# 迷星牌局 · MyGO!!!!! × Ave Mujica 纸牌游戏
 
 MyGO!!!!! × Ave Mujica 双乐队纸牌馆，非官方同人网页游戏。
 
